@@ -180,7 +180,7 @@
 - [toxiproxy](https://github.com/Shopify/toxiproxy) - :alarm_clock: :fire: A TCP proxy to simulate network and system conditions for chaos and resiliency testing
 - [gopass](https://github.com/gopasspw/gopass) - The slightly more awesome standard unix password manager for teams
 - [inlets](https://github.com/inlets/inlets) - Cloud Native Tunnel for APIs
-- [pipeline](https://github.com/tektoncd/pipeline) - A K8s-native Pipeline resource.
+- [pipeline](https://github.com/tektoncd/pipeline) - A cloud-native Pipeline resource.
 - [guestbook-workshop](https://github.com/sethp-nr/guestbook-workshop) - A small workshop to serve as an introduction to Kubebuilder
 - [sampler](https://github.com/sqshq/sampler) - Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.
 - [testcontainers-go](https://github.com/testcontainers/testcontainers-go) - Testcontainers is a Golang library that providing a friendly API to run Docker container. It is designed to create runtime environment to use during your automatic tests.
@@ -233,7 +233,7 @@
 - [chalktalk](https://github.com/kenperlin/chalktalk) - 
 - [gcf_spinnaker](https://github.com/duftler/gcf_spinnaker) - Spinnaker audit log using Google Cloud Functions
 - [metallb](https://github.com/metallb/metallb) - A network load-balancer implementation for Kubernetes using standard routing protocols
-- [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of hosting and managing applications instead of renting from Software-as-a-Service providers
+- [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [relaxed-terminal-themes](https://github.com/Relaxed-Theme/relaxed-terminal-themes) - 🕶️ A relaxed terminal theme to take a more relaxed view of things. For iTerm, Hyper, the macOS Terminal and a bunch of others.
 
 ## Jupyter Notebook 
