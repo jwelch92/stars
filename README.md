@@ -140,7 +140,7 @@
 - [argo-cd](https://github.com/argoproj/argo-cd) - Declarative continuous deployment for Kubernetes.
 - [newrelic-kubernetes-operator](https://github.com/newrelic/newrelic-kubernetes-operator) - Operator to create New Relic configuration in Kubernetes
 - [admiralty](https://github.com/admiraltyio/admiralty) - A system of Kubernetes controllers that intelligently schedules workloads across clusters.
-- [immudb](https://github.com/codenotary/immudb) - immudb is a lightweight, high-speed immutable database for systems and applications
+- [immudb](https://github.com/codenotary/immudb) - immudb - world’s fastest immutable database
 - [kaf](https://github.com/birdayz/kaf) - Modern CLI for Apache Kafka, written in Go.
 - [applicationset](https://github.com/argoproj-labs/applicationset) - Argo CD ApplicationSet
 - [kong](https://github.com/alecthomas/kong) - Kong is a command-line parser for Go
