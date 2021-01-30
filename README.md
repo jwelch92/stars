@@ -97,6 +97,7 @@
 
 ## Go 
 
+- [berty](https://github.com/berty/berty) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [terraform-provider-honeycombio](https://github.com/kvrhdn/terraform-provider-honeycombio) - A Terraform provider for Honeycomb.io
 - [staticfiles](https://github.com/bouk/staticfiles) - staticfiles compiles a directory of files into an embeddable .go file
@@ -261,6 +262,7 @@
 
 ## Others 
 
+- [market-toolkit](https://github.com/ckz8780/market-toolkit) - A collection of stock market resources and tools
 - [awesome-ecs](https://github.com/nathanpeck/awesome-ecs) - A curated list of awesome ECS guides, development tools, and resources
 - [madr](https://github.com/adr/madr) - Markdown Architectural Decision Records
 - [awesome-pyproject](https://github.com/carlosperate/awesome-pyproject) - An Awesome List of projects using the pyproject.toml Python configuration file.
