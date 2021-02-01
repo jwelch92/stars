@@ -41,6 +41,7 @@
 
 ## C 
 
+- [nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager.
 - [tini](https://github.com/krallin/tini) - A tiny but valid `init` for containers
 - [qmk_firmware](https://github.com/qmk/qmk_firmware) - Open-source keyboard firmware for Atmel AVR and Arm USB families
 - [ponyc](https://github.com/ponylang/ponyc) - :horse: Pony is an open-source, actor-model, capabilities-secure, high performance programming language
@@ -97,6 +98,7 @@
 
 ## Go 
 
+- [demo](https://github.com/saschagrunert/demo) - A framework for performing live pre-recorded command line demos in the wild 📼
 - [berty](https://github.com/berty/berty) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [terraform-provider-honeycombio](https://github.com/kvrhdn/terraform-provider-honeycombio) - A Terraform provider for Honeycomb.io
@@ -222,6 +224,7 @@
 
 ## JavaScript 
 
+- [shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
 - [Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
 - [preact](https://github.com/preactjs/preact) - ⚛️ Fast 3kB React alternative with the same modern API. Components & Virtual DOM.
 - [htm](https://github.com/developit/htm) - Hyperscript Tagged Markup: JSX alternative using standard tagged templates, with compiler support.
@@ -262,6 +265,7 @@
 
 ## Others 
 
+- [if-then-else](https://github.com/ericfischer/if-then-else) - !!Con West 2019 talk
 - [market-toolkit](https://github.com/ckz8780/market-toolkit) - A collection of stock market resources and tools
 - [awesome-ecs](https://github.com/nathanpeck/awesome-ecs) - A curated list of awesome ECS guides, development tools, and resources
 - [madr](https://github.com/adr/madr) - Markdown Architectural Decision Records
@@ -283,6 +287,7 @@
 
 ## PHP 
 
+- [Shaarli](https://github.com/shaarli/Shaarli) - The personal, minimalist, super-fast, database free, bookmarking service - community repo
 - [Twilio](https://github.com/SeekTom/Twilio) - 
 
 ## Perl 
@@ -291,6 +296,9 @@
 
 ## Python 
 
+- [percol](https://github.com/mooz/percol) - adds flavor of interactive filtering to the traditional pipe concept of UNIX shell
+- [subreddit-analyzer](https://github.com/PhantomInsights/subreddit-analyzer) - A comprehensive Data and Text Mining workflow for submissions and comments from any given public subreddit.
+- [Dain-App](https://github.com/BurguerJohn/Dain-App) - Source code for Dain-App
 - [superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [loguru](https://github.com/Delgan/loguru) - Python logging made (stupidly) simple
 - [python-zeep](https://github.com/mvantellingen/python-zeep) - A modern/fast python SOAP client based on lxml / requests
