@@ -198,6 +198,7 @@
 
 ## HCL 
 
+- [terraform-aws-health-notifications](https://github.com/trussworks/terraform-aws-health-notifications) - Health Notifications
 - [ecs-microservices-orchestration](https://github.com/msfidelis/ecs-microservices-orchestration) - :cloud: :whale: :zap: :rocket:  :package: Complete microservices orchestration on ECS on AWS using Terraform
 - [ecs-pipeline](https://github.com/msfidelis/ecs-pipeline) - :cloud: :whale: :zap: :rocket: Create environment and deployment pipelines to ECS Fargate with CodePipeline, CodeBuild and Github using Terraform
 - [terraform-ecs](https://github.com/arminc/terraform-ecs) - AWS ECS terraform module
