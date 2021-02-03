@@ -297,6 +297,7 @@
 
 ## Python 
 
+- [archivy](https://github.com/archivy/archivy) - Archivy is a self-hosted knowledge repository that allows you to safely preserve useful content that contributes to your own personal, searchable and extendable wiki.
 - [percol](https://github.com/mooz/percol) - adds flavor of interactive filtering to the traditional pipe concept of UNIX shell
 - [subreddit-analyzer](https://github.com/PhantomInsights/subreddit-analyzer) - A comprehensive Data and Text Mining workflow for submissions and comments from any given public subreddit.
 - [Dain-App](https://github.com/BurguerJohn/Dain-App) - Source code for Dain-App
