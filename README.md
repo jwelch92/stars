@@ -297,6 +297,13 @@
 
 ## Python 
 
+- [Bowler](https://github.com/facebookincubator/Bowler) - Safe code refactoring for modern Python.
+- [funcy](https://github.com/Suor/funcy) - A fancy and practical functional tools
+- [more-itertools](https://github.com/more-itertools/more-itertools) - More routines for operating on iterables, beyond itertools
+- [saws](https://github.com/donnemartin/saws) - A supercharged AWS command line interface (CLI).
+- [mycli](https://github.com/dbcli/mycli) - A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.
+- [awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
+- [uvloop](https://github.com/MagicStack/uvloop) - Ultra fast asyncio event loop.
 - [archivy](https://github.com/archivy/archivy) - Archivy is a self-hosted knowledge repository that allows you to safely preserve useful content that contributes to your own personal, searchable and extendable wiki.
 - [percol](https://github.com/mooz/percol) - adds flavor of interactive filtering to the traditional pipe concept of UNIX shell
 - [subreddit-analyzer](https://github.com/PhantomInsights/subreddit-analyzer) - A comprehensive Data and Text Mining workflow for submissions and comments from any given public subreddit.
