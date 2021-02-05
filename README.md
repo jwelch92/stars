@@ -98,6 +98,8 @@
 
 ## Go 
 
+- [honeytail](https://github.com/honeycombio/honeytail) - Honeycomb's open-source agent. Contains various parsers for extracting structured data out of common log files.
+- [honeyaws](https://github.com/honeycombio/honeyaws) - Observability for your AWS load balancers, CloudFront, and more
 - [demo](https://github.com/saschagrunert/demo) - A framework for performing live pre-recorded command line demos in the wild 📼
 - [berty](https://github.com/berty/berty) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
@@ -297,6 +299,7 @@
 
 ## Python 
 
+- [chalice](https://github.com/aws/chalice) - Python Serverless Microframework for AWS
 - [Bowler](https://github.com/facebookincubator/Bowler) - Safe code refactoring for modern Python.
 - [funcy](https://github.com/Suor/funcy) - A fancy and practical functional tools
 - [more-itertools](https://github.com/more-itertools/more-itertools) - More routines for operating on iterables, beyond itertools
