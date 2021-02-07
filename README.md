@@ -299,6 +299,7 @@
 
 ## Python 
 
+- [parsimonious](https://github.com/erikrose/parsimonious) - The fastest pure-Python PEG parser I can muster
 - [pyjq](https://github.com/doloopwhile/pyjq) - A Python binding for ./jq
 - [chalice](https://github.com/aws/chalice) - Python Serverless Microframework for AWS
 - [Bowler](https://github.com/facebookincubator/Bowler) - Safe code refactoring for modern Python.
