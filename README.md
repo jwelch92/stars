@@ -300,6 +300,8 @@
 
 ## Python 
 
+- [black](https://github.com/psf/black) - The uncompromising Python code formatter
+- [rich](https://github.com/willmcgugan/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [Reddit-Stock-Trends](https://github.com/iam-abbas/Reddit-Stock-Trends) - Fetch currently trending stocks on Reddit
 - [dash-recipes](https://github.com/plotly/dash-recipes) - A collection of scripts and examples created while answering questions from the greater Dash community
 - [parsimonious](https://github.com/erikrose/parsimonious) - The fastest pure-Python PEG parser I can muster
