@@ -50,7 +50,7 @@
 
 ## C# # 
 
-- [ValheimPlus](https://github.com/nxPublic/ValheimPlus) - A HarmonyX Mod aimed at improving the gameplay of Valheim
+- [ValheimPlus](https://github.com/valheimPlus/ValheimPlus) - A HarmonyX Mod aimed at improving the gameplay of Valheim
 - [Harmony](https://github.com/pardeike/Harmony) - A library for patching, replacing and decorating .NET and Mono methods during runtime
 - [VTOLVR-Multiplayer](https://github.com/Temperz87/VTOLVR-Multiplayer) - The multiplayer mod repository. The multiplayer is currently separate from the mod loader its self but once it is in a better state, it will be merged in with the mod loader.
 
