@@ -228,6 +228,7 @@
 
 ## JavaScript 
 
+- [node-openid-client](https://github.com/panva/node-openid-client) - OpenID Certified™ Relying Party (OpenID Connect/OAuth 2.0 Client) implementation for Node.js.
 - [shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
 - [Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
 - [preact](https://github.com/preactjs/preact) - ⚛️ Fast 3kB React alternative with the same modern API. Components & Virtual DOM.
