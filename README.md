@@ -41,7 +41,7 @@
 
 ## C 
 
-- [nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager.
+- [nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
 - [tini](https://github.com/krallin/tini) - A tiny but valid `init` for containers
 - [qmk_firmware](https://github.com/qmk/qmk_firmware) - Open-source keyboard firmware for Atmel AVR and Arm USB families
 - [ponyc](https://github.com/ponylang/ponyc) - :horse: Pony is an open-source, actor-model, capabilities-secure, high performance programming language
@@ -178,7 +178,7 @@
 - [talk-needctx](https://github.com/anexia-it/talk-needctx) - Code examples of need context golang talk
 - [patchbay-simple-server](https://github.com/patchbay-pub/patchbay-simple-server) - Intended to serve as a starting point for a self-hostable version of patchbay
 - [patchbay](https://github.com/patchbay-pub/patchbay) - Libary and CLI tools for interacting with patchbay servers
-- [fyne](https://github.com/fyne-io/fyne) - Cross platform GUI in Go based on Material Design
+- [fyne](https://github.com/fyne-io/fyne) - Cross platform GUI in Go inspired by Material Design
 - [starlark-spinnaker](https://github.com/ethanfrogers/starlark-spinnaker) - A repo for toying with Starlark as a way to generate Spinnaker pipelines
 - [ent](https://github.com/ent/ent) - An entity framework for Go
 - [env](https://github.com/caarlos0/env) - Simple lib to parse environment variables to structs
