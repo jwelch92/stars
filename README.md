@@ -99,6 +99,7 @@
 
 ## Go 
 
+- [onepanel](https://github.com/onepanelio/onepanel) - The open and extensible integrated development environment (IDE) for computer vision with built-in modules for model building, automated labeling, data processing, model training, hyperparameter tuning and workflow orchestration.
 - [honeytail](https://github.com/honeycombio/honeytail) - Honeycomb's open-source agent. Contains various parsers for extracting structured data out of common log files.
 - [honeyaws](https://github.com/honeycombio/honeyaws) - Observability for your AWS load balancers, CloudFront, and more
 - [demo](https://github.com/saschagrunert/demo) - A framework for performing live pre-recorded command line demos in the wild 📼
@@ -228,6 +229,7 @@
 
 ## JavaScript 
 
+- [emojme](https://github.com/jackellenberger/emojme) - :rotating_light: very powerful very stupid Slack emoji tools, holy cow! :rotating_light:
 - [node-openid-client](https://github.com/panva/node-openid-client) - OpenID Certified™ Relying Party (OpenID Connect/OAuth 2.0 Client) implementation for Node.js.
 - [shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
 - [Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
@@ -301,6 +303,7 @@
 
 ## Python 
 
+- [pyinfra](https://github.com/Fizzadar/pyinfra) - pyinfra automates infrastructure super fast at massive scale. It can be used for ad-hoc command execution, service deployment, configuration management and more.
 - [black](https://github.com/psf/black) - The uncompromising Python code formatter
 - [rich](https://github.com/willmcgugan/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [Reddit-Stock-Trends](https://github.com/iam-abbas/Reddit-Stock-Trends) - Fetch currently trending stocks on Reddit
