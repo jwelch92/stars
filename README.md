@@ -186,7 +186,7 @@
 - [telebot](https://github.com/tucnak/telebot) - Telebot is a Telegram bot framework in Go.
 - [toxiproxy](https://github.com/Shopify/toxiproxy) - :alarm_clock: :fire: A TCP proxy to simulate network and system conditions for chaos and resiliency testing
 - [gopass](https://github.com/gopasspw/gopass) - The slightly more awesome standard unix password manager for teams
-- [inlets](https://github.com/inlets/inlets) - Cloud Native Tunnel for APIs
+- [inlets](https://github.com/inlets/inlets) - Cloud Native Tunnel
 - [pipeline](https://github.com/tektoncd/pipeline) - A cloud-native Pipeline resource.
 - [guestbook-workshop](https://github.com/sethp-nr/guestbook-workshop) - A small workshop to serve as an introduction to Kubebuilder
 - [sampler](https://github.com/sqshq/sampler) - Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.
@@ -374,6 +374,7 @@
 
 ## Rust 
 
+- [nushell](https://github.com/nushell/nushell) - A new type of shell
 - [watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications
 - [just](https://github.com/casey/just) - 🤖 Just a command runner
 - [sad](https://github.com/ms-jpq/sad) - CLI search and replace | Space Age seD
