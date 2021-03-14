@@ -232,7 +232,6 @@
 - [emojme](https://github.com/jackellenberger/emojme) - :rotating_light: very powerful very stupid Slack emoji tools, holy cow! :rotating_light:
 - [node-openid-client](https://github.com/panva/node-openid-client) - OpenID Certified™ Relying Party (OpenID Connect/OAuth 2.0 Client) implementation for Node.js.
 - [shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
-- [Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
 - [preact](https://github.com/preactjs/preact) - ⚛️ Fast 3kB React alternative with the same modern API. Components & Virtual DOM.
 - [htm](https://github.com/developit/htm) - Hyperscript Tagged Markup: JSX alternative using standard tagged templates, with compiler support.
 - [markdownload](https://github.com/deathau/markdownload) - A Firefox and Google Chrome extension to clip websites and download them into a readable markdown file.
@@ -435,6 +434,7 @@
 ## TypeScript 
 
 - [mkdocs-material](https://github.com/squidfunk/mkdocs-material) - A Material Design theme for MkDocs
+- [Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
 - [wasmoon](https://github.com/ceifa/wasmoon) - A real lua VM with JS bindings made with webassembly
 - [backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals
 - [turbolinks](https://github.com/turbolinks/turbolinks) - Turbolinks makes navigating your web application faster
