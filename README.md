@@ -210,6 +210,7 @@
 
 ## HTML 
 
+- [awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
 - [copier-poetry](https://github.com/pawamoy/copier-poetry) - A copier template for a Python package managed by Poetry.
 - [awesome-eks](https://github.com/realvz/awesome-eks) - A curated list of awesome tools for Amazon EKS 🌊
 - [beautiful-jekyll](https://github.com/daattali/beautiful-jekyll) - ✨ Build a beautiful and simple website in literally minutes. Demo at https://beautifuljekyll.com
@@ -271,6 +272,7 @@
 
 ## Others 
 
+- [project-based-learning](https://github.com/tuvtran/project-based-learning) - Curated list of project-based tutorials
 - [if-then-else](https://github.com/ericfischer/if-then-else) - !!Con West 2019 talk
 - [market-toolkit](https://github.com/ckz8780/market-toolkit) - A collection of stock market resources and tools
 - [awesome-ecs](https://github.com/nathanpeck/awesome-ecs) - A curated list of awesome ECS guides, development tools, and resources
@@ -302,6 +304,7 @@
 
 ## Python 
 
+- [GamestonkTerminal](https://github.com/DidierRLopes/GamestonkTerminal) - The next best thing after Bloomberg Terminal
 - [graphene](https://github.com/graphql-python/graphene) - GraphQL framework for Python
 - [ariadne](https://github.com/mirumee/ariadne) - Ariadne is a Python library for implementing GraphQL servers using schema-first approach.
 - [DumpsterDiver](https://github.com/securing/DumpsterDiver) - Tool to search secrets in various filetypes.
