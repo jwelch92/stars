@@ -99,6 +99,7 @@
 
 ## Go 
 
+- [kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management
 - [onepanel](https://github.com/onepanelio/onepanel) - The open and extensible integrated development environment (IDE) for computer vision with built-in modules for model building, automated labeling, data processing, model training, hyperparameter tuning and workflow orchestration.
 - [honeytail](https://github.com/honeycombio/honeytail) - Honeycomb's open-source agent. Contains various parsers for extracting structured data out of common log files.
 - [honeyaws](https://github.com/honeycombio/honeyaws) - Observability for your AWS load balancers, CloudFront, and more
@@ -304,6 +305,7 @@
 
 ## Python 
 
+- [piku](https://github.com/piku/piku) - The tiniest PaaS you've ever seen. Piku allows you to do git push deployments to your own servers.
 - [GamestonkTerminal](https://github.com/DidierRLopes/GamestonkTerminal) - The next best thing after Bloomberg Terminal
 - [graphene](https://github.com/graphql-python/graphene) - GraphQL framework for Python
 - [ariadne](https://github.com/mirumee/ariadne) - Ariadne is a Python library for implementing GraphQL servers using schema-first approach.
@@ -398,6 +400,7 @@
 
 ## Shell 
 
+- [dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [benchmark](https://github.com/fivetran/benchmark) - Benchmark data warehouses under Fivetran-like conditions
 - [ecs-refarch-continuous-deployment](https://github.com/awslabs/ecs-refarch-continuous-deployment) - ECS Reference Architecture for creating a flexible and scalable deployment pipeline to Amazon ECS using AWS CodePipeline
 - [container.training](https://github.com/jpetazzo/container.training) - Slides and code samples for training, tutorials, and workshops about Docker, containers, and Kubernetes.
