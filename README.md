@@ -231,6 +231,7 @@
 
 ## JavaScript 
 
+- [osk/node-webvtt](https://github.com/osk/node-webvtt) - Parse WebVTT files, segments and generates HLS playlists for them
 - [jackellenberger/emojme](https://github.com/jackellenberger/emojme) - :rotating_light: very powerful very stupid Slack emoji tools, holy cow! :rotating_light:
 - [panva/node-openid-client](https://github.com/panva/node-openid-client) - OpenID Certified™ Relying Party (OpenID Connect/OAuth 2.0 Client) implementation for Node.js.
 - [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
@@ -305,6 +306,7 @@
 
 ## Python 
 
+- [glut23/webvtt-py](https://github.com/glut23/webvtt-py) - Read, write and segment WebVTT caption files in Python.
 - [jonaswinkler/paperless-ng](https://github.com/jonaswinkler/paperless-ng) - A supercharged version of paperless: scan, index and archive all your physical documents
 - [piku/piku](https://github.com/piku/piku) - The tiniest PaaS you've ever seen. Piku allows you to do git push deployments to your own servers.
 - [DidierRLopes/GamestonkTerminal](https://github.com/DidierRLopes/GamestonkTerminal) - The next best thing after Bloomberg Terminal
