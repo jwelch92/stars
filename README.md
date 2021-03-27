@@ -181,6 +181,7 @@
 - [patchbay-pub/patchbay-simple-server](https://github.com/patchbay-pub/patchbay-simple-server) - Intended to serve as a starting point for a self-hostable version of patchbay
 - [patchbay-pub/patchbay](https://github.com/patchbay-pub/patchbay) - Libary and CLI tools for interacting with patchbay servers
 - [fyne-io/fyne](https://github.com/fyne-io/fyne) - Cross platform GUI in Go inspired by Material Design
+- [metallb/metallb](https://github.com/metallb/metallb) - A network load-balancer implementation for Kubernetes using standard routing protocols
 - [ethanfrogers/starlark-spinnaker](https://github.com/ethanfrogers/starlark-spinnaker) - A repo for toying with Starlark as a way to generate Spinnaker pipelines
 - [ent/ent](https://github.com/ent/ent) - An entity framework for Go
 - [caarlos0/env](https://github.com/caarlos0/env) - Simple lib to parse environment variables to structs
@@ -245,7 +246,6 @@
 - [hovancik/stretchly](https://github.com/hovancik/stretchly) - The break time reminder app
 - [kenperlin/chalktalk](https://github.com/kenperlin/chalktalk) - 
 - [duftler/gcf_spinnaker](https://github.com/duftler/gcf_spinnaker) - Spinnaker audit log using Google Cloud Functions
-- [metallb/metallb](https://github.com/metallb/metallb) - A network load-balancer implementation for Kubernetes using standard routing protocols
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [Relaxed-Theme/relaxed-terminal-themes](https://github.com/Relaxed-Theme/relaxed-terminal-themes) - 🕶️ A relaxed terminal theme to take a more relaxed view of things. For iTerm, Hyper, the macOS Terminal and a bunch of others.
 
