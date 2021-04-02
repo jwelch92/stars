@@ -410,7 +410,7 @@
 - [awslabs/ecs-refarch-continuous-deployment](https://github.com/awslabs/ecs-refarch-continuous-deployment) - ECS Reference Architecture for creating a flexible and scalable deployment pipeline to Amazon ECS using AWS CodePipeline
 - [jpetazzo/container.training](https://github.com/jpetazzo/container.training) - Slides and code samples for training, tutorials, and workshops about Docker, containers, and Kubernetes.
 - [kind-ci/examples](https://github.com/kind-ci/examples) - Repository providing samples and testing for running sigs.k8s.io/kind on various CI services
-- [nestybox/sysbox](https://github.com/nestybox/sysbox) - Sysbox repository
+- [nestybox/sysbox](https://github.com/nestybox/sysbox) - An open-source, next-generation "runc" that empowers rootless containers to run workloads such as Systemd, Docker, Kubernetes, just like VMs.
 - [xombiemp/ultimate-torrent-setup](https://github.com/xombiemp/ultimate-torrent-setup) - All the files needed for the Ultimate Torrent Setup, featuring Ubuntu, rtorrent, ruTorrent, Sonarr, Radarr.
 - [dnephin/pre-commit-golang](https://github.com/dnephin/pre-commit-golang) - Golang hooks for pre-commit
 - [gitwatch/gitwatch](https://github.com/gitwatch/gitwatch) - Watch a file or folder and automatically commit changes to a git repo easily.
@@ -427,7 +427,7 @@
 - [sorin-ionescu/prezto](https://github.com/sorin-ionescu/prezto) - The configuration framework for Zsh
 - [subnixr/minimal](https://github.com/subnixr/minimal) - A minimal zsh theme
 - [fatk/docker-letsencrypt-nginx-proxy-companion-examples](https://github.com/fatk/docker-letsencrypt-nginx-proxy-companion-examples) - Examples for combining docker-gen and letsencrypt-nginx-proxy-companion
-- [nginx-proxy/docker-letsencrypt-nginx-proxy-companion](https://github.com/nginx-proxy/docker-letsencrypt-nginx-proxy-companion) - LetsEncrypt companion container for nginx-proxy
+- [nginx-proxy/docker-letsencrypt-nginx-proxy-companion](https://github.com/nginx-proxy/docker-letsencrypt-nginx-proxy-companion) - Automated ACME SSL certificate generation for nginx-proxy
 
 ## Smarty 
 
