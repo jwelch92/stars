@@ -214,7 +214,7 @@
 ## HTML 
 
 - [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
-- [pawamoy/copier-poetry](https://github.com/pawamoy/copier-poetry) - A copier template for a Python package managed by Poetry.
+- [pawamoy/copier-poetry](https://github.com/pawamoy/copier-poetry) - Copier template for Python projects managed by Poetry.
 - [realvz/awesome-eks](https://github.com/realvz/awesome-eks) - A curated list of awesome tools for Amazon EKS 🌊
 - [daattali/beautiful-jekyll](https://github.com/daattali/beautiful-jekyll) - ✨ Build a beautiful and simple website in literally minutes. Demo at https://beautifuljekyll.com
 - [spinnaker/deck-customized](https://github.com/spinnaker/deck-customized) - Spinnaker Deck with customizations
