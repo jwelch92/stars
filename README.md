@@ -310,6 +310,7 @@
 
 ## Python 
 
+- [dictation-toolbox/dragonfly](https://github.com/dictation-toolbox/dragonfly) - Speech recognition framework allowing powerful Python-based scripting and extension of Dragon NaturallySpeaking (DNS), Windows Speech Recognition (WSR), Kaldi and CMU Pocket Sphinx
 - [mailgun/expiringdict](https://github.com/mailgun/expiringdict) - Dictionary with auto-expiring values for caching purposes.
 - [gto76/python-cheatsheet](https://github.com/gto76/python-cheatsheet) - Comprehensive Python Cheatsheet
 - [glut23/webvtt-py](https://github.com/glut23/webvtt-py) - Read, write and segment WebVTT caption files in Python.
@@ -409,6 +410,7 @@
 
 ## Shell 
 
+- [kaldi-asr/kaldi](https://github.com/kaldi-asr/kaldi) - kaldi-asr/kaldi is the official location of the Kaldi project.
 - [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [fivetran/benchmark](https://github.com/fivetran/benchmark) - Benchmark data warehouses under Fivetran-like conditions
 - [awslabs/ecs-refarch-continuous-deployment](https://github.com/awslabs/ecs-refarch-continuous-deployment) - ECS Reference Architecture for creating a flexible and scalable deployment pipeline to Amazon ECS using AWS CodePipeline
