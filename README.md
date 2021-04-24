@@ -160,7 +160,7 @@
 - [jonas747/yagpdb](https://github.com/jonas747/yagpdb) - Yet another general purpose discord bot
 - [tektoncd/triggers](https://github.com/tektoncd/triggers) - Event triggering with Tekton!
 - [GoogleContainerTools/skaffold](https://github.com/GoogleContainerTools/skaffold) - Easy and Repeatable Kubernetes Development
-- [GoogleContainerTools/kpt](https://github.com/GoogleContainerTools/kpt) - 
+- [GoogleContainerTools/kpt](https://github.com/GoogleContainerTools/kpt) - A toolkit to help you manage, manipulate, customize, and apply Kubernetes Resource configuration files
 - [turnage/graw](https://github.com/turnage/graw) - Golang Reddit API Wrapper
 - [sahilm/fuzzy](https://github.com/sahilm/fuzzy) - Go library that provides fuzzy string matching optimized for filenames and code symbols in the style of Sublime Text, VSCode, IntelliJ IDEA et al.
 - [openfaas/faas-netes](https://github.com/openfaas/faas-netes) - Kubernetes controller for OpenFaaS
