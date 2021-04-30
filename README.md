@@ -236,6 +236,7 @@
 
 ## JavaScript 
 
+- [mr-smithers-excellent/docker-build-push](https://github.com/mr-smithers-excellent/docker-build-push) - Docker Build & Push GitHub Action
 - [osk/node-webvtt](https://github.com/osk/node-webvtt) - Parse WebVTT files, segments and generates HLS playlists for them
 - [jackellenberger/emojme](https://github.com/jackellenberger/emojme) - :rotating_light: very powerful very stupid Slack emoji tools, holy cow! :rotating_light:
 - [panva/node-openid-client](https://github.com/panva/node-openid-client) - OpenID Certified™ Relying Party (OpenID Connect/OAuth 2.0 Client) implementation for Node.js.
