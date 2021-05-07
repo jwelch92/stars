@@ -99,6 +99,9 @@
 
 ## Go 
 
+- [segmentio/ksuid](https://github.com/segmentio/ksuid) - K-Sortable Globally Unique IDs
+- [segmentio/kubeapply](https://github.com/segmentio/kubeapply) - A lightweight tool for git-based management of Kubernetes configs
+- [nsqio/nsq](https://github.com/nsqio/nsq) - A realtime distributed messaging platform
 - [elves/elvish](https://github.com/elves/elvish) - Elvish = Expressive Programming Language + Versatile Interactive Shell
 - [honeycombio/beeline-go](https://github.com/honeycombio/beeline-go) - Easy instrumentation for golang apps with Honeycomb
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄
@@ -313,6 +316,8 @@
 
 ## Python 
 
+- [Netflix/bless](https://github.com/Netflix/bless) - Repository for BLESS, an SSH Certificate Authority that runs as a AWS Lambda function
+- [aws-samples/aws-cdk-examples](https://github.com/aws-samples/aws-cdk-examples) - Example projects using the AWS CDK
 - [profusion/sgqlc](https://github.com/profusion/sgqlc) - Simple GraphQL Client
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [knausj85/knausj_talon](https://github.com/knausj85/knausj_talon) - Config for talon for Mac, Windows and Linux. Very much in progress.
