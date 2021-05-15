@@ -99,6 +99,7 @@
 
 ## Go 
 
+- [AkihiroSuda/lima](https://github.com/AkihiroSuda/lima) - Lima: Linux-on-Mac ("macOS subsystem for Linux", "containerd for Mac")
 - [segmentio/ksuid](https://github.com/segmentio/ksuid) - K-Sortable Globally Unique IDs
 - [segmentio/kubeapply](https://github.com/segmentio/kubeapply) - A lightweight tool for git-based management of Kubernetes configs
 - [nsqio/nsq](https://github.com/nsqio/nsq) - A realtime distributed messaging platform
@@ -211,6 +212,7 @@
 
 ## HCL 
 
+- [hashicorp/terraform-aws-nomad](https://github.com/hashicorp/terraform-aws-nomad) - A Terraform Module for how to run Nomad on AWS using Terraform and Packer
 - [trussworks/terraform-aws-health-notifications](https://github.com/trussworks/terraform-aws-health-notifications) - Health Notifications
 - [msfidelis/ecs-microservices-orchestration](https://github.com/msfidelis/ecs-microservices-orchestration) - :cloud: :whale: :zap: :rocket:  :package: Complete microservices orchestration on ECS on AWS using Terraform
 - [msfidelis/ecs-pipeline](https://github.com/msfidelis/ecs-pipeline) - :cloud: :whale: :zap: :rocket: Create environment and deployment pipelines to ECS Fargate with CodePipeline, CodeBuild and Github using Terraform
