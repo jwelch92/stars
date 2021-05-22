@@ -467,6 +467,7 @@
 
 ## TypeScript 
 
+- [vitling/acid-banger](https://github.com/vitling/acid-banger) - The Endless Acid Banger
 - [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - A Material Design theme for MkDocs
 - [wulkano/Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
