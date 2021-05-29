@@ -86,6 +86,7 @@
 
 ## Dockerfile 
 
+- [serverless/github-action](https://github.com/serverless/github-action) - :zap::octocat: A Github Action for deploying with the Serverless Framework
 - [michael0liver/python-poetry-docker-example](https://github.com/michael0liver/python-poetry-docker-example) - Example of integrating Poetry with Docker leveraging multi-stage builds.
 - [docker-library/ghost](https://github.com/docker-library/ghost) - Docker Official Image packaging for Ghost
 
@@ -216,6 +217,7 @@
 
 ## HCL 
 
+- [FormidableLabs/terraform-aws-serverless](https://github.com/FormidableLabs/terraform-aws-serverless) - Infrastructure support for Serverless framework apps, done the right way
 - [hashicorp/terraform-aws-nomad](https://github.com/hashicorp/terraform-aws-nomad) - A Terraform Module for how to run Nomad on AWS using Terraform and Packer
 - [trussworks/terraform-aws-health-notifications](https://github.com/trussworks/terraform-aws-health-notifications) - Health Notifications
 - [msfidelis/ecs-microservices-orchestration](https://github.com/msfidelis/ecs-microservices-orchestration) - :cloud: :whale: :zap: :rocket:  :package: Complete microservices orchestration on ECS on AWS using Terraform
@@ -246,6 +248,8 @@
 
 ## JavaScript 
 
+- [pinojs/pino](https://github.com/pinojs/pino) - 🌲 super fast, all natural json logger 🌲
+- [localstack/serverless-localstack](https://github.com/localstack/serverless-localstack) - ⚡ Serverless plugin for running against LocalStack
 - [mysqljs/mysql](https://github.com/mysqljs/mysql) - A pure node.js JavaScript Client implementing the MySQL protocol.
 - [aws-actions/configure-aws-credentials](https://github.com/aws-actions/configure-aws-credentials) - Configure AWS credential environment variables for use in other GitHub Actions.
 - [aws-actions/amazon-ecr-login](https://github.com/aws-actions/amazon-ecr-login) - Logs into Amazon ECR with the local Docker client.
@@ -472,6 +476,7 @@
 
 ## TypeScript 
 
+- [FormidableLabs/urql](https://github.com/FormidableLabs/urql) - The highly customizable and versatile GraphQL client with which you add on features like normalized caching as you grow.
 - [intuit/auto](https://github.com/intuit/auto) - Generate releases based on semantic version labels on pull requests.
 - [vitling/acid-banger](https://github.com/vitling/acid-banger) - The Endless Acid Banger
 - [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
