@@ -217,6 +217,13 @@
 
 ## HCL 
 
+- [terraform-aws-modules/terraform-aws-pricing](https://github.com/terraform-aws-modules/terraform-aws-pricing) - Terraform module which calculates price of AWS infrastructure (from Terraform state and plan)
+- [terraform-aws-modules/terraform-aws-alb](https://github.com/terraform-aws-modules/terraform-aws-alb) - Terraform module to create an AWS Application/Network Load Balancer (ALB/NLB) and associated resources
+- [terraform-aws-modules/terraform-aws-security-group](https://github.com/terraform-aws-modules/terraform-aws-security-group) - Terraform module which creates EC2-VPC security groups on AWS
+- [terraform-aws-modules/terraform-aws-atlantis](https://github.com/terraform-aws-modules/terraform-aws-atlantis) - Terraform configurations for running Atlantis on AWS Fargate. Github, Gitlab and BitBucket are supported
+- [terraform-aws-modules/terraform-aws-rds](https://github.com/terraform-aws-modules/terraform-aws-rds) - Terraform module which creates RDS resources on AWS
+- [terraform-aws-modules/terraform-aws-vpc](https://github.com/terraform-aws-modules/terraform-aws-vpc) - Terraform module which creates VPC resources on AWS
+- [terraform-aws-modules/terraform-aws-eks](https://github.com/terraform-aws-modules/terraform-aws-eks) - Terraform module to create an Elastic Kubernetes (EKS) cluster and associated worker instances on AWS
 - [FormidableLabs/terraform-aws-serverless](https://github.com/FormidableLabs/terraform-aws-serverless) - Infrastructure support for Serverless framework apps, done the right way
 - [hashicorp/terraform-aws-nomad](https://github.com/hashicorp/terraform-aws-nomad) - A Terraform Module for how to run Nomad on AWS using Terraform and Packer
 - [trussworks/terraform-aws-health-notifications](https://github.com/trussworks/terraform-aws-health-notifications) - Health Notifications
@@ -330,6 +337,7 @@
 
 ## Python 
 
+- [jina-ai/jina](https://github.com/jina-ai/jina) - An easier way to build neural search on the cloud
 - [Netflix/bless](https://github.com/Netflix/bless) - Repository for BLESS, an SSH Certificate Authority that runs as a AWS Lambda function
 - [aws-samples/aws-cdk-examples](https://github.com/aws-samples/aws-cdk-examples) - Example projects using the AWS CDK
 - [profusion/sgqlc](https://github.com/profusion/sgqlc) - Simple GraphQL Client
