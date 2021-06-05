@@ -34,7 +34,6 @@
   - [Rust](#rust)
   - [SCSS](#scss)
   - [Shell](#shell)
-  - [Smarty](#smarty)
   - [Swift](#swift)
   - [TypeScript](#typescript)
   - [Vim script](#vim-script)
@@ -102,6 +101,8 @@
 
 ## Go 
 
+- [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
+- [gruntwork-io/terragrunt](https://github.com/gruntwork-io/terragrunt) - Terragrunt is a thin wrapper for Terraform that provides extra tools for working with multiple Terraform modules.
 - [cortesi/devd](https://github.com/cortesi/devd) - A local webserver for developers
 - [cortesi/modd](https://github.com/cortesi/modd) - A flexible developer tool that runs processes and responds to filesystem changes
 - [bcicen/slackcat](https://github.com/bcicen/slackcat) - CLI utility to post files and command output to slack
@@ -255,6 +256,7 @@
 
 ## JavaScript 
 
+- [serverless/serverless](https://github.com/serverless/serverless) - ⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! –
 - [pinojs/pino](https://github.com/pinojs/pino) - 🌲 super fast, all natural json logger 🌲
 - [localstack/serverless-localstack](https://github.com/localstack/serverless-localstack) - ⚡ Serverless plugin for running against LocalStack
 - [mysqljs/mysql](https://github.com/mysqljs/mysql) - A pure node.js JavaScript Client implementing the MySQL protocol.
@@ -274,7 +276,6 @@
 - [carbon-app/carbon](https://github.com/carbon-app/carbon) - :black_heart: Create and share beautiful images of your source code
 - [hovancik/stretchly](https://github.com/hovancik/stretchly) - The break time reminder app
 - [kenperlin/chalktalk](https://github.com/kenperlin/chalktalk) - 
-- [duftler/gcf_spinnaker](https://github.com/duftler/gcf_spinnaker) - Spinnaker audit log using Google Cloud Functions
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [Relaxed-Theme/relaxed-terminal-themes](https://github.com/Relaxed-Theme/relaxed-terminal-themes) - 🕶️ A relaxed terminal theme to take a more relaxed view of things. For iTerm, Hyper, the macOS Terminal and a bunch of others.
 
@@ -303,6 +304,7 @@
 
 ## Others 
 
+- [datasciencemasters/go](https://github.com/datasciencemasters/go) - The Open Source Data Science Masters
 - [tailscale/github-action](https://github.com/tailscale/github-action) - A GitHub Action to connect your workflow to your Tailscale network.
 - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
 - [tuvtran/project-based-learning](https://github.com/tuvtran/project-based-learning) - Curated list of project-based tutorials
@@ -337,6 +339,8 @@
 
 ## Python 
 
+- [boto/boto3](https://github.com/boto/boto3) - AWS SDK for Python
+- [donnemartin/awesome-aws](https://github.com/donnemartin/awesome-aws) - A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources.  Featuring the Fiery Meter of AWSome.
 - [jina-ai/jina](https://github.com/jina-ai/jina) - An easier way to build neural search on the cloud
 - [Netflix/bless](https://github.com/Netflix/bless) - Repository for BLESS, an SSH Certificate Authority that runs as a AWS Lambda function
 - [aws-samples/aws-cdk-examples](https://github.com/aws-samples/aws-cdk-examples) - Example projects using the AWS CDK
@@ -424,6 +428,8 @@
 
 ## Rust 
 
+- [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
+- [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
 - [watchexec/watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications
@@ -444,6 +450,7 @@
 
 ## Shell 
 
+- [ramitsurana/awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) - A curated list for awesome kubernetes sources :ship::tada:
 - [kaldi-asr/kaldi](https://github.com/kaldi-asr/kaldi) - kaldi-asr/kaldi is the official location of the Kaldi project.
 - [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [fivetran/benchmark](https://github.com/fivetran/benchmark) - Benchmark data warehouses under Fivetran-like conditions
@@ -468,10 +475,6 @@
 - [subnixr/minimal](https://github.com/subnixr/minimal) - A minimal zsh theme
 - [fatk/docker-letsencrypt-nginx-proxy-companion-examples](https://github.com/fatk/docker-letsencrypt-nginx-proxy-companion-examples) - Examples for combining docker-gen and letsencrypt-nginx-proxy-companion
 - [nginx-proxy/acme-companion](https://github.com/nginx-proxy/acme-companion) - Automated ACME SSL certificate generation for nginx-proxy
-
-## Smarty 
-
-- [armory-io/spinnaker-operator](https://github.com/armory-io/spinnaker-operator) - Armory's spinnaker-operator's (aka. armory-operator) CRDs and examples manifests
 
 ## Swift 
 
