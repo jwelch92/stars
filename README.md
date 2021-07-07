@@ -35,6 +35,7 @@
   - [SCSS](#scss)
   - [Shell](#shell)
   - [Swift](#swift)
+  - [TeX](#tex)
   - [TypeScript](#typescript)
   - [Vim script](#vim-script)
 
@@ -496,6 +497,10 @@
 - [ianyh/Amethyst](https://github.com/ianyh/Amethyst) - Automatic tiling window manager for macOS à la xmonad.
 - [pock/pock](https://github.com/pock/pock) - Widgets manager for MacBook Touch Bar
 - [modulo-dm/modulo](https://github.com/modulo-dm/modulo) - The source-only dependency manager.
+
+## TeX 
+
+- [jstrieb/systems-programming-cheat-sheet](https://github.com/jstrieb/systems-programming-cheat-sheet) - Cheat sheet for x86-64 Unix systems programming
 
 ## TypeScript 
 
