@@ -15,6 +15,7 @@
   - [Dockerfile](#dockerfile)
   - [Elixir](#elixir)
   - [Emacs Lisp](#emacs-lisp)
+  - [GDScript](#gdscript)
   - [Go](#go)
   - [HCL](#hcl)
   - [HTML](#html)
@@ -101,8 +102,14 @@
 - [hlissner/doom-emacs](https://github.com/hlissner/doom-emacs) - An Emacs framework for the stubborn martian hacker
 - [syl20bnr/spacemacs](https://github.com/syl20bnr/spacemacs) - A community-driven Emacs distribution - The best editor is neither Emacs nor Vim,  it's Emacs *and* Vim!
 
+## GDScript 
+
+- [NiclasEriksen/flowfield](https://github.com/NiclasEriksen/flowfield) - An interactive flow field simulation made in Godot.
+
 ## Go 
 
+- [honeycombio/beeline-go](https://github.com/honeycombio/beeline-go) - Easy instrumentation for golang apps with Honeycomb
+- [honeycombio/agentless-integrations-for-aws](https://github.com/honeycombio/agentless-integrations-for-aws) - Lambda-based AWS integrations for Honeycomb
 - [rs/curlie](https://github.com/rs/curlie) - The power of curl, the ease of use of httpie.
 - [dexidp/dex](https://github.com/dexidp/dex) - OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
@@ -115,7 +122,6 @@
 - [segmentio/kubeapply](https://github.com/segmentio/kubeapply) - A lightweight tool for git-based management of Kubernetes configs
 - [nsqio/nsq](https://github.com/nsqio/nsq) - A realtime distributed messaging platform
 - [elves/elvish](https://github.com/elves/elvish) - Elvish = Expressive Programming Language + Versatile Interactive Shell
-- [honeycombio/beeline-go](https://github.com/honeycombio/beeline-go) - Easy instrumentation for golang apps with Honeycomb
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄
 - [purpleidea/mgmt](https://github.com/purpleidea/mgmt) - Next generation distributed, event-driven, parallel config management!
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management
@@ -314,6 +320,7 @@
 
 ## Others 
 
+- [a8m/golang-cheat-sheet](https://github.com/a8m/golang-cheat-sheet) - An overview of Go syntax and features.
 - [danistefanovic/build-your-own-x](https://github.com/danistefanovic/build-your-own-x) - 🤓 Build your own (insert technology here)
 - [ossu/computer-science](https://github.com/ossu/computer-science) - :mortar_board: Path to a free self-taught education in Computer Science!
 - [jwalton/passport-api-docs](https://github.com/jwalton/passport-api-docs) - Documentation for Passport.js.
@@ -500,6 +507,7 @@
 
 ## Swift 
 
+- [kean/Pulse](https://github.com/kean/Pulse) - Logger and network inspector for Apple platforms
 - [rxhanson/Rectangle](https://github.com/rxhanson/Rectangle) - Move and resize windows on macOS with keyboard shortcuts and snap areas
 - [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
