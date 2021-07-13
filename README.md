@@ -10,7 +10,6 @@
   - [C++](#c++)
   - [CSS](#css)
   - [Clojure](#clojure)
-  - [CoffeeScript](#coffeescript)
   - [Crystal](#crystal)
   - [Dockerfile](#dockerfile)
   - [Elixir](#elixir)
@@ -78,16 +77,13 @@
 - [functional-koans/clojure-koans](https://github.com/functional-koans/clojure-koans) - A set of exercises for learning Clojure
 - [tonsky/FiraCode](https://github.com/tonsky/FiraCode) - Free monospaced font with programming ligatures
 
-## CoffeeScript 
-
-- [overleaf/overleaf](https://github.com/overleaf/overleaf) - A web-based collaborative LaTeX editor
-
 ## Crystal 
 
 - [crystal-lang/crystal](https://github.com/crystal-lang/crystal) - The Crystal Programming Language
 
 ## Dockerfile 
 
+- [croaker/languagetool-docker](https://github.com/croaker/languagetool-docker) - Languagetool HTTP Server including fastText as a docker image.
 - [serverless/github-action](https://github.com/serverless/github-action) - :zap::octocat: A Github Action for deploying with the Serverless Framework
 - [michael0liver/python-poetry-docker-example](https://github.com/michael0liver/python-poetry-docker-example) - Example of integrating Poetry with Docker leveraging multi-stage builds.
 - [docker-library/ghost](https://github.com/docker-library/ghost) - Docker Official Image packaging for Ghost
@@ -282,6 +278,7 @@
 - [jackellenberger/emojme](https://github.com/jackellenberger/emojme) - :rotating_light: very powerful very stupid Slack emoji tools, holy cow! :rotating_light:
 - [panva/node-openid-client](https://github.com/panva/node-openid-client) - OpenID Certified™ Relying Party (OpenID Connect/OAuth 2.0 Client) implementation for Node.js.
 - [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
+- [overleaf/overleaf](https://github.com/overleaf/overleaf) - A web-based collaborative LaTeX editor
 - [preactjs/preact](https://github.com/preactjs/preact) - ⚛️ Fast 3kB React alternative with the same modern API. Components & Virtual DOM.
 - [developit/htm](https://github.com/developit/htm) - Hyperscript Tagged Markup: JSX alternative using standard tagged templates, with compiler support.
 - [deathau/markdownload](https://github.com/deathau/markdownload) - A Firefox and Google Chrome extension to clip websites and download them into a readable markdown file.
@@ -521,6 +518,7 @@
 
 ## TypeScript 
 
+- [Clemens-E/obsidian-languagetool-plugin](https://github.com/Clemens-E/obsidian-languagetool-plugin) - languagetool plugin for obsidian
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server & SQLite
 - [KATT/shop](https://github.com/KATT/shop) - 🛍🛒 Full-stack React/Prisma/TS/GraphQL E-Commerce Example
 - [DanielMSchmidt/apollo-opentracing](https://github.com/DanielMSchmidt/apollo-opentracing) - Performance trace your Apollo GraphQL server with Opentracing
