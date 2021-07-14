@@ -181,7 +181,7 @@
 - [GoogleContainerTools/kpt](https://github.com/GoogleContainerTools/kpt) - A Git-native, schema-aware, extensible client-side tool for packaging, customizing, validating, and applying Kubernetes resources.
 - [turnage/graw](https://github.com/turnage/graw) - Golang Reddit API Wrapper
 - [sahilm/fuzzy](https://github.com/sahilm/fuzzy) - Go library that provides fuzzy string matching optimized for filenames and code symbols in the style of Sublime Text, VSCode, IntelliJ IDEA et al.
-- [openfaas/faas-netes](https://github.com/openfaas/faas-netes) - Kubernetes controller for OpenFaaS
+- [openfaas/faas-netes](https://github.com/openfaas/faas-netes) - Serverless on Kubernetes with OpenFaaS
 - [ovh/utask](https://github.com/ovh/utask) - µTask is an automation engine that models and executes business processes declared in yaml. ✏️📋
 - [ovh/cds](https://github.com/ovh/cds) - Enterprise-Grade Continuous Delivery & DevOps Automation Open Source Platform
 - [omrikiei/ktunnel](https://github.com/omrikiei/ktunnel) - A cli that exposes your local resources to kubernetes
@@ -518,6 +518,7 @@
 
 ## TypeScript 
 
+- [blacksmithgu/obsidian-dataview](https://github.com/blacksmithgu/obsidian-dataview) - A complex query language implementation for the Obsidian note-taking tool.
 - [Clemens-E/obsidian-languagetool-plugin](https://github.com/Clemens-E/obsidian-languagetool-plugin) - languagetool plugin for obsidian
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server & SQLite
 - [KATT/shop](https://github.com/KATT/shop) - 🛍🛒 Full-stack React/Prisma/TS/GraphQL E-Commerce Example
