@@ -266,6 +266,7 @@
 
 ## JavaScript 
 
+- [monzo/response](https://github.com/monzo/response) - Monzo's real-time incident response and reporting tool ⚡️
 - [carloscuesta/gitmoji-cli](https://github.com/carloscuesta/gitmoji-cli) - A gitmoji interactive command line tool for using emojis on commits. 💻
 - [observablehq/plot](https://github.com/observablehq/plot) - A concise API for exploratory data visualization
 - [serverless/serverless](https://github.com/serverless/serverless) - ⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! –
@@ -519,6 +520,7 @@
 
 ## TypeScript 
 
+- [hasura/hasura-ecommerce](https://github.com/hasura/hasura-ecommerce) - 
 - [deathau/sliding-panes-obsidian](https://github.com/deathau/sliding-panes-obsidian) - Andy Matuschak Mode as a plugin
 - [blacksmithgu/obsidian-dataview](https://github.com/blacksmithgu/obsidian-dataview) - A complex query language implementation for the Obsidian note-taking tool.
 - [Clemens-E/obsidian-languagetool-plugin](https://github.com/Clemens-E/obsidian-languagetool-plugin) - languagetool plugin for obsidian
