@@ -92,6 +92,7 @@
 
 ## Dockerfile 
 
+- [appleboy/ssh-action](https://github.com/appleboy/ssh-action) - GitHub Actions for executing remote ssh commands.
 - [croaker/languagetool-docker](https://github.com/croaker/languagetool-docker) - Languagetool HTTP Server including fastText as a docker image.
 - [serverless/github-action](https://github.com/serverless/github-action) - :zap::octocat: A Github Action for deploying with the Serverless Framework
 - [michael0liver/python-poetry-docker-example](https://github.com/michael0liver/python-poetry-docker-example) - Example of integrating Poetry with Docker leveraging multi-stage builds.
@@ -372,6 +373,9 @@
 
 ## Python 
 
+- [joanvila/aioredlock](https://github.com/joanvila/aioredlock) - :lock: The asyncio implemetation of Redis distributed locks
+- [brainix/pottery](https://github.com/brainix/pottery) - Redis for humans. 🌎🌍🌏
+- [willmcgugan/textual](https://github.com/willmcgugan/textual) - Textual is a TUI (Text User Interface) framework for Python inspired by modern web development.
 - [tiangolo/sqlmodel](https://github.com/tiangolo/sqlmodel) - SQL databases in Python, designed for simplicity, compatibility, and robustness.
 - [rq/rq](https://github.com/rq/rq) - Simple job queues for Python
 - [laixintao/iredis](https://github.com/laixintao/iredis) - Interactive Redis: A Terminal Client for Redis with AutoCompletion and Syntax Highlighting.
@@ -470,6 +474,7 @@
 
 ## Rust 
 
+- [meilisearch/MeiliSearch](https://github.com/meilisearch/MeiliSearch) - Powerful, fast, and an easy to use search engine
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
 - [chmln/sd](https://github.com/chmln/sd) - Intuitive find & replace CLI (sed alternative)
 - [theryangeary/choose](https://github.com/theryangeary/choose) - A human-friendly and fast alternative to cut and (sometimes) awk
