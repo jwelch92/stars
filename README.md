@@ -10,6 +10,7 @@
   - [C++](#c++)
   - [CSS](#css)
   - [Clojure](#clojure)
+  - [CoffeeScript](#coffeescript)
   - [Crystal](#crystal)
   - [Cython](#cython)
   - [Dockerfile](#dockerfile)
@@ -81,6 +82,10 @@
 - [magomimmo/modern-cljs](https://github.com/magomimmo/modern-cljs) - A series of tutorials on ClojureScript
 - [functional-koans/clojure-koans](https://github.com/functional-koans/clojure-koans) - A set of exercises for learning Clojure
 - [tonsky/FiraCode](https://github.com/tonsky/FiraCode) - Free monospaced font with programming ligatures
+
+## CoffeeScript 
+
+- [hubot-scripts/hubot-pager-me](https://github.com/hubot-scripts/hubot-pager-me) - PagerDuty integration for Hubot
 
 ## Crystal 
 
