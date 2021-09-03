@@ -119,6 +119,7 @@
 
 ## Go 
 
+- [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [honeycombio/beeline-go](https://github.com/honeycombio/beeline-go) - Easy instrumentation for golang apps with Honeycomb
 - [honeycombio/agentless-integrations-for-aws](https://github.com/honeycombio/agentless-integrations-for-aws) - Lambda-based AWS integrations for Honeycomb
@@ -190,7 +191,6 @@
 - [alecthomas/kong](https://github.com/alecthomas/kong) - Kong is a command-line parser for Go
 - [akavel/up](https://github.com/akavel/up) - Ultimate Plumber is a tool for writing Linux pipes with instant live preview
 - [argoproj-labs/argo-kube-notifier](https://github.com/argoproj-labs/argo-kube-notifier) - Argo Kube Notifier controller monitors Kubernetes resources
-- [jonas747/yagpdb](https://github.com/jonas747/yagpdb) - Yet another general purpose discord bot
 - [tektoncd/triggers](https://github.com/tektoncd/triggers) - Event triggering with Tekton!
 - [GoogleContainerTools/skaffold](https://github.com/GoogleContainerTools/skaffold) - Easy and Repeatable Kubernetes Development
 - [GoogleContainerTools/kpt](https://github.com/GoogleContainerTools/kpt) - A Git-native, schema-aware, extensible client-side tool for packaging, customizing, validating, and applying Kubernetes resources.
@@ -279,6 +279,8 @@
 
 ## JavaScript 
 
+- [amark/gun](https://github.com/amark/gun) - An open source cybersecurity protocol for syncing decentralized graph data.
+- [narze/THIS_REPO_HAS_1465_STARS](https://github.com/narze/THIS_REPO_HAS_1465_STARS) - Click Star ⭐️ to see it in action :trollface:
 - [vercel/ncc](https://github.com/vercel/ncc) - Compile a Node.js project into a single file. Supports TypeScript, binary addons, dynamic requires.
 - [githubocto/repo-visualizer](https://github.com/githubocto/repo-visualizer) - 
 - [monzo/response](https://github.com/monzo/response) - Monzo's real-time incident response and reporting tool ⚡️
@@ -299,6 +301,7 @@
 - [preactjs/preact](https://github.com/preactjs/preact) - ⚛️ Fast 3kB React alternative with the same modern API. Components & Virtual DOM.
 - [developit/htm](https://github.com/developit/htm) - Hyperscript Tagged Markup: JSX alternative using standard tagged templates, with compiler support.
 - [deathau/markdownload](https://github.com/deathau/markdownload) - A Firefox and Google Chrome extension to clip websites and download them into a readable markdown file.
+- [jonas747/yagpdb](https://github.com/jonas747/yagpdb) - Yet another general purpose discord bot
 - [bchatard/alfred-jetbrains](https://github.com/bchatard/alfred-jetbrains) - Alfred3 workflow to easily open your projects with your favorite JetBrains product.
 - [VGraupera/1on1-questions](https://github.com/VGraupera/1on1-questions) - Mega list of 1 on 1 meeting questions compiled from a variety to sources
 - [jxnblk/mdx-deck](https://github.com/jxnblk/mdx-deck) - ♠️ React MDX-based presentation decks
