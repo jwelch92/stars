@@ -257,6 +257,7 @@
 
 ## HTML 
 
+- [berzniz/github_pr_tree](https://github.com/berzniz/github_pr_tree) - Add a file tree to GitHub's Pull Request
 - [tom-smith-okta/okta-api-center](https://github.com/tom-smith-okta/okta-api-center) - Get up and running quickly with Okta's OAuth as a Service and your favorite API Gateway.
 - [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
 - [pawamoy/copier-poetry](https://github.com/pawamoy/copier-poetry) - Copier template for Python projects managed by Poetry.
@@ -280,7 +281,7 @@
 ## JavaScript 
 
 - [amark/gun](https://github.com/amark/gun) - An open source cybersecurity protocol for syncing decentralized graph data.
-- [narze/THIS_REPO_HAS_2273_STARS](https://github.com/narze/THIS_REPO_HAS_2273_STARS) - Click Star ⭐️ to see it in action :trollface:
+- [narze/THIS_REPO_HAS_2388_STARS](https://github.com/narze/THIS_REPO_HAS_2388_STARS) - Click Star ⭐️ to see it in action :trollface:
 - [vercel/ncc](https://github.com/vercel/ncc) - Compile a Node.js project into a single file. Supports TypeScript, binary addons, dynamic requires.
 - [githubocto/repo-visualizer](https://github.com/githubocto/repo-visualizer) - 
 - [monzo/response](https://github.com/monzo/response) - Monzo's real-time incident response and reporting tool ⚡️
@@ -511,6 +512,7 @@
 
 ## Shell 
 
+- [mislav/gh-branch](https://github.com/mislav/gh-branch) - GitHub CLI extension for fuzzy finding, quickly switching between and deleting branches.
 - [MichaIng/DietPi](https://github.com/MichaIng/DietPi) - Lightweight justice for your single-board computer!
 - [replicatedhq/kURL](https://github.com/replicatedhq/kURL) - Production-grade, airgapped Kubernetes installer combining upstream k8s with overlays and popular components
 - [ramitsurana/awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) - A curated list for awesome kubernetes sources :ship::tada:
