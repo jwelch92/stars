@@ -119,6 +119,7 @@
 
 ## Go 
 
+- [namansood/prose](https://github.com/namansood/prose) - Blogging platform in Go.
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [honeycombio/beeline-go](https://github.com/honeycombio/beeline-go) - Easy instrumentation for golang apps with Honeycomb
@@ -218,7 +219,6 @@
 - [patchbay-pub/patchbay](https://github.com/patchbay-pub/patchbay) - Libary and CLI tools for interacting with patchbay servers
 - [fyne-io/fyne](https://github.com/fyne-io/fyne) - Cross platform GUI in Go inspired by Material Design
 - [metallb/metallb](https://github.com/metallb/metallb) - A network load-balancer implementation for Kubernetes using standard routing protocols
-- [ethanfrogers/starlark-spinnaker](https://github.com/ethanfrogers/starlark-spinnaker) - A repo for toying with Starlark as a way to generate Spinnaker pipelines
 - [ent/ent](https://github.com/ent/ent) - An entity framework for Go
 - [caarlos0/env](https://github.com/caarlos0/env) - Simple lib to parse environment variables to structs
 - [tucnak/telebot](https://github.com/tucnak/telebot) - Telebot is a Telegram bot framework in Go.
@@ -257,13 +257,13 @@
 
 ## HTML 
 
+- [Xe/site](https://github.com/Xe/site) - The new frontend/backend code for https://christine.website
 - [berzniz/github_pr_tree](https://github.com/berzniz/github_pr_tree) - Add a file tree to GitHub's Pull Request
 - [tom-smith-okta/okta-api-center](https://github.com/tom-smith-okta/okta-api-center) - Get up and running quickly with Okta's OAuth as a Service and your favorite API Gateway.
 - [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
 - [pawamoy/copier-poetry](https://github.com/pawamoy/copier-poetry) - Copier template for Python projects managed by Poetry.
 - [realvz/awesome-eks](https://github.com/realvz/awesome-eks) - A curated list of awesome tools for Amazon EKS 🌊
 - [daattali/beautiful-jekyll](https://github.com/daattali/beautiful-jekyll) - ✨ Build a beautiful and simple website in literally minutes. Demo at https://beautifuljekyll.com
-- [spinnaker/deck-customized](https://github.com/spinnaker/deck-customized) - Spinnaker Deck with customizations
 - [oswaldoacauan/ghostium](https://github.com/oswaldoacauan/ghostium) - A Ghost theme focused on content based on Medium design/ux.
 - [nitinthewiz/ghost-phantom](https://github.com/nitinthewiz/ghost-phantom) - Phantom theme for Ghost
 
@@ -281,14 +281,14 @@
 ## JavaScript 
 
 - [amark/gun](https://github.com/amark/gun) - An open source cybersecurity protocol for syncing decentralized graph data.
-- [narze/THIS_REPO_HAS_2570_STARS](https://github.com/narze/THIS_REPO_HAS_2570_STARS) - Click Star ⭐️ to see it in action :trollface:
+- [narze/THIS_REPO_HAS_2632_STARS](https://github.com/narze/THIS_REPO_HAS_2632_STARS) - Click Star ⭐️  to see it in action :trollface:
 - [vercel/ncc](https://github.com/vercel/ncc) - Compile a Node.js project into a single file. Supports TypeScript, binary addons, dynamic requires.
 - [githubocto/repo-visualizer](https://github.com/githubocto/repo-visualizer) - 
 - [monzo/response](https://github.com/monzo/response) - Monzo's real-time incident response and reporting tool ⚡️
 - [carloscuesta/gitmoji-cli](https://github.com/carloscuesta/gitmoji-cli) - A gitmoji interactive command line tool for using emojis on commits. 💻
 - [observablehq/plot](https://github.com/observablehq/plot) - A concise API for exploratory data visualization
 - [serverless/serverless](https://github.com/serverless/serverless) - ⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! –
-- [pinojs/pino](https://github.com/pinojs/pino) - 🌲 super fast, all natural json logger 🌲
+- [pinojs/pino](https://github.com/pinojs/pino) - 🌲 super fast, all natural json logger
 - [localstack/serverless-localstack](https://github.com/localstack/serverless-localstack) - ⚡ Serverless plugin for running against LocalStack
 - [mysqljs/mysql](https://github.com/mysqljs/mysql) - A pure node.js JavaScript Client implementing the MySQL protocol.
 - [aws-actions/configure-aws-credentials](https://github.com/aws-actions/configure-aws-credentials) - Configure AWS credential environment variables for use in other GitHub Actions.
@@ -302,7 +302,7 @@
 - [preactjs/preact](https://github.com/preactjs/preact) - ⚛️ Fast 3kB React alternative with the same modern API. Components & Virtual DOM.
 - [developit/htm](https://github.com/developit/htm) - Hyperscript Tagged Markup: JSX alternative using standard tagged templates, with compiler support.
 - [deathau/markdownload](https://github.com/deathau/markdownload) - A Firefox and Google Chrome extension to clip websites and download them into a readable markdown file.
-- [jonas747/yagpdb](https://github.com/jonas747/yagpdb) - Yet another general purpose discord bot
+- [botlabs-gg/yagpdb](https://github.com/botlabs-gg/yagpdb) - Yet another general purpose discord bot
 - [bchatard/alfred-jetbrains](https://github.com/bchatard/alfred-jetbrains) - Alfred3 workflow to easily open your projects with your favorite JetBrains product.
 - [VGraupera/1on1-questions](https://github.com/VGraupera/1on1-questions) - Mega list of 1 on 1 meeting questions compiled from a variety to sources
 - [jxnblk/mdx-deck](https://github.com/jxnblk/mdx-deck) - ♠️ React MDX-based presentation decks
@@ -383,6 +383,8 @@
 
 ## Python 
 
+- [kvesteri/sqlalchemy-continuum](https://github.com/kvesteri/sqlalchemy-continuum) - Versioning extension for SQLAlchemy.
+- [Netflix/metaflow](https://github.com/Netflix/metaflow) - Build and manage real-life data science projects with ease.
 - [spulec/freezegun](https://github.com/spulec/freezegun) - Let your Python tests travel through time
 - [joanvila/aioredlock](https://github.com/joanvila/aioredlock) - :lock: The asyncio implemetation of Redis distributed locks
 - [brainix/pottery](https://github.com/brainix/pottery) - Redis for humans. 🌎🌍🌏
@@ -531,7 +533,6 @@
 - [tilt-dev/kind-local](https://github.com/tilt-dev/kind-local) - An example of how to set up a local image registry for Tilt+Kind
 - [tektoncd/catalog](https://github.com/tektoncd/catalog) - Catalog of shared Tasks and Pipelines.
 - [alexellis/k8s-on-raspbian](https://github.com/alexellis/k8s-on-raspbian) - Kubernetes on Raspbian (Raspberry Pi)
-- [ajordens/gate-extension](https://github.com/ajordens/gate-extension) - An example of extending Spinnaker (gate)
 - [ljfranklin/k8s-pi](https://github.com/ljfranklin/k8s-pi) - A "production-ish" Kubernetes cluster on Raspberry Pi
 - [musl/nr-offsite-mech-keys](https://github.com/musl/nr-offsite-mech-keys) - All the things we need for the NR off-site mech-keys event.
 - [yboetz/motd](https://github.com/yboetz/motd) - Collection of 'message of the day' scripts
@@ -557,6 +558,7 @@
 
 ## TypeScript 
 
+- [apollographql/apollo-server](https://github.com/apollographql/apollo-server) - 🌍  Spec-compliant and production ready JavaScript GraphQL server that lets you develop in a schema-first way. Built for Express, Connect, Hapi, Koa, and more.
 - [hasura/hasura-ecommerce](https://github.com/hasura/hasura-ecommerce) - 
 - [deathau/sliding-panes-obsidian](https://github.com/deathau/sliding-panes-obsidian) - Andy Matuschak Mode as a plugin
 - [blacksmithgu/obsidian-dataview](https://github.com/blacksmithgu/obsidian-dataview) - A high-performance data index and query language over Markdown files, for https://obsidian.md/.
@@ -578,7 +580,6 @@
 - [hediet/vscode-drawio](https://github.com/hediet/vscode-drawio) - This unofficial extension integrates Draw.io (also known as diagrams.net) into VS Code.
 - [argoproj-labs/argocd-bot](https://github.com/argoproj-labs/argocd-bot) - Bot to automate Kubernetes deployment via Github PRs
 - [lensapp/lens](https://github.com/lensapp/lens) - Lens - The Kubernetes IDE
-- [Nike-Inc/referee](https://github.com/Nike-Inc/referee) - Referee is a UI for using Spinnaker Kayenta as a standalone service.
 
 ## Vim script 
 
