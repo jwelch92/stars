@@ -100,7 +100,7 @@
 - [appleboy/ssh-action](https://github.com/appleboy/ssh-action) - GitHub Actions for executing remote ssh commands.
 - [croaker/languagetool-docker](https://github.com/croaker/languagetool-docker) - Languagetool HTTP Server including fastText as a docker image.
 - [serverless/github-action](https://github.com/serverless/github-action) - :zap::octocat: A Github Action for deploying with the Serverless Framework
-- [michael0liver/python-poetry-docker-example](https://github.com/michael0liver/python-poetry-docker-example) - Example of integrating Poetry with Docker leveraging multi-stage builds.
+- [michaeloliverx/python-poetry-docker-example](https://github.com/michaeloliverx/python-poetry-docker-example) - Example of integrating Poetry with Docker leveraging multi-stage builds.
 - [docker-library/ghost](https://github.com/docker-library/ghost) - Docker Official Image packaging for Ghost
 
 ## Elixir 
@@ -282,7 +282,7 @@
 ## JavaScript 
 
 - [amark/gun](https://github.com/amark/gun) - An open source cybersecurity protocol for syncing decentralized graph data.
-- [narze/THIS_REPO_HAS_2921_STARS](https://github.com/narze/THIS_REPO_HAS_2921_STARS) - Click Star ⭐️  to see it in action :trollface:
+- [narze/THIS_REPO_HAS_2938_STARS](https://github.com/narze/THIS_REPO_HAS_2938_STARS) - Click Star ⭐️  to see it in action :trollface:
 - [vercel/ncc](https://github.com/vercel/ncc) - Compile a Node.js project into a single file. Supports TypeScript, binary addons, dynamic requires.
 - [githubocto/repo-visualizer](https://github.com/githubocto/repo-visualizer) - 
 - [monzo/response](https://github.com/monzo/response) - Monzo's real-time incident response and reporting tool ⚡️
