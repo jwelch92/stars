@@ -23,6 +23,7 @@
   - [Haskell](#haskell)
   - [Java](#java)
   - [JavaScript](#javascript)
+  - [Jinja](#jinja)
   - [Jupyter Notebook](#jupyter-notebook)
   - [Lua](#lua)
   - [M4](#m4)
@@ -44,6 +45,7 @@
 
 ## C 
 
+- [redis/redis](https://github.com/redis/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.
 - [eclipse/mosquitto](https://github.com/eclipse/mosquitto) - Eclipse Mosquitto - An open source MQTT broker
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
@@ -120,6 +122,7 @@
 
 ## Go 
 
+- [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
 - [hashicorp/consul](https://github.com/hashicorp/consul) - Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
 - [go-kratos/kratos](https://github.com/go-kratos/kratos) - A Go framework for microservices.
 - [hashicorp/nomad](https://github.com/hashicorp/nomad) - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
@@ -317,6 +320,10 @@
 - [kenperlin/chalktalk](https://github.com/kenperlin/chalktalk) - 
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [Relaxed-Theme/relaxed-terminal-themes](https://github.com/Relaxed-Theme/relaxed-terminal-themes) - 🕶️ A relaxed terminal theme to take a more relaxed view of things. For iTerm, Hyper, the macOS Terminal and a bunch of others.
+
+## Jinja 
+
+- [forem/selfhost](https://github.com/forem/selfhost) - Selfhost your Forem Community on your own infrastructure 🎉
 
 ## Jupyter Notebook 
 
