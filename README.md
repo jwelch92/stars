@@ -582,6 +582,7 @@
 
 ## TypeScript 
 
+- [qw-in/graphql-codegen-pydantic](https://github.com/qw-in/graphql-codegen-pydantic) - Generate pydantic types from any graphql schema
 - [provectus/kafka-ui](https://github.com/provectus/kafka-ui) - Open-Source Web GUI for Apache Kafka Management
 - [valentine195/obsidian-dice-roller](https://github.com/valentine195/obsidian-dice-roller) - Inline dice rolling for Obsidian.md
 - [Sairyss/domain-driven-hexagon](https://github.com/Sairyss/domain-driven-hexagon) - Guide on Domain-Driven Design, Hexagonal architecture, best practices etc.
