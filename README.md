@@ -196,7 +196,7 @@
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative continuous deployment for Kubernetes.
 - [newrelic/newrelic-kubernetes-operator](https://github.com/newrelic/newrelic-kubernetes-operator) - Operator to create New Relic configuration in Kubernetes
 - [admiraltyio/admiralty](https://github.com/admiraltyio/admiralty) - A system of Kubernetes controllers that intelligently schedules workloads across clusters.
-- [codenotary/immudb](https://github.com/codenotary/immudb) - immudb - world’s fastest immutable database
+- [codenotary/immudb](https://github.com/codenotary/immudb) - immudb - world’s fastest immutable database, built on a zero trust model
 - [birdayz/kaf](https://github.com/birdayz/kaf) - Modern CLI for Apache Kafka, written in Go.
 - [argoproj-labs/applicationset](https://github.com/argoproj-labs/applicationset) - The ApplicationSet controller manages multiple Argo CD Applications as a single ApplicationSet unit, supporting deployments to large numbers of clusters, deployments of large monorepos, and enabling secure Application self-service.
 - [alecthomas/kong](https://github.com/alecthomas/kong) - Kong is a command-line parser for Go
@@ -400,6 +400,7 @@
 
 ## Python 
 
+- [achedeuzot/py-todo-or-die](https://github.com/achedeuzot/py-todo-or-die) - Python decorator for `TODO`s. Inspired by https://github.com/davidpdrsn/todo-or-die and https://github.com/searls/todo_or_die
 - [guilatrova/tryceratops](https://github.com/guilatrova/tryceratops) - A linter to manage all your python exceptions and try/except blocks (limited only for those who like dinosaurs).
 - [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff) - A SQL linter and auto-formatter for Humans
 - [vial-kb/vial-gui](https://github.com/vial-kb/vial-gui) - Vial is an open-source cross-platform (Windows, Linux and Mac) GUI and a QMK fork for configuring your keyboard in real time.
