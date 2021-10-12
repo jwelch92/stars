@@ -356,6 +356,7 @@
 
 ## Others 
 
+- [gitpod-io/template-jetbrains-pycharm](https://github.com/gitpod-io/template-jetbrains-pycharm) - A template, configured for Gitpod (www.gitpod.io) to give you pre-built, ephemeral development environments in the cloud via JetBrains PyCharm.
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [slackapi/slack-api-specs](https://github.com/slackapi/slack-api-specs) - Open API specifications for platform products by Slack
 - [a8m/golang-cheat-sheet](https://github.com/a8m/golang-cheat-sheet) - An overview of Go syntax and features.
@@ -400,6 +401,7 @@
 
 ## Python 
 
+- [strawberry-graphql/strawberry](https://github.com/strawberry-graphql/strawberry) - A new GraphQL library for Python 🍓
 - [achedeuzot/py-todo-or-die](https://github.com/achedeuzot/py-todo-or-die) - Python decorator for `TODO`s. Inspired by https://github.com/davidpdrsn/todo-or-die and https://github.com/searls/todo_or_die
 - [guilatrova/tryceratops](https://github.com/guilatrova/tryceratops) - A linter to manage all your python exceptions and try/except blocks (limited only for those who like dinosaurs).
 - [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff) - A SQL linter and auto-formatter for Humans
@@ -541,6 +543,7 @@
 
 ## Shell 
 
+- [open-guides/og-aws](https://github.com/open-guides/og-aws) - 📙 Amazon Web Services — a practical guide
 - [showmewebcam/showmewebcam](https://github.com/showmewebcam/showmewebcam) - Raspberry Pi + High Quality Camera = High-quality USB Webcam!
 - [mislav/gh-branch](https://github.com/mislav/gh-branch) - GitHub CLI extension for fuzzy finding, quickly switching between and deleting branches.
 - [MichaIng/DietPi](https://github.com/MichaIng/DietPi) - Lightweight justice for your single-board computer!
