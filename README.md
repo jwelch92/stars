@@ -82,6 +82,7 @@
 
 ## Clojure 
 
+- [babashka/babashka](https://github.com/babashka/babashka) - Native, fast starting Clojure interpreter for scripting
 - [metabase/metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics  to everyone in your company :yum:
 - [jepsen-io/jepsen](https://github.com/jepsen-io/jepsen) - A framework for distributed systems verification, with fault injection
 - [magomimmo/modern-cljs](https://github.com/magomimmo/modern-cljs) - A series of tutorials on ClojureScript
@@ -126,7 +127,7 @@
 
 - [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
 - [hashicorp/consul](https://github.com/hashicorp/consul) - Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
-- [go-kratos/kratos](https://github.com/go-kratos/kratos) - A Go framework for microservices.
+- [go-kratos/kratos](https://github.com/go-kratos/kratos) - A modular-designed and easy-to-use microservices framework in Go.
 - [hashicorp/nomad](https://github.com/hashicorp/nomad) - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
 - [aws/copilot-cli](https://github.com/aws/copilot-cli) - The AWS Copilot CLI is a tool for developers to build, release and operate production ready containerized applications on AWS App Runner, Amazon ECS, and AWS Fargate.
 - [namansood/prose](https://github.com/namansood/prose) - Blogging platform in Go.
