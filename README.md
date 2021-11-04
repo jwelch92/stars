@@ -201,6 +201,7 @@
 - [gobwas/gtrace](https://github.com/gobwas/gtrace) - A code generation tool for instrumenting Go components.
 - [argoproj/argo-rollouts](https://github.com/argoproj/argo-rollouts) - Progressive Delivery for Kubernetes
 - [argoproj/argo-events](https://github.com/argoproj/argo-events) - Event-driven workflow automation framework
+- [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows) - Workflow engine for Kubernetes
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative continuous deployment for Kubernetes.
 - [newrelic/newrelic-kubernetes-operator](https://github.com/newrelic/newrelic-kubernetes-operator) - Operator to create New Relic configuration in Kubernetes
 - [admiraltyio/admiralty](https://github.com/admiraltyio/admiralty) - A system of Kubernetes controllers that intelligently schedules workloads across clusters.
@@ -499,7 +500,6 @@
 - [mwilliamson/jq.py](https://github.com/mwilliamson/jq.py) - Python bindings for jq
 - [waveform80/picamera](https://github.com/waveform80/picamera) - A pure Python interface to the Raspberry Pi camera module
 - [alexellis/phototimer](https://github.com/alexellis/phototimer) - A smart time-lapse driver for Raspberry Pi using raspistill
-- [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows) - Workflow engine for Kubernetes
 - [kellyjonbrazil/jc](https://github.com/kellyjonbrazil/jc) - CLI tool and python library that converts the output of popular command-line tools and file-types to JSON or Dictionaries. This allows piping of output to tools like jq and simplifying automation scripts.
 - [argoproj-labs/gordian](https://github.com/argoproj-labs/gordian) - Gordian applies transformations to files across multiple github repositories and creates pull requests for the owners of the repositories to review and merge them.
 - [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot
@@ -530,6 +530,7 @@
 
 ## Rust 
 
+- [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
 - [tailscale/pam](https://github.com/tailscale/pam) - An experimental, work-in-progress PAM module for Tailscale
 - [davidpdrsn/todo-or-die](https://github.com/davidpdrsn/todo-or-die) - TODOs you cannot forget!
 - [rust-embedded/rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials) - :books: Learn to write an embedded OS in Rust :crab:
