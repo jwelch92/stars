@@ -39,6 +39,7 @@
   - [Rust](#rust)
   - [SCSS](#scss)
   - [Shell](#shell)
+  - [Svelte](#svelte)
   - [Swift](#swift)
   - [TeX](#tex)
   - [TypeScript](#typescript)
@@ -304,6 +305,8 @@
 
 ## JavaScript 
 
+- [sveltejs/kit](https://github.com/sveltejs/kit) - The fastest way to build Svelte apps
+- [infernojs/inferno](https://github.com/infernojs/inferno) - :fire: An extremely fast, React-like JavaScript library for building modern user interfaces
 - [graphql/dataloader](https://github.com/graphql/dataloader) - DataLoader is a generic utility to be used as part of your application's data fetching layer to provide a consistent API over various backends and reduce requests to those backends via batching and caching.
 - [sindresorhus/p-throttle](https://github.com/sindresorhus/p-throttle) - Throttle promise-returning & async functions
 - [medikoo/memoizee](https://github.com/medikoo/memoizee) - Complete memoize/cache solution for JavaScript
@@ -596,6 +599,10 @@
 - [subnixr/minimal](https://github.com/subnixr/minimal) - A minimal zsh theme
 - [fatk/docker-letsencrypt-nginx-proxy-companion-examples](https://github.com/fatk/docker-letsencrypt-nginx-proxy-companion-examples) - Examples for combining docker-gen and letsencrypt-nginx-proxy-companion
 - [nginx-proxy/acme-companion](https://github.com/nginx-proxy/acme-companion) - Automated ACME SSL certificate generation for nginx-proxy
+
+## Svelte 
+
+- [illright/attractions](https://github.com/illright/attractions) - A pretty cool UI kit for Svelte
 
 ## Swift 
 
