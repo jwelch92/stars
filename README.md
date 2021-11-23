@@ -26,6 +26,7 @@
   - [JavaScript](#javascript)
   - [Jinja](#jinja)
   - [Jupyter Notebook](#jupyter-notebook)
+  - [Kotlin](#kotlin)
   - [Lua](#lua)
   - [M4](#m4)
   - [Nix](#nix)
@@ -356,6 +357,10 @@
 - [marceloprates/prettymaps](https://github.com/marceloprates/prettymaps) - A small set of Python functions to draw pretty maps from OpenStreetMap data. Based on osmnx, matplotlib and shapely libraries.
 - [norvig/pytudes](https://github.com/norvig/pytudes) - Python programs, usually short, of considerable difficulty, to perfect particular skills.
 
+## Kotlin 
+
+- [acejump/AceJump](https://github.com/acejump/AceJump) - 🅰️ single character search, select, and jump
+
 ## Lua 
 
 - [evantravers/hammerspoon-config](https://github.com/evantravers/hammerspoon-config) - My personal Hammerspoon setup
@@ -425,6 +430,7 @@
 
 ## Python 
 
+- [amzn/ion-python](https://github.com/amzn/ion-python) - A Python implementation of Amazon Ion.
 - [fabfuel/ecs-deploy](https://github.com/fabfuel/ecs-deploy) - Powerful CLI tool to simplify Amazon ECS deployments, rollbacks & scaling
 - [firdaus/temporal-python-sdk](https://github.com/firdaus/temporal-python-sdk) - 
 - [deepfakes/faceswap](https://github.com/deepfakes/faceswap) - Deepfakes Software For All
