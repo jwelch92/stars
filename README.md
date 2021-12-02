@@ -172,7 +172,7 @@
 - [saschagrunert/demo](https://github.com/saschagrunert/demo) - A framework for performing live pre-recorded command line demos in the wild 📼
 - [berty/berty](https://github.com/berty/berty) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
-- [kvrhdn/terraform-provider-honeycombio](https://github.com/kvrhdn/terraform-provider-honeycombio) - A Terraform provider for Honeycomb.io
+- [honeycombio/terraform-provider-honeycombio](https://github.com/honeycombio/terraform-provider-honeycombio) - A Terraform provider for Honeycomb.io
 - [bouk/staticfiles](https://github.com/bouk/staticfiles) - staticfiles compiles a directory of files into an embeddable .go file
 - [upspin/upspin](https://github.com/upspin/upspin) - Upspin: A framework for naming everyone's everything.
 - [perkeep/perkeep](https://github.com/perkeep/perkeep) - Perkeep (née Camlistore) is your personal storage system for life: a way of storing, syncing, sharing, modelling and backing up content.
