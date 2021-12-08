@@ -55,7 +55,6 @@
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
 - [krallin/tini](https://github.com/krallin/tini) - A tiny but valid `init` for containers
-- [go-delve/delve](https://github.com/go-delve/delve) - Delve is a debugger for the Go programming language.
 - [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) - Open-source keyboard firmware for Atmel AVR and Arm USB families
 - [ponylang/ponyc](https://github.com/ponylang/ponyc) - :horse: Pony is an open-source, actor-model, capabilities-secure, high performance programming language
 - [koekeishiya/yabai](https://github.com/koekeishiya/yabai) - A tiling window manager for macOS based on binary space partitioning
@@ -206,6 +205,7 @@
 - [fluxcd/flux](https://github.com/fluxcd/flux) - Successor: https://github.com/fluxcd/flux2 — The GitOps Kubernetes operator
 - [argoproj/gitops-engine](https://github.com/argoproj/gitops-engine) - Democratizing GitOps
 - [deanishe/awgo](https://github.com/deanishe/awgo) - Go library for Alfred 3 + 4 workflows
+- [go-delve/delve](https://github.com/go-delve/delve) - Delve is a debugger for the Go programming language.
 - [joshuarli/srv](https://github.com/joshuarli/srv) - minimalist http(s) server and file browser
 - [gobwas/gtrace](https://github.com/gobwas/gtrace) - A code generation tool for instrumenting Go components.
 - [argoproj/argo-rollouts](https://github.com/argoproj/argo-rollouts) - Progressive Delivery for Kubernetes
