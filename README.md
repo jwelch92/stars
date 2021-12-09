@@ -554,6 +554,7 @@
 
 ## Rust 
 
+- [clap-rs/clap](https://github.com/clap-rs/clap) - A full featured, fast Command Line Argument Parser for Rust
 - [oxidecomputer/aws-wire-lengths](https://github.com/oxidecomputer/aws-wire-lengths) - simple command line for various AWS management tasks
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [wez/wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
@@ -678,7 +679,7 @@
 - [cdr/code-server](https://github.com/cdr/code-server) - VS Code in the browser
 - [hediet/vscode-drawio](https://github.com/hediet/vscode-drawio) - This unofficial extension integrates Draw.io (also known as diagrams.net) into VS Code.
 - [argoproj-labs/argocd-bot](https://github.com/argoproj-labs/argocd-bot) - Bot to automate Kubernetes deployment via Github PRs
-- [lensapp/lens](https://github.com/lensapp/lens) - Lens - The Kubernetes IDE
+- [lensapp/lens](https://github.com/lensapp/lens) - Lens - The way the world runs Kubernetes
 
 ## Vim script 
 
