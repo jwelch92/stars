@@ -389,6 +389,7 @@
 
 ## Others 
 
+- [qvisten999/christmas-ball](https://github.com/qvisten999/christmas-ball) - CO2 measuring christmas ball that changes color based on CO2 level
 - [terrytangyuan/awesome-argo](https://github.com/terrytangyuan/awesome-argo) - A curated list of awesome projects and resources related to Argo (a CNCF hosted project)
 - [gitpod-io/template-jetbrains-pycharm](https://github.com/gitpod-io/template-jetbrains-pycharm) - A template, configured for Gitpod (www.gitpod.io) to give you pre-built, ephemeral development environments in the cloud via JetBrains PyCharm.
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
@@ -436,6 +437,7 @@
 
 ## Python 
 
+- [open-telemetry/opentelemetry-python](https://github.com/open-telemetry/opentelemetry-python) - OpenTelemetry Python API and SDK
 - [pdm-project/pdm](https://github.com/pdm-project/pdm) - A modern Python package manager with PEP 582 support.
 - [mahmoud/boltons](https://github.com/mahmoud/boltons) - 🔩 Like builtins, but boltons. 250+ constructs, recipes, and snippets which extend (and rely on nothing but) the Python standard library.  Nothing like Michael Bolton.
 - [aliparlakci/bulk-downloader-for-reddit](https://github.com/aliparlakci/bulk-downloader-for-reddit) - Downloads and archives content from reddit
