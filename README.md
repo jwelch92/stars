@@ -559,6 +559,7 @@
 
 ## Rust 
 
+- [gobanos/cargo-aoc](https://github.com/gobanos/cargo-aoc) - 
 - [clap-rs/clap](https://github.com/clap-rs/clap) - A full featured, fast Command Line Argument Parser for Rust
 - [oxidecomputer/aws-wire-lengths](https://github.com/oxidecomputer/aws-wire-lengths) - simple command line for various AWS management tasks
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
