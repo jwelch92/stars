@@ -70,6 +70,7 @@
 
 ## C++ 
 
+- [pit-ray/win-vind](https://github.com/pit-ray/win-vind) - You can operate Windows with key bindings like Vim.
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 - [SerenityOS/serenity](https://github.com/SerenityOS/serenity) - The Serenity Operating System 🐞
 - [Nighteyez07/C867_Scripting-and-Programming-Applications](https://github.com/Nighteyez07/C867_Scripting-and-Programming-Applications) - C867 Scripting and Programming - Applications
@@ -559,6 +560,8 @@
 
 ## Rust 
 
+- [LukeMathWalker/build-your-own-jira-with-rust](https://github.com/LukeMathWalker/build-your-own-jira-with-rust) - A test-driven workshop to learn Rust building your own JIRA clone!
+- [dtolnay/proc-macro-workshop](https://github.com/dtolnay/proc-macro-workshop) - Learn to write Rust procedural macros  [Rust Latam conference, Montevideo Uruguay, March 2019]
 - [gobanos/cargo-aoc](https://github.com/gobanos/cargo-aoc) - 
 - [clap-rs/clap](https://github.com/clap-rs/clap) - A full featured, fast Command Line Argument Parser for Rust
 - [oxidecomputer/aws-wire-lengths](https://github.com/oxidecomputer/aws-wire-lengths) - simple command line for various AWS management tasks
