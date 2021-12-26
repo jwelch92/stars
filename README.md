@@ -451,7 +451,7 @@
 - [fabfuel/ecs-deploy](https://github.com/fabfuel/ecs-deploy) - Powerful CLI tool to simplify Amazon ECS deployments, rollbacks & scaling
 - [firdaus/temporal-python-sdk](https://github.com/firdaus/temporal-python-sdk) - 
 - [deepfakes/faceswap](https://github.com/deepfakes/faceswap) - Deepfakes Software For All
-- [arrow-py/arrow](https://github.com/arrow-py/arrow) - Better dates & times for Python
+- [arrow-py/arrow](https://github.com/arrow-py/arrow) - 🏹 Better dates & times for Python
 - [jwelch92/todo-or-else](https://github.com/jwelch92/todo-or-else) - Python project to make sure you complete your TODOs
 - [agronholm/anyio](https://github.com/agronholm/anyio) - High level asynchronous concurrency and networking framework that works on top of either trio or asyncio
 - [strawberry-graphql/strawberry](https://github.com/strawberry-graphql/strawberry) - A new GraphQL library for Python 🍓
