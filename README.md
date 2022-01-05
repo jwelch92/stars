@@ -423,7 +423,6 @@
 - [TheMatjaz/StoneScript](https://github.com/TheMatjaz/StoneScript) - My StoneScripts used to automate the amazing ASCII-art incremental game Stone Story RPG
 - [k88hudson/git-flight-rules](https://github.com/k88hudson/git-flight-rules) - Flight rules for git
 - [uber-go/guide](https://github.com/uber-go/guide) - The Uber Go Style Guide.
-- [inlets/inlets-archived](https://github.com/inlets/inlets-archived) - Cloud Native Tunnel, now inlets PRO
 - [DovAmir/awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns) - A curated list of software and architecture related design patterns.
 
 ## PHP 
@@ -564,6 +563,7 @@
 
 ## Rust 
 
+- [tkellogg/dura](https://github.com/tkellogg/dura) - You shouldn't ever lose your work if you're using Git
 - [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for building client web apps
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
 - [rayon-rs/rayon](https://github.com/rayon-rs/rayon) - Rayon: A data parallelism library for Rust
