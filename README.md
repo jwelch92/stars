@@ -44,6 +44,7 @@
   - [Swift](#swift)
   - [TeX](#tex)
   - [TypeScript](#typescript)
+  - [V](#v)
   - [Vim script](#vim-script)
 
 ## C 
@@ -136,6 +137,7 @@
 
 ## Go 
 
+- [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [honeycombio/buildevents](https://github.com/honeycombio/buildevents) - A small helper to generate Honeycomb traces from CI builds
 - [schollz/broadcast-server](https://github.com/schollz/broadcast-server) - A simple Go server that broadcasts any data/stream.
 - [prisma/prisma-client-go](https://github.com/prisma/prisma-client-go) - Prisma Client Go is an auto-generated and fully type-safe database client
@@ -322,6 +324,7 @@
 
 ## JavaScript 
 
+- [wojtekmaj/react-pdf](https://github.com/wojtekmaj/react-pdf) - Display PDFs in your React app as easily as if they were images.
 - [gchq/CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Open-source low-code framework for building React-based web applications and internal tools 🚀
 - [Budibase/budibase](https://github.com/Budibase/budibase) - Budibase is an open-source low-code platform for creating internal apps in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s 🚀
@@ -399,6 +402,7 @@
 
 ## Others 
 
+- [xgrommx/awesome-functional-programming](https://github.com/xgrommx/awesome-functional-programming) - Yet another resource for collecting articles, videos etc. regarding functional programming
 - [meirwah/awesome-workflow-engines](https://github.com/meirwah/awesome-workflow-engines) - A curated list of awesome open source workflow engines
 - [qvisten999/christmas-ball](https://github.com/qvisten999/christmas-ball) - CO2 measuring christmas ball that changes color based on CO2 level
 - [terrytangyuan/awesome-argo](https://github.com/terrytangyuan/awesome-argo) - A curated list of awesome projects and resources related to Argo (a CNCF hosted project)
@@ -674,6 +678,7 @@
 
 ## TypeScript 
 
+- [graphql-editor/graphql-zeus](https://github.com/graphql-editor/graphql-zeus) - GraphQL client and GraphQL code generator with GraphQL autocomplete library generation ⚡⚡⚡ for browser,nodejs and react native
 - [ospfranco/sol](https://github.com/ospfranco/sol) - A Raycast/Alfred/Spotlight alternative
 - [multiprocessio/datastation](https://github.com/multiprocessio/datastation) - Easily query, script, and visualize data from every database, file, and API.
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta.
@@ -711,6 +716,10 @@
 - [hediet/vscode-drawio](https://github.com/hediet/vscode-drawio) - This unofficial extension integrates Draw.io (also known as diagrams.net) into VS Code.
 - [argoproj-labs/argocd-bot](https://github.com/argoproj-labs/argocd-bot) - Bot to automate Kubernetes deployment via Github PRs
 - [lensapp/lens](https://github.com/lensapp/lens) - Lens - The way the world runs Kubernetes
+
+## V 
+
+- [vlang/v](https://github.com/vlang/v) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. https://vlang.io
 
 ## Vim script 
 
