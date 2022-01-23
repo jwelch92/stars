@@ -455,7 +455,7 @@
 
 ## Python 
 
-- [khuedoan/homelab](https://github.com/khuedoan/homelab) - My self-hosting infrastructure, fully automated from empty disk to operating services.
+- [khuedoan/homelab](https://github.com/khuedoan/homelab) - My self-hosting infrastructure, fully automated from empty disk to operating services
 - [public/sonora](https://github.com/public/sonora) - A gRPC-Web implementation for Python
 - [coleifer/peewee](https://github.com/coleifer/peewee) - a small, expressive orm -- supports postgresql, mysql and sqlite
 - [encode/orm](https://github.com/encode/orm) - An async ORM. 🗃
