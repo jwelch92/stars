@@ -49,6 +49,7 @@
 
 ## C 
 
+- [borgbackup/borg](https://github.com/borgbackup/borg) - Deduplicating archiver with compression and authenticated encryption.
 - [vial-kb/vibl](https://github.com/vial-kb/vibl) - 
 - [vial-kb/vial-qmk](https://github.com/vial-kb/vial-qmk) - QMK fork with Vial-specific features.
 - [redis/redis](https://github.com/redis/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.
@@ -63,6 +64,7 @@
 
 ## C# # 
 
+- [duplicati/duplicati](https://github.com/duplicati/duplicati) - Store securely encrypted backups in the cloud!
 - [files-community/Files](https://github.com/files-community/Files) - A modern file manager that pushes the boundaries of the platform.
 - [File-New-Project/EarTrumpet](https://github.com/File-New-Project/EarTrumpet) - EarTrumpet - Volume Control for Windows
 - [valheimPlus/ValheimPlus](https://github.com/valheimPlus/ValheimPlus) - A HarmonyX Mod aimed at improving the gameplay and quality of life of the game Valheim.
@@ -79,7 +81,6 @@
 
 ## CSS 
 
-- [chrisgrieser/shimmering-focus](https://github.com/chrisgrieser/shimmering-focus) - A minimalistic Obsidian theme focused on readability and condensed information display
 - [bradtraversy/50projects50days](https://github.com/bradtraversy/50projects50days) - 50+ mini web projects using HTML, CSS & JS
 - [kmaasrud/awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian) - 🕶️ Awesome stuff for Obsidian
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
@@ -137,6 +138,8 @@
 
 ## Go 
 
+- [gilbertchen/duplicacy](https://github.com/gilbertchen/duplicacy) - A new generation cloud backup tool
+- [toboshii/hajimari](https://github.com/toboshii/hajimari) - Hajimari is a beautiful & customizable browser startpage/dashboard with Kubernetes application discovery.
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
 - [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
@@ -405,6 +408,7 @@
 
 ## Others 
 
+- [oz123/awesome-backup](https://github.com/oz123/awesome-backup) - A list of FOSS backup software
 - [xgrommx/awesome-functional-programming](https://github.com/xgrommx/awesome-functional-programming) - Yet another resource for collecting articles, videos etc. regarding functional programming
 - [meirwah/awesome-workflow-engines](https://github.com/meirwah/awesome-workflow-engines) - A curated list of awesome open source workflow engines
 - [qvisten999/christmas-ball](https://github.com/qvisten999/christmas-ball) - CO2 measuring christmas ball that changes color based on CO2 level
@@ -632,6 +636,7 @@
 
 - [rhasspy/rhasspy](https://github.com/rhasspy/rhasspy) - Offline private voice assistant for many human languages
 - [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
+- [chrisgrieser/shimmering-focus](https://github.com/chrisgrieser/shimmering-focus) - A minimalistic Obsidian theme focused on readability and condensed information display
 - [open-guides/og-aws](https://github.com/open-guides/og-aws) - 📙 Amazon Web Services — a practical guide
 - [showmewebcam/showmewebcam](https://github.com/showmewebcam/showmewebcam) - Raspberry Pi + High Quality Camera = High-quality USB Webcam!
 - [mislav/gh-branch](https://github.com/mislav/gh-branch) - GitHub CLI extension for fuzzy finding, quickly switching between and deleting branches.
