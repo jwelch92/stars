@@ -478,6 +478,7 @@
 
 ## Python 
 
+- [python/mypy](https://github.com/python/mypy) - Optional static typing for Python
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [khuedoan/homelab](https://github.com/khuedoan/homelab) - Small and energy efficient self-hosting infrastructure, fully automated from empty disk to operating services.
 - [public/sonora](https://github.com/public/sonora) - A gRPC-Web implementation for Python
@@ -713,6 +714,7 @@
 
 ## TypeScript 
 
+- [workos-inc/workos-node](https://github.com/workos-inc/workos-node) - Official Node SDK for interacting with the WorkOS API
 - [nix-community/vscode-nix-ide](https://github.com/nix-community/vscode-nix-ide) - Nix language support for VSCode editor [maintainer: @jnoortheen]
 - [suzuki-shunsuke/tfaction](https://github.com/suzuki-shunsuke/tfaction) - GitHub Actions collection for Opinionated Terraform Workflow
 - [graphql-editor/graphql-zeus](https://github.com/graphql-editor/graphql-zeus) - GraphQL client and GraphQL code generator with GraphQL autocomplete library generation ⚡⚡⚡ for browser,nodejs and react native
