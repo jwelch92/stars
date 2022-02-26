@@ -485,6 +485,7 @@
 
 ## Python 
 
+- [aminalaee/sqladmin](https://github.com/aminalaee/sqladmin) - SQLAlchemy Admin for Starlette/FastAPI
 - [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
 - [RobertCraigie/prisma-client-py](https://github.com/RobertCraigie/prisma-client-py) - Prisma Python is an auto-generated and fully type-safe database client providing a simplistic yet extremely powerful API
 - [python/mypy](https://github.com/python/mypy) - Optional static typing for Python
