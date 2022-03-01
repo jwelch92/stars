@@ -47,6 +47,7 @@
   - [TypeScript](#typescript)
   - [V](#v)
   - [Vim script](#vim-script)
+  - [Vue](#vue)
 
 ## C 
 
@@ -342,6 +343,7 @@
 
 ## JavaScript 
 
+- [auth0/node-jsonwebtoken](https://github.com/auth0/node-jsonwebtoken) - JsonWebToken implementation for node.js http://self-issued.info/docs/draft-ietf-oauth-json-web-token.html
 - [jokenox/Goopt](https://github.com/jokenox/Goopt) - 🔍 Search Engine for a Procedural Simulation of the Web with GPT-3.
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagram and flowchart from text in a similar manner as markdown
 - [zeke/semantic-pull-requests](https://github.com/zeke/semantic-pull-requests) - :robot: Let the robots take care of the semantic versioning
@@ -484,9 +486,10 @@
 
 ## Python 
 
+- [iwpnd/fastapi-key-auth](https://github.com/iwpnd/fastapi-key-auth) - FastAPI API key authorizer
 - [aminalaee/sqladmin](https://github.com/aminalaee/sqladmin) - SQLAlchemy Admin for Starlette/FastAPI
 - [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
-- [RobertCraigie/prisma-client-py](https://github.com/RobertCraigie/prisma-client-py) - Prisma Python is an auto-generated and fully type-safe database client providing a simplistic yet extremely powerful API
+- [RobertCraigie/prisma-client-py](https://github.com/RobertCraigie/prisma-client-py) - Prisma Client Python is an auto-generated and fully type-safe database client providing a simplistic yet extremely powerful API
 - [python/mypy](https://github.com/python/mypy) - Optional static typing for Python
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [borgbackup/borg](https://github.com/borgbackup/borg) - Deduplicating archiver with compression and authenticated encryption.
@@ -727,6 +730,7 @@
 
 ## TypeScript 
 
+- [frontegg/opensaas](https://github.com/frontegg/opensaas) - 
 - [planetscale/beam](https://github.com/planetscale/beam) - A simple message board for your organization or project
 - [vercel/tracing-js](https://github.com/vercel/tracing-js) - An implementation of Opentracing API for honeycomb.io
 - [gristlabs/grist-core](https://github.com/gristlabs/grist-core) - Grist is the evolution of spreadsheets.
@@ -780,6 +784,10 @@
 
 - [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A community-driven modular vim/neovim distribution - The ultimate vimrc
 - [dstokes/dotfiles](https://github.com/dstokes/dotfiles) - There's no place like $HOME
+
+## Vue 
+
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 
 
 ## License
