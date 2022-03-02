@@ -51,6 +51,7 @@
 
 ## C 
 
+- [singlestore-labs/python-wasi](https://github.com/singlestore-labs/python-wasi) - Utilities for building CPython for the WASI platform
 - [zmkfirmware/zmk](https://github.com/zmkfirmware/zmk) - ZMK Firmware Repository
 - [vial-kb/vibl](https://github.com/vial-kb/vibl) - 
 - [vial-kb/vial-qmk](https://github.com/vial-kb/vial-qmk) - QMK fork with Vial-specific features.
@@ -486,6 +487,7 @@
 
 ## Python 
 
+- [RunaCapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) - Awesome list of open-source startup alternatives to well-known SaaS products 🚀
 - [iwpnd/fastapi-key-auth](https://github.com/iwpnd/fastapi-key-auth) - FastAPI API key authorizer
 - [aminalaee/sqladmin](https://github.com/aminalaee/sqladmin) - SQLAlchemy Admin for Starlette/FastAPI
 - [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
@@ -730,6 +732,7 @@
 
 ## TypeScript 
 
+- [RoadieHQ/roadie-backstage-plugins](https://github.com/RoadieHQ/roadie-backstage-plugins) - All Backstage plugins created by Roadie.
 - [frontegg/opensaas](https://github.com/frontegg/opensaas) - 
 - [planetscale/beam](https://github.com/planetscale/beam) - A simple message board for your organization or project
 - [vercel/tracing-js](https://github.com/vercel/tracing-js) - An implementation of Opentracing API for honeycomb.io
