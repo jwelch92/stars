@@ -144,6 +144,7 @@
 
 ## Go 
 
+- [samber/lo](https://github.com/samber/lo) - 💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
 - [k0kubun/sqldef](https://github.com/k0kubun/sqldef) - Idempotent schema management for MySQL, PostgreSQL, and more
 - [davidsbond/tailscale-client-go](https://github.com/davidsbond/tailscale-client-go) - A client implementation for the Tailscale HTTP API
 - [cosmtrek/air](https://github.com/cosmtrek/air) - ☁️ Live reload for Go apps
