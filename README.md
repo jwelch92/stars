@@ -145,6 +145,7 @@
 
 ## Go 
 
+- [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea, painless self-hosted git service
 - [samber/lo](https://github.com/samber/lo) - 💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
 - [k0kubun/sqldef](https://github.com/k0kubun/sqldef) - Idempotent schema management for MySQL, PostgreSQL, and more
@@ -302,6 +303,7 @@
 
 ## HCL 
 
+- [khuedoan/homelab](https://github.com/khuedoan/homelab) - Small and energy efficient self-hosting infrastructure, fully automated from empty disk to operating services.
 - [cloudposse/terraform-aws-dynamic-subnets](https://github.com/cloudposse/terraform-aws-dynamic-subnets) - Terraform module for public and private subnets provisioning in existing VPC
 - [telia-oss/terraform-aws-ecs-fargate](https://github.com/telia-oss/terraform-aws-ecs-fargate) - Terraform module which creates Fargate ECS resources on AWS.
 - [trussworks/terraform-aws-ecs-service](https://github.com/trussworks/terraform-aws-ecs-service) - Creates an ECS Service.
@@ -432,6 +434,7 @@
 
 ## Objective-C 
 
+- [TermiT/Flycut](https://github.com/TermiT/Flycut) - Clean and simple clipboard manager for developers
 - [Hammerspoon/hammerspoon](https://github.com/Hammerspoon/hammerspoon) - Staggeringly powerful macOS desktop automation with Lua
 - [keycastr/keycastr](https://github.com/keycastr/keycastr) - KeyCastr, an open-source keystroke visualizer
 
@@ -508,7 +511,6 @@
 - [python/mypy](https://github.com/python/mypy) - Optional static typing for Python
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [borgbackup/borg](https://github.com/borgbackup/borg) - Deduplicating archiver with compression and authenticated encryption.
-- [khuedoan/homelab](https://github.com/khuedoan/homelab) - Small and energy efficient self-hosting infrastructure, fully automated from empty disk to operating services.
 - [public/sonora](https://github.com/public/sonora) - A gRPC-Web implementation for Python
 - [coleifer/peewee](https://github.com/coleifer/peewee) - a small, expressive orm -- supports postgresql, mysql and sqlite
 - [encode/orm](https://github.com/encode/orm) - An async ORM. 🗃
@@ -632,7 +634,7 @@
 ## Ruby 
 
 - [mastodon/mastodon](https://github.com/mastodon/mastodon) - Your self-hosted, globally interconnected microblogging community
-- [appvia/krane](https://github.com/appvia/krane) - Kubernetes RBAC static Analysis & visualisation tool
+- [appvia/krane](https://github.com/appvia/krane) - Kubernetes RBAC static analysis & visualisation tool
 - [jordansissel/fpm](https://github.com/jordansissel/fpm) - Effing package management! Build packages for multiple platforms (deb, rpm, etc) with great ease and sanity.
 
 ## Rust 
@@ -751,6 +753,8 @@
 
 ## TypeScript 
 
+- [master-co/styles](https://github.com/master-co/styles) - A Virtual CSS language with enhanced syntax ( less than 13KB )
+- [BuilderIO/partytown](https://github.com/BuilderIO/partytown) - Relocate resource intensive third-party scripts off of the main thread and into a web worker. 🎉
 - [KATT/envsafe](https://github.com/KATT/envsafe) - 🔒 Makes sure you don't accidentally deploy apps with missing or invalid environment variables.
 - [RoadieHQ/roadie-backstage-plugins](https://github.com/RoadieHQ/roadie-backstage-plugins) - All Backstage plugins created by Roadie.
 - [frontegg/opensaas](https://github.com/frontegg/opensaas) - 
