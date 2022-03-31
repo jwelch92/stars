@@ -504,7 +504,7 @@
 
 - [rbaron/catprinter](https://github.com/rbaron/catprinter) - 🐱🖨
 - [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python dependency management and packaging made easy.
-- [trevorpogue/sections](https://github.com/trevorpogue/sections) - Easy Python tree data structures for organizing lists and dicts into sections
+- [trevorpogue/sections](https://github.com/trevorpogue/sections) - Easy Python tree data structures
 - [bczsalba/pytermgui](https://github.com/bczsalba/pytermgui) - A simple yet powerful TUI framework for your Python (3.7+) applications.
 - [afroisalreadyinu/miniboss](https://github.com/afroisalreadyinu/miniboss) - The most versatile way to manage containers locally
 - [RunaCapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) - Awesome list of open-source startup alternatives to well-known SaaS products 🚀
