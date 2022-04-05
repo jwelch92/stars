@@ -145,6 +145,8 @@
 
 ## Go 
 
+- [auth0/auth0-cli](https://github.com/auth0/auth0-cli) - Supercharge your developer workflow. 🚀
+- [benbjohnson/litestream](https://github.com/benbjohnson/litestream) - Streaming replication for SQLite.
 - [hibiken/asynq](https://github.com/hibiken/asynq) - Simple, reliable, and efficient distributed task queue in Go
 - [stefanprodan/podinfo](https://github.com/stefanprodan/podinfo) - Go microservice template for Kubernetes
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
@@ -353,6 +355,8 @@
 
 ## JavaScript 
 
+- [auth0/express-openid-connect](https://github.com/auth0/express-openid-connect) - An Express.js middleware to protect OpenID Connect web applications.
+- [auth0/auth0-deploy-cli](https://github.com/auth0/auth0-deploy-cli) - A node CLI that can be used to easily integrate configuration deploy with your build scripts.
 - [auth0/node-jsonwebtoken](https://github.com/auth0/node-jsonwebtoken) - JsonWebToken implementation for node.js http://self-issued.info/docs/draft-ietf-oauth-json-web-token.html
 - [jokenox/Goopt](https://github.com/jokenox/Goopt) - 🔍 Search Engine for a Procedural Simulation of the Web with GPT-3.
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagram and flowchart from text in a similar manner as markdown
