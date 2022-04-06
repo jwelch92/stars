@@ -355,6 +355,7 @@
 
 ## JavaScript 
 
+- [yjs/yjs](https://github.com/yjs/yjs) - Shared data types for building collaborative software
 - [auth0/express-openid-connect](https://github.com/auth0/express-openid-connect) - An Express.js middleware to protect OpenID Connect web applications.
 - [auth0/auth0-deploy-cli](https://github.com/auth0/auth0-deploy-cli) - A node CLI that can be used to easily integrate configuration deploy with your build scripts.
 - [auth0/node-jsonwebtoken](https://github.com/auth0/node-jsonwebtoken) - JsonWebToken implementation for node.js http://self-issued.info/docs/draft-ietf-oauth-json-web-token.html
