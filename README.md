@@ -657,6 +657,7 @@
 
 ## Rust 
 
+- [warp-tech/warpgate](https://github.com/warp-tech/warpgate) - Smart SSH bastion that works with any SSH client
 - [purton-tech/cloak](https://github.com/purton-tech/cloak) - Secrets automation for developers
 - [zesterer/chumsky](https://github.com/zesterer/chumsky) - A parser library for humans with powerful error recovery.
 - [indygreg/PyOxidizer](https://github.com/indygreg/PyOxidizer) - A modern Python application packaging and distribution tool
@@ -779,6 +780,8 @@
 
 ## TypeScript 
 
+- [vlang/vscode-vlang](https://github.com/vlang/vscode-vlang) - V Language extension for Visual Studio Code.
+- [prisma/prisma-examples](https://github.com/prisma/prisma-examples) - 🚀 Ready-to-run Prisma example projects
 - [master-co/styles](https://github.com/master-co/styles) - A Virtual CSS language with enhanced syntax ( less than 13KB )
 - [BuilderIO/partytown](https://github.com/BuilderIO/partytown) - Relocate resource intensive third-party scripts off of the main thread and into a web worker. 🎉
 - [KATT/envsafe](https://github.com/KATT/envsafe) - 🔒 Makes sure you don't accidentally deploy apps with missing or invalid environment variables.
@@ -818,7 +821,7 @@
 - [vitling/acid-banger](https://github.com/vitling/acid-banger) - The Endless Acid Banger
 - [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
-- [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Technical documentation that just works
+- [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
 - [wulkano/Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
 - [ceifa/wasmoon](https://github.com/ceifa/wasmoon) - A real lua VM with JS bindings made with webassembly
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals
