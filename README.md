@@ -122,6 +122,7 @@
 
 ## Dockerfile 
 
+- [benbjohnson/litestream-s6-example](https://github.com/benbjohnson/litestream-s6-example) - Example repository for building a multi-process Docker container.
 - [artis3n/ansible-role-tailscale](https://github.com/artis3n/ansible-role-tailscale) - Ansible role to install and enable a Tailscale node.
 - [appleboy/ssh-action](https://github.com/appleboy/ssh-action) - GitHub Actions for executing remote ssh commands.
 - [croaker/languagetool-docker](https://github.com/croaker/languagetool-docker) - Languagetool HTTP Server including fastText as a docker image.
@@ -513,6 +514,7 @@
 
 ## Python 
 
+- [fpgmaas/cookiecutter-poetry](https://github.com/fpgmaas/cookiecutter-poetry) - A cookiecutter template for poetry managed python projects
 - [httpie/httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
 - [benkehoe/aws-sso-util](https://github.com/benkehoe/aws-sso-util) - Smooth out the rough edges of AWS SSO (temporarily, until AWS makes it better).
 - [karlicoss/promnesia](https://github.com/karlicoss/promnesia) - Another piece of your extended mind
@@ -780,6 +782,8 @@
 
 ## TypeScript 
 
+- [redwoodjs/redwood](https://github.com/redwoodjs/redwood) - The App Framework for Startups
+- [vercel/swr](https://github.com/vercel/swr) - React Hooks for Data Fetching
 - [vlang/vscode-vlang](https://github.com/vlang/vscode-vlang) - V Language extension for Visual Studio Code.
 - [prisma/prisma-examples](https://github.com/prisma/prisma-examples) - 🚀 Ready-to-run Prisma example projects
 - [master-co/styles](https://github.com/master-co/styles) - A Virtual CSS language with enhanced syntax ( less than 13KB )
