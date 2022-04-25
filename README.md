@@ -361,6 +361,7 @@
 
 ## JavaScript 
 
+- [jessitron/otel-nodejs](https://github.com/jessitron/otel-nodejs) - Fibonacci Microservice in node
 - [yjs/yjs](https://github.com/yjs/yjs) - Shared data types for building collaborative software
 - [auth0/express-openid-connect](https://github.com/auth0/express-openid-connect) - An Express.js middleware to protect OpenID Connect web applications.
 - [auth0/auth0-deploy-cli](https://github.com/auth0/auth0-deploy-cli) - A node CLI that can be used to easily integrate configuration deploy with your build scripts.
@@ -517,6 +518,7 @@
 
 ## Python 
 
+- [plasma-umass/slipcover](https://github.com/plasma-umass/slipcover) - Near Zero-Overhead Python Code Coverage
 - [bloomberg/memray](https://github.com/bloomberg/memray) - Memray is a memory profiler for Python
 - [fpgmaas/cookiecutter-poetry](https://github.com/fpgmaas/cookiecutter-poetry) - A cookiecutter template for poetry managed python projects
 - [httpie/httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
