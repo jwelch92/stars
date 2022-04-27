@@ -518,6 +518,9 @@
 
 ## Python 
 
+- [Miserlou/Zappa](https://github.com/Miserlou/Zappa) - Serverless Python
+- [zappa/Zappa](https://github.com/zappa/Zappa) - Serverless Python
+- [reloadware/reloadium](https://github.com/reloadware/reloadium) - Advanced hot reloading for Python
 - [plasma-umass/slipcover](https://github.com/plasma-umass/slipcover) - Near Zero-Overhead Python Code Coverage
 - [bloomberg/memray](https://github.com/bloomberg/memray) - Memray is a memory profiler for Python
 - [fpgmaas/cookiecutter-poetry](https://github.com/fpgmaas/cookiecutter-poetry) - A cookiecutter template for poetry managed python projects
@@ -665,6 +668,7 @@
 
 ## Rust 
 
+- [sansyrox/robyn](https://github.com/sansyrox/robyn) - Robyn is a fast and extensible async python web server with a rust runtime
 - [warp-tech/warpgate](https://github.com/warp-tech/warpgate) - Smart SSH bastion that works with any SSH client
 - [purton-tech/cloak](https://github.com/purton-tech/cloak) - Secrets automation for developers
 - [zesterer/chumsky](https://github.com/zesterer/chumsky) - A parser library for humans with powerful error recovery.
