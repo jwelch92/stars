@@ -179,7 +179,7 @@
 - [cashapp/hermit](https://github.com/cashapp/hermit) - Hermit manages isolated, self-bootstrapping sets of tools in software projects.
 - [honeycombio/refinery](https://github.com/honeycombio/refinery) - Refinery is a trace-aware sampling proxy. It collects spans emitted by your application, gathers them into traces, and examines them as a whole. This enables Refinery to make an intelligent sampling decision (whether to keep or discard) based on the entire trace.
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦
-- [earthly/earthly](https://github.com/earthly/earthly) - Repeatable builds
+- [earthly/earthly](https://github.com/earthly/earthly) - The effortless CI/CD framework that runs anywhere
 - [ory/kratos](https://github.com/ory/kratos) - Next-gen identity server (think Auth0, Okta, Firebase) with Ory-hardened authentication, MFA, FIDO2, profile management, identity schemas, social sign in, registration, account recovery, passwordless. Golang, headless, API-only - without templating or theming headaches.
 - [davidsbond/terraform-provider-tailscale](https://github.com/davidsbond/terraform-provider-tailscale) - Terraform provider implementation for interacting with the Tailscale API.
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines
@@ -519,6 +519,7 @@
 
 ## Python 
 
+- [ofek/hatch](https://github.com/ofek/hatch) - Modern, extensible Python project management
 - [Miserlou/Zappa](https://github.com/Miserlou/Zappa) - Serverless Python
 - [zappa/Zappa](https://github.com/zappa/Zappa) - Serverless Python
 - [reloadware/reloadium](https://github.com/reloadware/reloadium) - Advanced hot reloading for Python
@@ -531,7 +532,7 @@
 - [rbaron/catprinter](https://github.com/rbaron/catprinter) - 🐱🖨
 - [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python dependency management and packaging made easy.
 - [trevorpogue/sections](https://github.com/trevorpogue/sections) - Easy Python tree data structures
-- [bczsalba/pytermgui](https://github.com/bczsalba/pytermgui) - A simple yet powerful TUI framework for your Python (3.7+) applications.
+- [bczsalba/pytermgui](https://github.com/bczsalba/pytermgui) - A modern TUI library free from the shackles of web development.
 - [afroisalreadyinu/miniboss](https://github.com/afroisalreadyinu/miniboss) - The most versatile way to manage containers locally
 - [RunaCapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) - Awesome list of open-source startup alternatives to well-known SaaS products 🚀
 - [iwpnd/fastapi-key-auth](https://github.com/iwpnd/fastapi-key-auth) - FastAPI API key authorizer
@@ -663,6 +664,7 @@
 
 ## Ruby 
 
+- [KrauseFx/FxLifeSheet](https://github.com/KrauseFx/FxLifeSheet) - Tracking the key metrics of my life
 - [mastodon/mastodon](https://github.com/mastodon/mastodon) - Your self-hosted, globally interconnected microblogging community
 - [appvia/krane](https://github.com/appvia/krane) - Kubernetes RBAC static analysis & visualisation tool
 - [jordansissel/fpm](https://github.com/jordansissel/fpm) - Effing package management! Build packages for multiple platforms (deb, rpm, etc) with great ease and sanity.
@@ -795,6 +797,7 @@
 
 ## TypeScript 
 
+- [Precise-Finance/opentelemetry-instrumentation-prisma](https://github.com/Precise-Finance/opentelemetry-instrumentation-prisma) - Opentelemetry instrumentation plugin for Prisma ORM
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [redwoodjs/redwood](https://github.com/redwoodjs/redwood) - The App Framework for Startups
 - [vercel/swr](https://github.com/vercel/swr) - React Hooks for Data Fetching
