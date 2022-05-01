@@ -51,6 +51,7 @@
 
 ## C 
 
+- [scru128/spec](https://github.com/scru128/spec) - SCRU128 Specification
 - [singlestore-labs/python-wasi](https://github.com/singlestore-labs/python-wasi) - Utilities for building CPython for the WASI platform
 - [zmkfirmware/zmk](https://github.com/zmkfirmware/zmk) - ZMK Firmware Repository
 - [vial-kb/vibl](https://github.com/vial-kb/vibl) - 
@@ -88,6 +89,7 @@
 
 ## CSS 
 
+- [chrisgrieser/shimmering-focus](https://github.com/chrisgrieser/shimmering-focus) - A minimalistic Obsidian theme focused on readability and condensed information display
 - [bradtraversy/50projects50days](https://github.com/bradtraversy/50projects50days) - 50+ mini web projects using HTML, CSS & JS
 - [kmaasrud/awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian) - 🕶️ Awesome stuff for Obsidian
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
@@ -455,7 +457,6 @@
 
 ## Others 
 
-- [scru128/spec](https://github.com/scru128/spec) - SCRU128 Specification
 - [korfuri/awesome-monorepo](https://github.com/korfuri/awesome-monorepo) - A curated list of awesome Monorepo tools, software and architectures.
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 - [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A curated checklist of 300+ tips for protecting digital security and privacy in 2022
@@ -746,7 +747,6 @@
 - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
 - [rhasspy/rhasspy](https://github.com/rhasspy/rhasspy) - Offline private voice assistant for many human languages
 - [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
-- [chrisgrieser/shimmering-focus](https://github.com/chrisgrieser/shimmering-focus) - A minimalistic Obsidian theme focused on readability and condensed information display
 - [open-guides/og-aws](https://github.com/open-guides/og-aws) - 📙 Amazon Web Services — a practical guide
 - [showmewebcam/showmewebcam](https://github.com/showmewebcam/showmewebcam) - Raspberry Pi + High Quality Camera = High-quality USB Webcam!
 - [mislav/gh-branch](https://github.com/mislav/gh-branch) - GitHub CLI extension for fuzzy finding, quickly switching between and deleting branches.
