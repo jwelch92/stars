@@ -149,6 +149,7 @@
 
 ## Go 
 
+- [josephspurrier/polarbearblog](https://github.com/josephspurrier/polarbearblog) - Beautifully simple single author blog in Go - derived from Bear Blog.
 - [zinclabs/zinc](https://github.com/zinclabs/zinc) - Zinc Search engine. A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
 - [urfave/cli](https://github.com/urfave/cli) - A simple, fast, and fun package for building command line apps in Go
 - [RichardKnop/machinery](https://github.com/RichardKnop/machinery) - Machinery is an asynchronous task queue/job queue based on distributed message passing.
@@ -271,7 +272,7 @@
 - [botlabs-gg/yagpdb](https://github.com/botlabs-gg/yagpdb) - Yet another general purpose discord bot
 - [tektoncd/triggers](https://github.com/tektoncd/triggers) - Event triggering with Tekton!
 - [GoogleContainerTools/skaffold](https://github.com/GoogleContainerTools/skaffold) - Easy and Repeatable Kubernetes Development
-- [GoogleContainerTools/kpt](https://github.com/GoogleContainerTools/kpt) - A Git-native, schema-aware, extensible client-side tool for packaging, customizing, validating, and applying Kubernetes resources.
+- [GoogleContainerTools/kpt](https://github.com/GoogleContainerTools/kpt) - A package-centric toolchain that enables a WYSIWYG configuration authoring, automation, and delivery experience and simplifies managing Kubernetes platforms and KRM-driven infrastructure at scale by manipulating declarative Configuration as Data, separated from the code that transforms it.
 - [turnage/graw](https://github.com/turnage/graw) - Golang Reddit API Wrapper
 - [sahilm/fuzzy](https://github.com/sahilm/fuzzy) - Go library that provides fuzzy string matching optimized for filenames and code symbols in the style of Sublime Text, VSCode, IntelliJ IDEA et al.
 - [openfaas/faas-netes](https://github.com/openfaas/faas-netes) - Serverless Functions For Kubernetes
@@ -338,6 +339,7 @@
 
 ## HTML 
 
+- [dbohdan/classless-css](https://github.com/dbohdan/classless-css) - A list of classless CSS themes/frameworks with screenshots
 - [tzarc/djinn](https://github.com/tzarc/djinn) - Djinn Split Keyboard
 - [alpinejs/alpine](https://github.com/alpinejs/alpine) - A rugged, minimal framework for composing JavaScript behavior in your markup.
 - [Xe/site](https://github.com/Xe/site) - The new frontend/backend code for https://christine.website
@@ -365,6 +367,7 @@
 
 ## JavaScript 
 
+- [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
 - [ether/etherpad-lite](https://github.com/ether/etherpad-lite) - Etherpad: A modern really-real-time collaborative document editor.
 - [jessitron/otel-nodejs](https://github.com/jessitron/otel-nodejs) - Fibonacci Microservice in node
 - [yjs/yjs](https://github.com/yjs/yjs) - Shared data types for building collaborative software
@@ -479,7 +482,7 @@
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [slackapi/slack-api-specs](https://github.com/slackapi/slack-api-specs) - Open API specifications for platform products by Slack
 - [a8m/golang-cheat-sheet](https://github.com/a8m/golang-cheat-sheet) - An overview of Go syntax and features.
-- [danistefanovic/build-your-own-x](https://github.com/danistefanovic/build-your-own-x) - 🤓 Build your own (insert technology here)
+- [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - 🤓 Build your own (insert technology here)
 - [ossu/computer-science](https://github.com/ossu/computer-science) - :mortar_board: Path to a free self-taught education in Computer Science!
 - [jwalton/passport-api-docs](https://github.com/jwalton/passport-api-docs) - Documentation for Passport.js.
 - [datasciencemasters/go](https://github.com/datasciencemasters/go) - The Open Source Data Science Masters
@@ -522,6 +525,9 @@
 
 ## Python 
 
+- [auth0/auth0-python](https://github.com/auth0/auth0-python) - All information regarding using Auth0 with Python
+- [trentm/python-markdown2](https://github.com/trentm/python-markdown2) - markdown2: A fast and complete implementation of Markdown in Python
+- [sissbruecker/linkding](https://github.com/sissbruecker/linkding) - Self-hosted bookmark service
 - [ofek/hatch](https://github.com/ofek/hatch) - Modern, extensible Python project management
 - [Miserlou/Zappa](https://github.com/Miserlou/Zappa) - Serverless Python
 - [zappa/Zappa](https://github.com/zappa/Zappa) - Serverless Python
