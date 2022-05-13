@@ -167,7 +167,7 @@
 - [davidsbond/tailscale-client-go](https://github.com/davidsbond/tailscale-client-go) - A client implementation for the Tailscale HTTP API
 - [cosmtrek/air](https://github.com/cosmtrek/air) - ☁️ Live reload for Go apps
 - [dgraph-io/dgraph](https://github.com/dgraph-io/dgraph) - Native GraphQL Database with graph backend
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - gh cli extension to display a dashboard of PRs and issues - configurable with a beautiful UI.
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - 🚀  A dashboard for GitHub in the CLI
 - [infracost/infracost](https://github.com/infracost/infracost) - Cloud cost estimates for Terraform in pull requests💰📉 Love your cloud bill!
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫
 - [charmbracelet/skate](https://github.com/charmbracelet/skate) - A personal key value store 🛼
@@ -340,6 +340,7 @@
 
 ## HTML 
 
+- [alufers/mitmproxy2swagger](https://github.com/alufers/mitmproxy2swagger) - Automagically reverse-engineer REST APIs via capturing traffic
 - [pyscript/pyscript](https://github.com/pyscript/pyscript) - 
 - [dbohdan/classless-css](https://github.com/dbohdan/classless-css) - A list of classless CSS themes/frameworks with screenshots
 - [tzarc/djinn](https://github.com/tzarc/djinn) - Djinn Split Keyboard
