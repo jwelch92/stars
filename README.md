@@ -149,6 +149,7 @@
 
 ## Go 
 
+- [sigstore/gitsign](https://github.com/sigstore/gitsign) - Keyless Git signing using Sigstore
 - [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
 - [josephspurrier/polarbearblog](https://github.com/josephspurrier/polarbearblog) - Beautifully simple single author blog in Go - derived from Bear Blog.
 - [zinclabs/zinc](https://github.com/zinclabs/zinc) - Zinc Search engine. A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
@@ -370,6 +371,7 @@
 
 ## JavaScript 
 
+- [sisense/graphql2rest](https://github.com/sisense/graphql2rest) - GraphQL to REST converter: automatically generate a RESTful API from your existing GraphQL API
 - [markdoc/next.js](https://github.com/markdoc/next.js) - Markdoc plugin for Next.js
 - [carboneio/carbone](https://github.com/carboneio/carbone) - Fast and simple report generator, from JSON to pdf, xslx, docx, odt...
 - [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
@@ -515,6 +517,7 @@
 
 ## PHP 
 
+- [CachetHQ/Cachet](https://github.com/CachetHQ/Cachet) - 📛 An open source status page system for everyone.
 - [wallabag/wallabag](https://github.com/wallabag/wallabag) - wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely.
 - [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg) - ⚡ Dynamically generated, customizable SVG that gives the appearance of typing and deleting text. Typing SVGs can be used as a bio on your Github profile readme or repository.
 - [shaarli/Shaarli](https://github.com/shaarli/Shaarli) - The personal, minimalist, super-fast, database free, bookmarking service - community repo
@@ -530,6 +533,7 @@
 
 ## Python 
 
+- [open-telemetry/opentelemetry-python-contrib](https://github.com/open-telemetry/opentelemetry-python-contrib) - OpenTelemetry instrumentation for Python modules
 - [rsalmei/clearly](https://github.com/rsalmei/clearly) - Clearly see and debug your celery cluster in real time!
 - [cameronmaske/celery-once](https://github.com/cameronmaske/celery-once) - Celery Once allows you to prevent multiple execution and queuing of celery tasks.
 - [sibson/redbeat](https://github.com/sibson/redbeat) - RedBeat is a Celery Beat Scheduler that stores the scheduled tasks and runtime metadata in Redis.
