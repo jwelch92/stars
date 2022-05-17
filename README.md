@@ -342,7 +342,7 @@
 ## HTML 
 
 - [alufers/mitmproxy2swagger](https://github.com/alufers/mitmproxy2swagger) - Automagically reverse-engineer REST APIs via capturing traffic
-- [pyscript/pyscript](https://github.com/pyscript/pyscript) - 
+- [pyscript/pyscript](https://github.com/pyscript/pyscript) - Home Page: https://pyscript.net  Examples: https://pyscript.net/examples
 - [dbohdan/classless-css](https://github.com/dbohdan/classless-css) - A list of classless CSS themes/frameworks with screenshots
 - [tzarc/djinn](https://github.com/tzarc/djinn) - Djinn Split Keyboard
 - [alpinejs/alpine](https://github.com/alpinejs/alpine) - A rugged, minimal framework for composing JavaScript behavior in your markup.
@@ -469,6 +469,7 @@
 
 ## Others 
 
+- [brickbots/framedeck](https://github.com/brickbots/framedeck) - A Framework mainboard based Cyberdeck
 - [korfuri/awesome-monorepo](https://github.com/korfuri/awesome-monorepo) - A curated list of awesome Monorepo tools, software and architectures.
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 - [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A curated checklist of 300+ tips for protecting digital security and privacy in 2022
@@ -827,7 +828,7 @@
 - [vercel/swr](https://github.com/vercel/swr) - React Hooks for Data Fetching
 - [vlang/vscode-vlang](https://github.com/vlang/vscode-vlang) - V Language extension for Visual Studio Code.
 - [prisma/prisma-examples](https://github.com/prisma/prisma-examples) - 🚀 Ready-to-run Prisma example projects
-- [master-co/styles](https://github.com/master-co/styles) - A Virtual CSS language with enhanced syntax ( less than 8KB )
+- [master-co/css](https://github.com/master-co/css) - A Virtual CSS language with enhanced syntax ( less than 15KB )
 - [BuilderIO/partytown](https://github.com/BuilderIO/partytown) - Relocate resource intensive third-party scripts off of the main thread and into a web worker. 🎉
 - [KATT/envsafe](https://github.com/KATT/envsafe) - 🔒 Makes sure you don't accidentally deploy apps with missing or invalid environment variables.
 - [RoadieHQ/roadie-backstage-plugins](https://github.com/RoadieHQ/roadie-backstage-plugins) - All Backstage plugins created by Roadie.
