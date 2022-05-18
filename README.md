@@ -763,6 +763,7 @@
 
 ## Shell 
 
+- [wfxr/forgit](https://github.com/wfxr/forgit) - :zzz: A utility tool powered by fzf for using git interactively.
 - [pingidentity/pingidentity-devops-getting-started](https://github.com/pingidentity/pingidentity-devops-getting-started) - Ping Identity Devops Program
 - [pi-hole/docker-pi-hole](https://github.com/pi-hole/docker-pi-hole) - Pi-hole in a docker container
 - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
