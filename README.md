@@ -149,6 +149,7 @@
 
 ## Go 
 
+- [sethvargo/ratchet](https://github.com/sethvargo/ratchet) - A tool for securing CI/CD workflows with version pinning.
 - [sigstore/gitsign](https://github.com/sigstore/gitsign) - Keyless Git signing using Sigstore
 - [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
 - [josephspurrier/polarbearblog](https://github.com/josephspurrier/polarbearblog) - Beautifully simple single author blog in Go - derived from Bear Blog.
