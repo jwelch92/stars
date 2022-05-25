@@ -197,7 +197,7 @@
 - [hashicorp/consul](https://github.com/hashicorp/consul) - Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
 - [go-kratos/kratos](https://github.com/go-kratos/kratos) - Your ultimate Go microservices framework for the cloud-native era.
 - [hashicorp/nomad](https://github.com/hashicorp/nomad) - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and sc
-- [aws/copilot-cli](https://github.com/aws/copilot-cli) - The AWS Copilot CLI is a tool for developers to build, release and operate production ready containerized applications on AWS App Runner, Amazon ECS, and AWS Fargate.
+- [aws/copilot-cli](https://github.com/aws/copilot-cli) - The AWS Copilot CLI is a tool for developers to build, release and operate production ready containerized applications on AWS App Runner or Amazon ECS on AWS Fargate.
 - [tendstofortytwo/prose](https://github.com/tendstofortytwo/prose) - Blogging platform in Go.
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
@@ -372,6 +372,8 @@
 
 ## JavaScript 
 
+- [ansh/bionic-reading](https://github.com/ansh/bionic-reading) - A Chrome Extension for Bionic Reading on ANY website!
+- [mifi/lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
 - [sisense/graphql2rest](https://github.com/sisense/graphql2rest) - GraphQL to REST converter: automatically generate a RESTful API from your existing GraphQL API
 - [markdoc/next.js](https://github.com/markdoc/next.js) - Markdoc plugin for Next.js
 - [carboneio/carbone](https://github.com/carboneio/carbone) - Fast and simple report generator, from JSON to pdf, xslx, docx, odt...
@@ -535,6 +537,10 @@
 
 ## Python 
 
+- [antiboredom/audiogrep](https://github.com/antiboredom/audiogrep) - Creates audio supercuts.
+- [antiboredom/vidpy](https://github.com/antiboredom/vidpy) - video editing and compositing with python and melt
+- [antiboredom/scrapism-spring-2022](https://github.com/antiboredom/scrapism-spring-2022) - 
+- [antiboredom/videogrep](https://github.com/antiboredom/videogrep) - automatic video supercuts with python
 - [open-telemetry/opentelemetry-python-contrib](https://github.com/open-telemetry/opentelemetry-python-contrib) - OpenTelemetry instrumentation for Python modules
 - [rsalmei/clearly](https://github.com/rsalmei/clearly) - Clearly see and debug your celery cluster in real time!
 - [cameronmaske/celery-once](https://github.com/cameronmaske/celery-once) - Celery Once allows you to prevent multiple execution and queuing of celery tasks.
@@ -704,7 +710,7 @@
 - [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost
 - [zineland/zine](https://github.com/zineland/zine) - Zine - a simple and opinionated tool to build your own magazine.
 - [fermyon/spin](https://github.com/fermyon/spin) - Spin is an open source framework for building and running fast, secure, and composable cloud microservices with WebAssembly
-- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a diff that understands syntax 🟥🟩
+- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
 - [gitext-rs/git-stack](https://github.com/gitext-rs/git-stack) - Stacked branch management for Git
 - [chiselstrike/chiselstore](https://github.com/chiselstrike/chiselstore) - SQLite + Little Raft = 🚀
 - [sunface/rust-by-practice](https://github.com/sunface/rust-by-practice) - Learning Rust By Practice,  narrowing the gap between beginner and skilled-dev with challenging examples, exercises and projects.
@@ -821,6 +827,7 @@
 
 ## TypeScript 
 
+- [audapolis/audapolis](https://github.com/audapolis/audapolis) - an editor for spoken-word audio with automatic transcription
 - [hopinc/pika](https://github.com/hopinc/pika) - 🆔 The friendly, pragmatic and functional ID system
 - [Qwyntex/doubleshift](https://github.com/Qwyntex/doubleshift) - Obsidian Plugin to open the command palette by pressing shift twice
 - [google/wireit](https://github.com/google/wireit) - Wireit upgrades your npm scripts to make them smarter and more efficient.
