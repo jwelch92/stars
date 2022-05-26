@@ -149,6 +149,7 @@
 
 ## Go 
 
+- [evrone/go-clean-template](https://github.com/evrone/go-clean-template) - Clean Architecture template for Golang services
 - [sethvargo/ratchet](https://github.com/sethvargo/ratchet) - A tool for securing CI/CD workflows with version pinning.
 - [sigstore/gitsign](https://github.com/sigstore/gitsign) - Keyless Git signing using Sigstore
 - [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
@@ -537,6 +538,8 @@
 
 ## Python 
 
+- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
+- [thrau/pymq](https://github.com/thrau/pymq) - A simple message-oriented middleware library built for Python IPC across machine boundaries
 - [antiboredom/audiogrep](https://github.com/antiboredom/audiogrep) - Creates audio supercuts.
 - [antiboredom/vidpy](https://github.com/antiboredom/vidpy) - video editing and compositing with python and melt
 - [antiboredom/scrapism-spring-2022](https://github.com/antiboredom/scrapism-spring-2022) - 
@@ -813,6 +816,7 @@
 
 ## Swift 
 
+- [simonbs/Runestone](https://github.com/simonbs/Runestone) - 📝 Performant plain text editor for iOS with syntax highlighting, line numbers, invisible characters and much more.
 - [kean/Pulse](https://github.com/kean/Pulse) - Logger and network inspector for Apple platforms
 - [rxhanson/Rectangle](https://github.com/rxhanson/Rectangle) - Move and resize windows on macOS with keyboard shortcuts and snap areas
 - [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar
