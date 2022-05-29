@@ -554,7 +554,7 @@
 - [pypa/hatch](https://github.com/pypa/hatch) - Modern, extensible Python project management
 - [Miserlou/Zappa](https://github.com/Miserlou/Zappa) - Serverless Python
 - [zappa/Zappa](https://github.com/zappa/Zappa) - Serverless Python
-- [reloadware/reloadium](https://github.com/reloadware/reloadium) - Advanced hot reloading & profiling for Python
+- [reloadware/reloadium](https://github.com/reloadware/reloadium) - Advanced Hot Reloading & Profiling for Python
 - [plasma-umass/slipcover](https://github.com/plasma-umass/slipcover) - Near Zero-Overhead Python Code Coverage
 - [bloomberg/memray](https://github.com/bloomberg/memray) - Memray is a memory profiler for Python
 - [fpgmaas/cookiecutter-poetry](https://github.com/fpgmaas/cookiecutter-poetry) - A cookiecutter template for poetry managed python projects
