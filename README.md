@@ -347,7 +347,7 @@
 - [dbohdan/classless-css](https://github.com/dbohdan/classless-css) - A list of classless CSS themes/frameworks with screenshots
 - [tzarc/djinn](https://github.com/tzarc/djinn) - Djinn Split Keyboard
 - [alpinejs/alpine](https://github.com/alpinejs/alpine) - A rugged, minimal framework for composing JavaScript behavior in your markup.
-- [Xe/site](https://github.com/Xe/site) - The new frontend/backend code for https://christine.website
+- [Xe/site](https://github.com/Xe/site) - The new frontend/backend code for https://xeiaso.net
 - [berzniz/github_pr_tree](https://github.com/berzniz/github_pr_tree) - Add a file tree to GitHub's Pull Request
 - [observablehq/plot](https://github.com/observablehq/plot) - A concise API for exploratory data visualization
 - [tom-smith-okta/okta-api-center](https://github.com/tom-smith-okta/okta-api-center) - Get up and running quickly with Okta's OAuth as a Service and your favorite API Gateway.
