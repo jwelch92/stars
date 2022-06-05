@@ -372,7 +372,7 @@
 
 ## JavaScript 
 
-- [ansh/jiffyreader.com](https://github.com/ansh/jiffyreader.com) - A Chrome Extension for Bionic Reading on ANY website!
+- [ansh/jiffyreader.com](https://github.com/ansh/jiffyreader.com) - A Browser Extension for Bionic Reading on ANY website!
 - [mifi/lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
 - [sisense/graphql2rest](https://github.com/sisense/graphql2rest) - GraphQL to REST converter: automatically generate a RESTful API from your existing GraphQL API
 - [markdoc/next.js](https://github.com/markdoc/next.js) - Markdoc plugin for Next.js
@@ -537,6 +537,8 @@
 
 ## Python 
 
+- [aio-libs/janus](https://github.com/aio-libs/janus) - Thread-safe asyncio-aware queue for Python
+- [eerimoq/gqt](https://github.com/eerimoq/gqt) - Build and execute GraphQL queries in the terminal.
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [thrau/pymq](https://github.com/thrau/pymq) - A simple message-oriented middleware library built for Python IPC across machine boundaries
 - [antiboredom/audiogrep](https://github.com/antiboredom/audiogrep) - Creates audio supercuts.
