@@ -149,6 +149,7 @@
 
 ## Go 
 
+- [get-got/discord-downloader-go](https://github.com/get-got/discord-downloader-go) - A Discord bot program to save files sent in Discord channels with extensive configuration. Can be used as a real bot or user-bot/self-bot
 - [evrone/go-clean-template](https://github.com/evrone/go-clean-template) - Clean Architecture template for Golang services
 - [sethvargo/ratchet](https://github.com/sethvargo/ratchet) - A tool for securing CI/CD workflows with version pinning.
 - [sigstore/gitsign](https://github.com/sigstore/gitsign) - Keyless Git signing using Sigstore
@@ -723,7 +724,7 @@
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [yoav-lavi/melody](https://github.com/yoav-lavi/melody) - Melody is a language that compiles to regular expressions and aims to be more easily readable and maintainable
-- [fermyon/bartholomew](https://github.com/fermyon/bartholomew) - The Micro-CMS for WebAssembly and Wagi
+- [fermyon/bartholomew](https://github.com/fermyon/bartholomew) - The Micro-CMS for WebAssembly and Spin
 - [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) - Video stabilization using gyroscope data
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - Powerful, fast, and an easy to use search engine
 - [prql/prql](https://github.com/prql/prql) - PRQL is a modern language for transforming data — a simpler and more powerful SQL
