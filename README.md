@@ -538,6 +538,7 @@
 
 ## Python 
 
+- [jina-ai/dalle-flow](https://github.com/jina-ai/dalle-flow) - A Human-in-the-Loop workflow for creating HD images from text
 - [aio-libs/janus](https://github.com/aio-libs/janus) - Thread-safe asyncio-aware queue for Python
 - [eerimoq/gqt](https://github.com/eerimoq/gqt) - Build and execute GraphQL queries in the terminal.
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
@@ -619,7 +620,7 @@
 - [sharkdp/shell-functools](https://github.com/sharkdp/shell-functools) - Functional programming tools for the shell
 - [boto/boto3](https://github.com/boto/boto3) - AWS SDK for Python
 - [donnemartin/awesome-aws](https://github.com/donnemartin/awesome-aws) - A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources.  Featuring the Fiery Meter of AWSome.
-- [jina-ai/jina](https://github.com/jina-ai/jina) - Cloud-native neural search framework for 𝙖𝙣𝙮 kind of data
+- [jina-ai/jina](https://github.com/jina-ai/jina) - Build cross-modal and multi-modal applications on the cloud
 - [Netflix/bless](https://github.com/Netflix/bless) - Repository for BLESS, an SSH Certificate Authority that runs as a AWS Lambda function
 - [aws-samples/aws-cdk-examples](https://github.com/aws-samples/aws-cdk-examples) - Example projects using the AWS CDK
 - [profusion/sgqlc](https://github.com/profusion/sgqlc) - Simple GraphQL Client
@@ -706,6 +707,8 @@
 
 ## Rust 
 
+- [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - mirrord lets you easily mirror traffic from your production environment to your development environment.
+- [benfred/py-spy](https://github.com/benfred/py-spy) - Sampling profiler for Python programs
 - [ellie/atuin](https://github.com/ellie/atuin) - 🐢 Magical shell history
 - [sansyrox/robyn](https://github.com/sansyrox/robyn) - Robyn is a fast and extensible async python web server with a rust runtime
 - [warp-tech/warpgate](https://github.com/warp-tech/warpgate) - Smart SSH bastion that works with any SSH client
