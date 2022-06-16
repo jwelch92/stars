@@ -100,6 +100,7 @@
 
 ## Clojure 
 
+- [tonsky/datascript](https://github.com/tonsky/datascript) - Immutable database and Datalog query engine for Clojure, ClojureScript and JS
 - [babashka/babashka](https://github.com/babashka/babashka) - Native, fast starting Clojure interpreter for scripting
 - [metabase/metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics  to everyone in your company :yum:
 - [jepsen-io/jepsen](https://github.com/jepsen-io/jepsen) - A framework for distributed systems verification, with fault injection
@@ -543,6 +544,7 @@
 
 ## Python 
 
+- [towhee-io/towhee](https://github.com/towhee-io/towhee) - A framework that provides a simple API for developing ML-driven data processing and search pipelines.
 - [GrahamDumpleton/wrapt](https://github.com/GrahamDumpleton/wrapt) - A Python module for decorators, wrappers and monkey patching.
 - [nats-io/nats.py](https://github.com/nats-io/nats.py) - Python3 client for NATS
 - [aio-libs/aiocache](https://github.com/aio-libs/aiocache) - Asyncio cache manager for redis, memcached and memory
@@ -846,6 +848,8 @@
 
 ## TypeScript 
 
+- [pengx17/logseq-plugin-tabs](https://github.com/pengx17/logseq-plugin-tabs) - A Logseq plugin which lets you open pages in tabs like working in the browser
+- [pengx17/logseq-plugin-template-react](https://github.com/pengx17/logseq-plugin-template-react) - Logseq plugin boilerplate for React. Powered by Vite ✨
 - [lucacasonato/fresh](https://github.com/lucacasonato/fresh) - Preact, but super edgy
 - [audapolis/audapolis](https://github.com/audapolis/audapolis) - an editor for spoken-word audio with automatic transcription
 - [hopinc/pika](https://github.com/hopinc/pika) - 🆔 The friendly, pragmatic and functional ID system
