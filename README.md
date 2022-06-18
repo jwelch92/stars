@@ -375,6 +375,7 @@
 
 ## JavaScript 
 
+- [guymorita/recommendationRaccoon](https://github.com/guymorita/recommendationRaccoon) - A collaborative filtering based recommendation engine and NPM module built on top of Node.js and Redis. The engine uses the Jaccard coefficient to determine the similarity between users and k-nearest-
 - [lucaong/minisearch](https://github.com/lucaong/minisearch) - Tiny and powerful JavaScript full-text search engine for browser and Node
 - [loverajoel/magicplaylist](https://github.com/loverajoel/magicplaylist) - Get the playlist of your dreams based on a song
 - [saharmor/dalle-playground](https://github.com/saharmor/dalle-playground) - A playground to generate images from any text prompt using DALL-E Mini and based on OpenAI's DALL-E https://openai.com/blog/dall-e/
@@ -544,6 +545,7 @@
 
 ## Python 
 
+- [grafana/oncall](https://github.com/grafana/oncall) - Developer-friendly incident response with brilliant Slack integration
 - [towhee-io/towhee](https://github.com/towhee-io/towhee) - A framework that provides a simple API for developing ML-driven data processing and search pipelines.
 - [GrahamDumpleton/wrapt](https://github.com/GrahamDumpleton/wrapt) - A Python module for decorators, wrappers and monkey patching.
 - [nats-io/nats.py](https://github.com/nats-io/nats.py) - Python3 client for NATS
@@ -719,6 +721,7 @@
 
 ## Rust 
 
+- [neondatabase/neon](https://github.com/neondatabase/neon) - The serverless open source alternative to AWS Aurora Postgres.
 - [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - mirrord lets you easily mirror traffic from your production environment to your development environment.
 - [benfred/py-spy](https://github.com/benfred/py-spy) - Sampling profiler for Python programs
 - [ellie/atuin](https://github.com/ellie/atuin) - 🐢 Magical shell history
