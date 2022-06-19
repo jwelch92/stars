@@ -457,6 +457,7 @@
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - An attempt to make neovim cli functional like an IDE while being very beautiful, blazing fast startuptime ~ 20ms to 70ms
 - [evantravers/hammerspoon-config](https://github.com/evantravers/hammerspoon-config) - My personal Hammerspoon setup
 - [ashfinal/awesome-hammerspoon](https://github.com/ashfinal/awesome-hammerspoon) - awesome configuration for Hammerspoon.
+- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A community-driven modular vim/neovim distribution - The ultimate vimrc
 - [material-shell/material-awesome](https://github.com/material-shell/material-awesome) - Material and Mouse driven config for AwesomeWM 4.3
 
 ## M4 
@@ -922,7 +923,6 @@
 
 ## Vim script 
 
-- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A community-driven modular vim/neovim distribution - The ultimate vimrc
 - [dstokes/dotfiles](https://github.com/dstokes/dotfiles) - There's no place like $HOME
 
 ## Vue 
