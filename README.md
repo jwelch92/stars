@@ -548,6 +548,7 @@
 
 ## Python 
 
+- [soimort/you-get](https://github.com/soimort/you-get) - :arrow_double_down: Dumb downloader that scrapes the web
 - [Baekalfen/PyBoy](https://github.com/Baekalfen/PyBoy) - Game Boy emulator written in Python
 - [grafana/oncall](https://github.com/grafana/oncall) - Developer-friendly incident response with brilliant Slack integration
 - [towhee-io/towhee](https://github.com/towhee-io/towhee) - A framework that provides a simple API for developing ML-driven data processing and search pipelines.
@@ -730,7 +731,7 @@
 - [benfred/py-spy](https://github.com/benfred/py-spy) - Sampling profiler for Python programs
 - [ellie/atuin](https://github.com/ellie/atuin) - 🐢 Magical shell history
 - [sansyrox/robyn](https://github.com/sansyrox/robyn) - Robyn is a fast and extensible async python web server with a rust runtime
-- [warp-tech/warpgate](https://github.com/warp-tech/warpgate) - Smart SSH bastion that works with any SSH client
+- [warp-tech/warpgate](https://github.com/warp-tech/warpgate) - Smart SSH and HTTPS bastion that works with any SSH client
 - [purton-tech/cloak](https://github.com/purton-tech/cloak) - Secrets automation for developers
 - [zesterer/chumsky](https://github.com/zesterer/chumsky) - A parser library for humans with powerful error recovery.
 - [indygreg/PyOxidizer](https://github.com/indygreg/PyOxidizer) - A modern Python application packaging and distribution tool
