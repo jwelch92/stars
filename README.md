@@ -856,6 +856,7 @@
 
 ## TypeScript 
 
+- [CRED-CLUB/neopop-web](https://github.com/CRED-CLUB/neopop-web) - NeoPOP components library based on CRED's design system
 - [pengx17/logseq-plugin-tabs](https://github.com/pengx17/logseq-plugin-tabs) - A Logseq plugin which lets you open pages in tabs like working in the browser
 - [pengx17/logseq-plugin-template-react](https://github.com/pengx17/logseq-plugin-template-react) - Logseq plugin boilerplate for React. Powered by Vite ✨
 - [denoland/fresh](https://github.com/denoland/fresh) - The next-gen web framework.
