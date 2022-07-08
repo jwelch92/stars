@@ -548,6 +548,7 @@
 
 ## Python 
 
+- [artsmolin/pythogen](https://github.com/artsmolin/pythogen) - Generator of python HTTP-clients from OpenAPI specification based on httpx and pydantic
 - [soimort/you-get](https://github.com/soimort/you-get) - :arrow_double_down: Dumb downloader that scrapes the web
 - [Baekalfen/PyBoy](https://github.com/Baekalfen/PyBoy) - Game Boy emulator written in Python
 - [grafana/oncall](https://github.com/grafana/oncall) - Developer-friendly incident response with brilliant Slack integration
