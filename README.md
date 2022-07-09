@@ -48,6 +48,7 @@
 - [V](#v)
 - [Vim script](#vim-script)
 - [Vue](#vue)
+- [Zig](#zig)
 
 ## C 
 
@@ -548,6 +549,7 @@
 
 ## Python 
 
+- [pyeventsourcing/eventsourcing](https://github.com/pyeventsourcing/eventsourcing) - A library for event sourcing in Python.
 - [artsmolin/pythogen](https://github.com/artsmolin/pythogen) - Generator of python HTTP-clients from OpenAPI specification based on httpx and pydantic
 - [soimort/you-get](https://github.com/soimort/you-get) - :arrow_double_down: Dumb downloader that scrapes the web
 - [Baekalfen/PyBoy](https://github.com/Baekalfen/PyBoy) - Game Boy emulator written in Python
@@ -857,6 +859,7 @@
 
 ## TypeScript 
 
+- [inside-labs/prisma-merge](https://github.com/inside-labs/prisma-merge) - Merge prisma schema files
 - [CRED-CLUB/neopop-web](https://github.com/CRED-CLUB/neopop-web) - NeoPOP components library based on CRED's design system
 - [pengx17/logseq-plugin-tabs](https://github.com/pengx17/logseq-plugin-tabs) - A Logseq plugin which lets you open pages in tabs like working in the browser
 - [pengx17/logseq-plugin-template-react](https://github.com/pengx17/logseq-plugin-template-react) - Logseq plugin boilerplate for React. Powered by Vite ✨
@@ -934,6 +937,10 @@
 ## Vue 
 
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
+
+## Zig 
+
+- [Jarred-Sumner/bun](https://github.com/Jarred-Sumner/bun) - Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one.
 
 
 ## License
