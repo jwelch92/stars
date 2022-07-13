@@ -80,6 +80,7 @@
 
 ## C++ 
 
+- [banjomasterpete/Teensy-Gurdy](https://github.com/banjomasterpete/Teensy-Gurdy) - Code and design files for building your own hurdy gurdy-inspired, Teensy-powered synthesizer!
 - [scottbez1/smartknob](https://github.com/scottbez1/smartknob) - Haptic input knob with software-defined endstops and virtual detents
 - [typesense/typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
 - [mscdex/mmmagic](https://github.com/mscdex/mmmagic) - An async libmagic binding for node.js for detecting content types by data inspection
@@ -151,6 +152,7 @@
 
 ## Go 
 
+- [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
 - [ThreeDotsLabs/watermill](https://github.com/ThreeDotsLabs/watermill) - Building event-driven applications the easy way in Go.
 - [get-got/discord-downloader-go](https://github.com/get-got/discord-downloader-go) - A Discord bot program to save files sent in Discord channels with extensive configuration. Can be used as a real bot or user-bot/self-bot
 - [evrone/go-clean-template](https://github.com/evrone/go-clean-template) - Clean Architecture template for Golang services
@@ -554,7 +556,7 @@
 - [soimort/you-get](https://github.com/soimort/you-get) - :arrow_double_down: Dumb downloader that scrapes the web
 - [Baekalfen/PyBoy](https://github.com/Baekalfen/PyBoy) - Game Boy emulator written in Python
 - [grafana/oncall](https://github.com/grafana/oncall) - Developer-friendly incident response with brilliant Slack integration
-- [towhee-io/towhee](https://github.com/towhee-io/towhee) - A framework that provides a simple API for developing ML-driven data processing and search pipelines.
+- [towhee-io/towhee](https://github.com/towhee-io/towhee) - Towhee is a framework that is dedicated to making neural data processing pipelines simple and fast.
 - [GrahamDumpleton/wrapt](https://github.com/GrahamDumpleton/wrapt) - A Python module for decorators, wrappers and monkey patching.
 - [nats-io/nats.py](https://github.com/nats-io/nats.py) - Python3 client for NATS
 - [aio-libs/aiocache](https://github.com/aio-libs/aiocache) - Asyncio cache manager for redis, memcached and memory
