@@ -92,6 +92,7 @@
 
 ## CSS 
 
+- [logseq/logseq-plugin-samples](https://github.com/logseq/logseq-plugin-samples) - Logseq plugin samples for beginner 🌱
 - [HermanMartinus/bearblog](https://github.com/HermanMartinus/bearblog) - Free, no-nonsense, super fast blogging.
 - [bradtraversy/50projects50days](https://github.com/bradtraversy/50projects50days) - 50+ mini web projects using HTML, CSS & JS
 - [kmaasrud/awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian) - 🕶️ Awesome stuff for Obsidian
@@ -550,6 +551,7 @@
 
 ## Python 
 
+- [steinitzu/celery-singleton](https://github.com/steinitzu/celery-singleton) - Seamlessly prevent duplicate executions of celery tasks
 - [pyeventsourcing/eventsourcing](https://github.com/pyeventsourcing/eventsourcing) - A library for event sourcing in Python.
 - [artsmolin/pythogen](https://github.com/artsmolin/pythogen) - Generator of python HTTP-clients from OpenAPI specification based on httpx and pydantic
 - [soimort/you-get](https://github.com/soimort/you-get) - :arrow_double_down: Dumb downloader that scrapes the web
