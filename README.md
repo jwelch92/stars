@@ -153,6 +153,7 @@
 
 ## Go 
 
+- [benthosdev/benthos](https://github.com/benthosdev/benthos) - Fancy stream processing made operationally mundane
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
 - [ThreeDotsLabs/watermill](https://github.com/ThreeDotsLabs/watermill) - Building event-driven applications the easy way in Go.
 - [get-got/discord-downloader-go](https://github.com/get-got/discord-downloader-go) - A Discord bot program to save files sent in Discord channels with extensive configuration. Can be used as a real bot or user-bot/self-bot
@@ -378,6 +379,7 @@
 
 ## JavaScript 
 
+- [usoonees/logseq-plugin-paste-more](https://github.com/usoonees/logseq-plugin-paste-more) - 
 - [guymorita/recommendationRaccoon](https://github.com/guymorita/recommendationRaccoon) - A collaborative filtering based recommendation engine and NPM module built on top of Node.js and Redis. The engine uses the Jaccard coefficient to determine the similarity between users and k-nearest-
 - [lucaong/minisearch](https://github.com/lucaong/minisearch) - Tiny and powerful JavaScript full-text search engine for browser and Node
 - [loverajoel/magicplaylist](https://github.com/loverajoel/magicplaylist) - Get the playlist of your dreams based on a song
@@ -452,7 +454,7 @@
 
 ## Kotlin 
 
-- [iAmGio/pikt](https://github.com/iAmGio/pikt) - :art: Image-based poetic programming language.
+- [iamgio/pikt](https://github.com/iamgio/pikt) - :art: Image-based poetic programming language.
 - [acejump/AceJump](https://github.com/acejump/AceJump) - 🅰️ single character search, select, and jump
 
 ## Lua 
@@ -551,6 +553,7 @@
 
 ## Python 
 
+- [amueller/word_cloud](https://github.com/amueller/word_cloud) - A little word cloud generator in Python
 - [steinitzu/celery-singleton](https://github.com/steinitzu/celery-singleton) - Seamlessly prevent duplicate executions of celery tasks
 - [pyeventsourcing/eventsourcing](https://github.com/pyeventsourcing/eventsourcing) - A library for event sourcing in Python.
 - [artsmolin/pythogen](https://github.com/artsmolin/pythogen) - Generator of python HTTP-clients from OpenAPI specification based on httpx and pydantic
