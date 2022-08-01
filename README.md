@@ -30,7 +30,6 @@
 - [Lua](#lua)
 - [M4](#m4)
 - [Makefile](#makefile)
-- [Mathematica](#mathematica)
 - [Nix](#nix)
 - [Objective-C](#objective-c)
 - [Others](#others)
@@ -476,10 +475,6 @@
 
 - [stenh0use/docker-machine-for-mac](https://github.com/stenh0use/docker-machine-for-mac) - Docker Machine for Mac - an alternative to Docker for Mac
 
-## Mathematica 
-
-- [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
-
 ## Nix 
 
 - [noteed/nix-notes](https://github.com/noteed/nix-notes) - A collection of short notes about Nix, each contributing to the same virtual machine image
@@ -609,6 +604,7 @@
 - [RunaCapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) - Awesome list of open-source startup alternatives to well-known SaaS products 🚀
 - [iwpnd/fastapi-key-auth](https://github.com/iwpnd/fastapi-key-auth) - FastAPI API key authorizer
 - [aminalaee/sqladmin](https://github.com/aminalaee/sqladmin) - SQLAlchemy Admin for Starlette/FastAPI
+- [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
 - [RobertCraigie/prisma-client-py](https://github.com/RobertCraigie/prisma-client-py) - Prisma Client Python is an auto-generated and fully type-safe database client designed for ease of use
 - [python/mypy](https://github.com/python/mypy) - Optional static typing for Python
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
@@ -711,7 +707,7 @@
 - [mwilliamson/jq.py](https://github.com/mwilliamson/jq.py) - Python bindings for jq
 - [waveform80/picamera](https://github.com/waveform80/picamera) - A pure Python interface to the Raspberry Pi camera module
 - [alexellis/phototimer](https://github.com/alexellis/phototimer) - A smart time-lapse driver for Raspberry Pi using raspistill
-- [kellyjonbrazil/jc](https://github.com/kellyjonbrazil/jc) - CLI tool and python library that converts the output of popular command-line tools and file-types to JSON, YAML, or Dictionaries. This allows piping of output to tools like jq and simplifying automati
+- [kellyjonbrazil/jc](https://github.com/kellyjonbrazil/jc) - CLI tool and python library that converts the output of popular command-line tools, file-types, and common strings to JSON, YAML, or Dictionaries. This allows piping of output to tools like jq and sim
 - [argoproj-labs/gordian](https://github.com/argoproj-labs/gordian) - Gordian applies transformations to files across multiple github repositories and creates pull requests for the owners of the repositories to review and merge them.
 - [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot
 - [scoder/acora](https://github.com/scoder/acora) - Fast multi-keyword search engine for text strings
