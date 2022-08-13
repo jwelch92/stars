@@ -181,7 +181,7 @@
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea, painless self-hosted git service
 - [samber/lo](https://github.com/samber/lo) - 💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
 - [k0kubun/sqldef](https://github.com/k0kubun/sqldef) - Idempotent schema management for MySQL, PostgreSQL, and more
-- [davidsbond/tailscale-client-go](https://github.com/davidsbond/tailscale-client-go) - A client implementation for the Tailscale HTTP API
+- [tailscale/tailscale-client-go](https://github.com/tailscale/tailscale-client-go) - A client implementation for the Tailscale HTTP API
 - [cosmtrek/air](https://github.com/cosmtrek/air) - ☁️ Live reload for Go apps
 - [dgraph-io/dgraph](https://github.com/dgraph-io/dgraph) - Native GraphQL Database with graph backend
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀
@@ -203,7 +203,7 @@
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦
 - [earthly/earthly](https://github.com/earthly/earthly) - The effortless CI/CD framework that runs anywhere
 - [ory/kratos](https://github.com/ory/kratos) - Next-gen identity server (think Auth0, Okta, Firebase) with Ory-hardened authentication, MFA, FIDO2, TOTP, WebAuthn, profile management, identity schemas, social sign in, registration, account recover
-- [davidsbond/terraform-provider-tailscale](https://github.com/davidsbond/terraform-provider-tailscale) - Terraform provider implementation for interacting with the Tailscale API.
+- [tailscale/terraform-provider-tailscale](https://github.com/tailscale/terraform-provider-tailscale) - Terraform provider implementation for interacting with the Tailscale API.
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines
 - [temporalio/temporal](https://github.com/temporalio/temporal) - Temporal service
 - [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
