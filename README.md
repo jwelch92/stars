@@ -372,7 +372,6 @@
 
 ## Haskell 
 
-- [hasura/graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.
 - [dfithian/hit](https://github.com/dfithian/hit) - A tool for managing multiple git repositories
 - [system-f/fp-course](https://github.com/system-f/fp-course) - Functional Programming Course
 
@@ -900,6 +899,7 @@
 - [BuilderIO/partytown](https://github.com/BuilderIO/partytown) - Relocate resource intensive third-party scripts off of the main thread and into a web worker. 🎉
 - [KATT/envsafe](https://github.com/KATT/envsafe) - 🔒 Makes sure you don't accidentally deploy apps with missing or invalid environment variables.
 - [RoadieHQ/roadie-backstage-plugins](https://github.com/RoadieHQ/roadie-backstage-plugins) - All Backstage plugins created by Roadie.
+- [hasura/graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.
 - [planetscale/beam](https://github.com/planetscale/beam) - A simple message board for your organization or project
 - [vercel/tracing-js](https://github.com/vercel/tracing-js) - An implementation of Opentracing API for honeycomb.io
 - [gristlabs/grist-core](https://github.com/gristlabs/grist-core) - Grist is the evolution of spreadsheets.
