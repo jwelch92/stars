@@ -831,7 +831,7 @@
 - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
 - [rhasspy/rhasspy](https://github.com/rhasspy/rhasspy) - Offline private voice assistant for many human languages
 - [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
-- [chrisgrieser/shimmering-focus](https://github.com/chrisgrieser/shimmering-focus) - A minimalistic Obsidian theme focused on readability and condensed information display
+- [chrisgrieser/shimmering-focus](https://github.com/chrisgrieser/shimmering-focus) - Minimalistic Obsidian Theme for keyboard-centric users.
 - [open-guides/og-aws](https://github.com/open-guides/og-aws) - 📙 Amazon Web Services — a practical guide
 - [showmewebcam/showmewebcam](https://github.com/showmewebcam/showmewebcam) - Raspberry Pi + High Quality Camera = High-quality USB Webcam!
 - [mislav/gh-branch](https://github.com/mislav/gh-branch) - GitHub CLI extension for fuzzy finding, quickly switching between and deleting branches.
