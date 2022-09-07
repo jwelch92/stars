@@ -564,6 +564,7 @@
 
 ## Python 
 
+- [tmotagam/Secweb](https://github.com/tmotagam/Secweb) - Secweb is a pack of security middlewares for fastApi and starlette server it includes CSP, HSTS, and many more
 - [akornatskyy/wheezy.template](https://github.com/akornatskyy/wheezy.template) - A lightweight template library.
 - [darrenburns/ward](https://github.com/darrenburns/ward) - Ward is a modern test framework for Python with a focus on productivity and readability.
 - [phillipdupuis/pydantic-to-typescript](https://github.com/phillipdupuis/pydantic-to-typescript) - CLI Tool for converting pydantic models into typescript definitions
