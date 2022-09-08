@@ -564,6 +564,7 @@
 
 ## Python 
 
+- [neonsecret/stable-diffusion-webui](https://github.com/neonsecret/stable-diffusion-webui) - Stable Diffusion web UI (neonsecret fork)
 - [tmotagam/Secweb](https://github.com/tmotagam/Secweb) - Secweb is a pack of security middlewares for fastApi and starlette server it includes CSP, HSTS, and many more
 - [akornatskyy/wheezy.template](https://github.com/akornatskyy/wheezy.template) - A lightweight template library.
 - [darrenburns/ward](https://github.com/darrenburns/ward) - Ward is a modern test framework for Python with a focus on productivity and readability.
@@ -682,7 +683,7 @@
 - [piku/piku](https://github.com/piku/piku) - The tiniest PaaS you've ever seen. Piku allows you to do git push deployments to your own servers.
 - [OpenBB-finance/OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal) - Investment Research for Everyone, Anywhere.
 - [graphql-python/graphene](https://github.com/graphql-python/graphene) - GraphQL framework for Python
-- [mirumee/ariadne](https://github.com/mirumee/ariadne) - Ariadne is a Python library for implementing GraphQL servers using schema-first approach.
+- [mirumee/ariadne](https://github.com/mirumee/ariadne) - Python library for implementing GraphQL servers using schema-first approach.
 - [securing/DumpsterDiver](https://github.com/securing/DumpsterDiver) - Tool to search secrets in various filetypes.
 - [Fizzadar/pyinfra](https://github.com/Fizzadar/pyinfra) - pyinfra automates infrastructure super fast at massive scale. It can be used for ad-hoc command execution, service deployment, configuration management and more.
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
