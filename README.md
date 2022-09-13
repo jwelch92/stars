@@ -74,7 +74,7 @@
 - [oskardudycz/EventSourcing.NetCore](https://github.com/oskardudycz/EventSourcing.NetCore) - Examples and Tutorials of Event Sourcing in .NET
 - [TheAxelander/OpenBudgeteer](https://github.com/TheAxelander/OpenBudgeteer) - OpenBudgeteer is a budgeting app based on the Bucket Budgeting Principle
 - [duplicati/duplicati](https://github.com/duplicati/duplicati) - Store securely encrypted backups in the cloud!
-- [files-community/Files](https://github.com/files-community/Files) - A modern file manager for Windows
+- [files-community/Files](https://github.com/files-community/Files) - Building the best File Manager for Windows
 - [File-New-Project/EarTrumpet](https://github.com/File-New-Project/EarTrumpet) - EarTrumpet - Volume Control for Windows
 - [valheimPlus/ValheimPlus](https://github.com/valheimPlus/ValheimPlus) - A HarmonyX Mod aimed at improving the gameplay and quality of life of the game Valheim.
 - [pardeike/Harmony](https://github.com/pardeike/Harmony) - A library for patching, replacing and decorating .NET and Mono methods during runtime
@@ -496,6 +496,7 @@
 
 ## Others 
 
+- [joaocarvalhoopen/How_to_learn_modern_Rust](https://github.com/joaocarvalhoopen/How_to_learn_modern_Rust) - A guide to the adventurer.
 - [zhanymkanov/fastapi-best-practices](https://github.com/zhanymkanov/fastapi-best-practices) - FastAPI Best Practices and Conventions we used @ hi.peerlink.me
 - [girliemac/a-picture-is-worth-a-1000-words](https://github.com/girliemac/a-picture-is-worth-a-1000-words) - I am trying to describe complex matters in simple doodles!
 - [hwayne/awesome-cold-showers](https://github.com/hwayne/awesome-cold-showers) - For when people get too hyped up about things
@@ -564,6 +565,7 @@
 
 ## Python 
 
+- [minimaxir/big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings) - The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data.
 - [samuelcolvin/watchfiles](https://github.com/samuelcolvin/watchfiles) - Simple, modern and high performance file watching and code reload in python.
 - [samuelcolvin/arq](https://github.com/samuelcolvin/arq) - Fast job queuing and RPC in python with asyncio and redis.
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
@@ -891,6 +893,7 @@
 
 ## TypeScript 
 
+- [honeycombio/gha-buildevents](https://github.com/honeycombio/gha-buildevents) - Trace GitHub Action workflows with Honeycomb
 - [inside-labs/prisma-merge](https://github.com/inside-labs/prisma-merge) - Merge prisma schema files
 - [CRED-CLUB/neopop-web](https://github.com/CRED-CLUB/neopop-web) - NeoPOP components library based on CRED's design system
 - [pengx17/logseq-plugin-tabs](https://github.com/pengx17/logseq-plugin-tabs) - A Logseq plugin which lets you open pages in tabs like working in the browser
