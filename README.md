@@ -133,6 +133,7 @@
 
 ## Dockerfile 
 
+- [bscott/pocketbase-litestream](https://github.com/bscott/pocketbase-litestream) - Pocketbase with Lightstream
 - [benbjohnson/litestream-s6-example](https://github.com/benbjohnson/litestream-s6-example) - Example repository for building a multi-process Docker container.
 - [artis3n/ansible-role-tailscale](https://github.com/artis3n/ansible-role-tailscale) - Ansible role to install and enable a Tailscale node.
 - [appleboy/ssh-action](https://github.com/appleboy/ssh-action) - GitHub Actions for executing remote ssh commands.
