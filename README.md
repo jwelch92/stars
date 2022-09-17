@@ -158,6 +158,7 @@
 
 ## Go 
 
+- [dgraph-io/badger](https://github.com/dgraph-io/badger) - Fast key-value DB in Go.
 - [docker-slim/docker-slim](https://github.com/docker-slim/docker-slim) - DockerSlim (docker-slim): Don't change anything in your Docker container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
 - [Permify/permify](https://github.com/Permify/permify) - Permify is an open-source authorization service & policy engine based on Google Zanzibar.
@@ -836,6 +837,7 @@
 
 ## Shell 
 
+- [ianthehenry/sd](https://github.com/ianthehenry/sd) - a cozy nest for your scripts
 - [wfxr/forgit](https://github.com/wfxr/forgit) - :zzz: A utility tool powered by fzf for using git interactively.
 - [pingidentity/pingidentity-devops-getting-started](https://github.com/pingidentity/pingidentity-devops-getting-started) - Ping Identity Devops Program
 - [pi-hole/docker-pi-hole](https://github.com/pi-hole/docker-pi-hole) - Pi-hole in a docker container
