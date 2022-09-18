@@ -261,7 +261,7 @@
 - [sourcegraph/go-diff](https://github.com/sourcegraph/go-diff) - Unified diff parser and printer for Go
 - [antonmedv/expr](https://github.com/antonmedv/expr) - Expression language for Go
 - [uber-go/goleak](https://github.com/uber-go/goleak) - Goroutine leak detector
-- [imdario/mergo](https://github.com/imdario/mergo) - Mergo: merging Go structs and maps since 2013.
+- [imdario/mergo](https://github.com/imdario/mergo) - Mergo: merging Go structs and maps since 2013
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
 - [salesforce/craft](https://github.com/salesforce/craft) - CRAFT removes the language barrier to create Kubernetes Operators.
 - [operatify/operatify](https://github.com/operatify/operatify) - Operators made simple for resources with CRUD APIs
