@@ -902,6 +902,7 @@
 
 ## TypeScript 
 
+- [JohannesKlauss/react-hotkeys-hook](https://github.com/JohannesKlauss/react-hotkeys-hook) - React hook for using keyboard shortcuts in components.
 - [honeycombio/gha-buildevents](https://github.com/honeycombio/gha-buildevents) - Trace GitHub Action workflows with Honeycomb
 - [inside-labs/prisma-merge](https://github.com/inside-labs/prisma-merge) - Merge prisma schema files
 - [CRED-CLUB/neopop-web](https://github.com/CRED-CLUB/neopop-web) - NeoPOP components library based on CRED's design system
