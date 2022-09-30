@@ -158,6 +158,7 @@
 
 ## Go 
 
+- [austinorth/pagerbot](https://github.com/austinorth/pagerbot) - A bot that updates Slack usergroups based on PagerDuty schedules.
 - [weaveworks/ignite](https://github.com/weaveworks/ignite) - Ignite a Firecracker microVM
 - [jetpack-io/devbox](https://github.com/jetpack-io/devbox) - Instant, easy, predictable shells and containers.
 - [superfly/litefs](https://github.com/superfly/litefs) - FUSE-based file system for replicating SQLite databases across a cluster of machines
