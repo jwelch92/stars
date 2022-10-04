@@ -200,6 +200,7 @@
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
 - [gilbertchen/duplicacy](https://github.com/gilbertchen/duplicacy) - A new generation cloud backup tool
 - [toboshii/hajimari](https://github.com/toboshii/hajimari) - Hajimari is a beautiful & customizable browser startpage/dashboard with Kubernetes application discovery.
+- [khuedoan/homelab](https://github.com/khuedoan/homelab) - Modern self-hosting infrastructure, fully automated from empty disk to operating services.
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
 - [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
@@ -645,7 +646,6 @@
 - [python/mypy](https://github.com/python/mypy) - Optional static typing for Python
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [borgbackup/borg](https://github.com/borgbackup/borg) - Deduplicating archiver with compression and authenticated encryption.
-- [khuedoan/homelab](https://github.com/khuedoan/homelab) - Small and energy efficient self-hosting infrastructure, fully automated from empty disk to operating services.
 - [public/sonora](https://github.com/public/sonora) - A gRPC-Web implementation for Python
 - [coleifer/peewee](https://github.com/coleifer/peewee) - a small, expressive orm -- supports postgresql, mysql and sqlite
 - [encode/orm](https://github.com/encode/orm) - An async ORM. 🗃
