@@ -17,6 +17,7 @@
 - [Dockerfile](#dockerfile)
 - [Elixir](#elixir)
 - [Emacs Lisp](#emacs-lisp)
+- [Fennel](#fennel)
 - [GDScript](#gdscript)
 - [Go](#go)
 - [HCL](#hcl)
@@ -152,6 +153,10 @@
 
 - [doomemacs/doomemacs](https://github.com/doomemacs/doomemacs) - An Emacs framework for the stubborn martian hacker
 - [syl20bnr/spacemacs](https://github.com/syl20bnr/spacemacs) - A community-driven Emacs distribution - The best editor is neither Emacs nor Vim,  it's Emacs *and* Vim!
+
+## Fennel 
+
+- [ggandor/leap.nvim](https://github.com/ggandor/leap.nvim) - 🦘 Neovim's answer to the mouse: a "clairvoyant" interface that makes on-screen jumps quicker and more natural than ever
 
 ## GDScript 
 
@@ -942,7 +947,7 @@
 - [hasura/graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.
 - [planetscale/beam](https://github.com/planetscale/beam) - A simple message board for your organization or project
 - [vercel/tracing-js](https://github.com/vercel/tracing-js) - An implementation of Opentracing API for honeycomb.io
-- [gristlabs/grist-core](https://github.com/gristlabs/grist-core) - Grist is the evolution of spreadsheets. The name comes from mushing grid and list together. Yes we know it sounds like gristle.
+- [gristlabs/grist-core](https://github.com/gristlabs/grist-core) - Grist is the evolution of spreadsheets.
 - [workos/workos-node](https://github.com/workos/workos-node) - Official Node SDK for interacting with the WorkOS API
 - [nix-community/vscode-nix-ide](https://github.com/nix-community/vscode-nix-ide) - Nix language support for VSCode editor [maintainer: @jnoortheen]
 - [suzuki-shunsuke/tfaction](https://github.com/suzuki-shunsuke/tfaction) - GitHub Actions collection for Opinionated Terraform Workflow
