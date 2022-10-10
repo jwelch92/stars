@@ -14,6 +14,7 @@
 - [Common Lisp](#common-lisp)
 - [Crystal](#crystal)
 - [Cython](#cython)
+- [Dart](#dart)
 - [Dockerfile](#dockerfile)
 - [Elixir](#elixir)
 - [Emacs Lisp](#emacs-lisp)
@@ -132,6 +133,10 @@
 ## Cython 
 
 - [MagicStack/uvloop](https://github.com/MagicStack/uvloop) - Ultra fast asyncio event loop.
+
+## Dart 
+
+- [tortuvshin/open-source-flutter-apps](https://github.com/tortuvshin/open-source-flutter-apps) - :iphone: List of open source Flutter applications :octocat:
 
 ## Dockerfile 
 
