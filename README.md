@@ -541,7 +541,7 @@
 - [oz123/awesome-backup](https://github.com/oz123/awesome-backup) - A list of FOSS backup software
 - [xgrommx/awesome-functional-programming](https://github.com/xgrommx/awesome-functional-programming) - Yet another resource for collecting articles, videos etc. regarding functional programming
 - [meirwah/awesome-workflow-engines](https://github.com/meirwah/awesome-workflow-engines) - A curated list of awesome open source workflow engines
-- [qvisten999/christmas-ball](https://github.com/qvisten999/christmas-ball) - CO2 measuring christmas ball that changes color based on CO2 level
+- [jacobqvist/christmas-ball](https://github.com/jacobqvist/christmas-ball) - CO2 measuring christmas ball that changes color based on CO2 level
 - [terrytangyuan/awesome-argo](https://github.com/terrytangyuan/awesome-argo) - A curated list of awesome projects and resources related to Argo (a CNCF hosted project)
 - [gitpod-io/template-jetbrains-pycharm](https://github.com/gitpod-io/template-jetbrains-pycharm) - A template, configured for Gitpod (www.gitpod.io) to give you pre-built, ephemeral development environments in the cloud via JetBrains PyCharm.
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
