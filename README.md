@@ -592,6 +592,7 @@
 
 ## Python 
 
+- [jaraco/inflect](https://github.com/jaraco/inflect) - Correctly generate plurals, ordinals, indefinite articles; convert numbers to words
 - [kiwicom/pytest-recording](https://github.com/kiwicom/pytest-recording) - A pytest plugin that allows recording network interactions via VCR.py
 - [starlite-api/starlite](https://github.com/starlite-api/starlite) - Light, Flexible and Extensible ASGI API framework
 - [encode/databases](https://github.com/encode/databases) - Async database support for Python. 🗄
@@ -798,6 +799,7 @@
 
 ## Rust 
 
+- [PyO3/maturin](https://github.com/PyO3/maturin) - Build and publish crates with pyo3, rust-cpython and cffi bindings as well as rust binaries as python packages
 - [fereidani/kanal](https://github.com/fereidani/kanal) - The fast sync and async channel that Rust deserves
 - [serenity-rs/serenity](https://github.com/serenity-rs/serenity) - A Rust library for the Discord API.
 - [charliermarsh/ruff](https://github.com/charliermarsh/ruff) - An extremely fast Python linter, written in Rust.
