@@ -644,6 +644,7 @@
 - [cameronmaske/celery-once](https://github.com/cameronmaske/celery-once) - Celery Once allows you to prevent multiple execution and queuing of celery tasks.
 - [sibson/redbeat](https://github.com/sibson/redbeat) - RedBeat is a Celery Beat Scheduler that stores the scheduled tasks and runtime metadata in Redis.
 - [ovh/celery-director](https://github.com/ovh/celery-director) - Simple and rapid framework to build workflows with Celery
+- [pyscript/pyscript](https://github.com/pyscript/pyscript) - Home Page: https://pyscript.net  Examples: https://pyscript.net/examples
 - [auth0/auth0-python](https://github.com/auth0/auth0-python) - Auth0 SDK for Python
 - [trentm/python-markdown2](https://github.com/trentm/python-markdown2) - markdown2: A fast and complete implementation of Markdown in Python
 - [sissbruecker/linkding](https://github.com/sissbruecker/linkding) - Self-hosted bookmark service
@@ -952,7 +953,6 @@
 - [ansh/jiffyreader.com](https://github.com/ansh/jiffyreader.com) - A Browser Extension for Bionic Reading on ANY website!
 - [audapolis/audapolis](https://github.com/audapolis/audapolis) - an editor for spoken-word audio with automatic transcription
 - [hopinc/pika](https://github.com/hopinc/pika) - 🆔 The friendly, pragmatic and functional ID system
-- [pyscript/pyscript](https://github.com/pyscript/pyscript) - Home Page: https://pyscript.net  Examples: https://pyscript.net/examples
 - [Qwyntex/doubleshift](https://github.com/Qwyntex/doubleshift) - Obsidian Plugin to open the command palette by pressing shift twice
 - [google/wireit](https://github.com/google/wireit) - Wireit upgrades your npm scripts to make them smarter and more efficient.
 - [Precise-Finance/opentelemetry-instrumentation-prisma](https://github.com/Precise-Finance/opentelemetry-instrumentation-prisma) - Opentelemetry instrumentation plugin for Prisma ORM
