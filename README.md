@@ -601,7 +601,7 @@
 - [PagerDuty/pdpyras](https://github.com/PagerDuty/pdpyras) - Low-level PagerDuty REST API Client in Python
 - [jordaneremieff/mangum](https://github.com/jordaneremieff/mangum) - AWS Lambda support for ASGI applications
 - [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from thousands of sites
-- [DavidVujic/poetry-multiproject-plugin](https://github.com/DavidVujic/poetry-multiproject-plugin) - A Poetry plugin that aims to simplify package & dependency management for projects in Monorepos.
+- [DavidVujic/poetry-multiproject-plugin](https://github.com/DavidVujic/poetry-multiproject-plugin) - A Poetry plugin that makes it simple to share code between projects in monorepos.
 - [jina-ai/discoart](https://github.com/jina-ai/discoart) - 🪩 Create Disco Diffusion artworks in one line
 - [sepandhaghighi/samila](https://github.com/sepandhaghighi/samila) - Generative Art Generator
 - [minimaxir/big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings) - The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data.
