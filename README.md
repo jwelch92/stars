@@ -615,7 +615,6 @@
 - [darrenburns/ward](https://github.com/darrenburns/ward) - Ward is a modern test framework for Python with a focus on productivity and readability.
 - [phillipdupuis/pydantic-to-typescript](https://github.com/phillipdupuis/pydantic-to-typescript) - CLI Tool for converting pydantic models into typescript definitions
 - [PyCQA/autoflake](https://github.com/PyCQA/autoflake) - Removes unused imports and unused variables as reported by pyflakes
-- [honeycombio/examples](https://github.com/honeycombio/examples) - Example apps and instrumentation for Honeycomb
 - [VirtusLab/git-machete](https://github.com/VirtusLab/git-machete) - Probably the sharpest git repository organizer & rebase/merge workflow automation tool you've ever seen
 - [amueller/word_cloud](https://github.com/amueller/word_cloud) - A little word cloud generator in Python
 - [steinitzu/celery-singleton](https://github.com/steinitzu/celery-singleton) - Seamlessly prevent duplicate executions of celery tasks
@@ -794,6 +793,7 @@
 
 ## Ruby 
 
+- [honeycombio/examples](https://github.com/honeycombio/examples) - Example apps and instrumentation for Honeycomb
 - [KrauseFx/FxLifeSheet](https://github.com/KrauseFx/FxLifeSheet) - Tracking the key metrics of my life
 - [mastodon/mastodon](https://github.com/mastodon/mastodon) - Your self-hosted, globally interconnected microblogging community
 - [appvia/krane](https://github.com/appvia/krane) - Kubernetes RBAC static analysis & visualisation tool
