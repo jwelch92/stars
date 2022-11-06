@@ -748,7 +748,7 @@
 - [PhantomInsights/subreddit-analyzer](https://github.com/PhantomInsights/subreddit-analyzer) - A comprehensive Data and Text Mining workflow for submissions and comments from any given public subreddit.
 - [BurguerJohn/Dain-App](https://github.com/BurguerJohn/Dain-App) - Source code for Dain-App
 - [Delgan/loguru](https://github.com/Delgan/loguru) - Python logging made (stupidly) simple
-- [mvantellingen/python-zeep](https://github.com/mvantellingen/python-zeep) - A modern/fast python SOAP client based on lxml / requests
+- [mvantellingen/python-zeep](https://github.com/mvantellingen/python-zeep) - A Python SOAP client
 - [tiangolo/full-stack-fastapi-postgresql](https://github.com/tiangolo/full-stack-fastapi-postgresql) - Full stack, modern web application generator. Using FastAPI, PostgreSQL as database, Docker, automatic HTTPS and more.
 - [jazzband/pip-tools](https://github.com/jazzband/pip-tools) - A set of tools to keep your pinned Python dependencies fresh.
 - [sdispater/pendulum](https://github.com/sdispater/pendulum) - Python datetimes made easy
