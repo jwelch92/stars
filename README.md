@@ -278,7 +278,7 @@
 - [d4l3k/messagediff](https://github.com/d4l3k/messagediff) - A library for doing diffs of arbitrary Golang structs.
 - [kylelemons/godebug](https://github.com/kylelemons/godebug) - Debugging helper utilities for Go
 - [sourcegraph/go-diff](https://github.com/sourcegraph/go-diff) - Unified diff parser and printer for Go
-- [antonmedv/expr](https://github.com/antonmedv/expr) - Expression language for Go
+- [antonmedv/expr](https://github.com/antonmedv/expr) - Expression language and expression evaluation for Go
 - [uber-go/goleak](https://github.com/uber-go/goleak) - Goroutine leak detector
 - [imdario/mergo](https://github.com/imdario/mergo) - Mergo: merging Go structs and maps since 2013
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
