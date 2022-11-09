@@ -524,6 +524,7 @@
 - [slackapi/app-directory-assets](https://github.com/slackapi/app-directory-assets) - A collection of design assets to help build an app directory submission
 - [joaocarvalhoopen/How_to_learn_modern_Rust](https://github.com/joaocarvalhoopen/How_to_learn_modern_Rust) - A guide to the adventurer.
 - [zhanymkanov/fastapi-best-practices](https://github.com/zhanymkanov/fastapi-best-practices) - FastAPI Best Practices and Conventions we used @ hi.peerlink.me
+- [honeycombio/examples](https://github.com/honeycombio/examples) - Example apps and instrumentation for Honeycomb
 - [girliemac/a-picture-is-worth-a-1000-words](https://github.com/girliemac/a-picture-is-worth-a-1000-words) - I am trying to describe complex matters in simple doodles!
 - [hwayne/awesome-cold-showers](https://github.com/hwayne/awesome-cold-showers) - For when people get too hyped up about things
 - [brickbots/framedeck](https://github.com/brickbots/framedeck) - A Framework mainboard based Cyberdeck
@@ -793,7 +794,6 @@
 
 ## Ruby 
 
-- [honeycombio/examples](https://github.com/honeycombio/examples) - Example apps and instrumentation for Honeycomb
 - [KrauseFx/FxLifeSheet](https://github.com/KrauseFx/FxLifeSheet) - Tracking the key metrics of my life
 - [mastodon/mastodon](https://github.com/mastodon/mastodon) - Your self-hosted, globally interconnected microblogging community
 - [appvia/krane](https://github.com/appvia/krane) - Kubernetes RBAC static analysis & visualisation tool
