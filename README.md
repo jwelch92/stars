@@ -521,6 +521,7 @@
 
 ## Others 
 
+- [wso2/reference-architecture](https://github.com/wso2/reference-architecture) - The Reference Architecture for Agility is a technology-neutral logical architecture based on a disaggregated cloud-based model.
 - [slackapi/app-directory-assets](https://github.com/slackapi/app-directory-assets) - A collection of design assets to help build an app directory submission
 - [joaocarvalhoopen/How_to_learn_modern_Rust](https://github.com/joaocarvalhoopen/How_to_learn_modern_Rust) - A guide to the adventurer.
 - [zhanymkanov/fastapi-best-practices](https://github.com/zhanymkanov/fastapi-best-practices) - FastAPI Best Practices and Conventions we used @ hi.peerlink.me
@@ -929,7 +930,6 @@
 
 ## Svelte 
 
-- [Budibase/budibase](https://github.com/Budibase/budibase) - Low code platform for creating internal tools, workflows, and admin panels in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀. Budibase, the low code platform yo
 - [illright/attractions](https://github.com/illright/attractions) - A pretty cool UI kit for Svelte
 
 ## Swift 
@@ -962,7 +962,7 @@
 - [audapolis/audapolis](https://github.com/audapolis/audapolis) - an editor for spoken-word audio with automatic transcription
 - [hopinc/pika](https://github.com/hopinc/pika) - 🆔 The friendly, pragmatic and functional ID system
 - [Qwyntex/doubleshift](https://github.com/Qwyntex/doubleshift) - Obsidian Plugin to open the command palette by pressing shift twice
-- [google/wireit](https://github.com/google/wireit) - Wireit upgrades your npm scripts to make them smarter and more efficient.
+- [google/wireit](https://github.com/google/wireit) - Wireit upgrades your npm/pnpm/yarn scripts to make them smarter and more efficient.
 - [Precise-Finance/opentelemetry-instrumentation-prisma](https://github.com/Precise-Finance/opentelemetry-instrumentation-prisma) - Opentelemetry instrumentation plugin for Prisma ORM
 - [redwoodjs/redwood](https://github.com/redwoodjs/redwood) - The App Framework for Startups
 - [vercel/swr](https://github.com/vercel/swr) - React Hooks for Data Fetching
@@ -983,6 +983,7 @@
 - [ospfranco/sol](https://github.com/ospfranco/sol) - MacOS launcher & command palette
 - [multiprocessio/datastation](https://github.com/multiprocessio/datastation) - App to easily query, script, and visualize data from every database, file, and API.
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta.
+- [Budibase/budibase](https://github.com/Budibase/budibase) - Low code platform for creating internal tools, workflows, and admin panels in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀. Budibase, the low code platform yo
 - [zenozeng/color-hash](https://github.com/zenozeng/color-hash) - Generate color based on the given string (using HSL color space and SHA256).
 - [jitsucom/jitsu](https://github.com/jitsucom/jitsu) - Jitsu is an open-source Segment alternative. Fully-scriptable data ingestion engine for modern data teams. Set-up a real-time data pipeline in minutes, not days
 - [open-telemetry/opentelemetry-js](https://github.com/open-telemetry/opentelemetry-js) - OpenTelemetry JavaScript Client
