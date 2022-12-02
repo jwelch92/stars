@@ -496,6 +496,7 @@
 
 ## Lua 
 
+- [imakewebthings/advent-2022](https://github.com/imakewebthings/advent-2022) - 
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - An attempt to make neovim cli functional like an IDE while being very beautiful, blazing fast startuptime ~ 14ms to 67ms
 - [evantravers/hammerspoon-config](https://github.com/evantravers/hammerspoon-config) - My personal Hammerspoon setup
 - [ashfinal/awesome-hammerspoon](https://github.com/ashfinal/awesome-hammerspoon) - awesome configuration for Hammerspoon.
@@ -525,6 +526,7 @@
 
 ## Others 
 
+- [tstanislawek/awesome-document-understanding](https://github.com/tstanislawek/awesome-document-understanding) - A curated list of resources for Document Understanding (DU) topic
 - [wso2/reference-architecture](https://github.com/wso2/reference-architecture) - The Reference Architecture for Agility is a technology-neutral logical architecture based on a disaggregated cloud-based model.
 - [slackapi/app-directory-assets](https://github.com/slackapi/app-directory-assets) - A collection of design assets to help build an app directory submission
 - [joaocarvalhoopen/How_to_learn_modern_Rust](https://github.com/joaocarvalhoopen/How_to_learn_modern_Rust) - A guide to the adventurer.
@@ -598,6 +600,9 @@
 
 ## Python 
 
+- [encode/broadcaster](https://github.com/encode/broadcaster) - Broadcast channels for async web apps. 📢
+- [permitio/opal](https://github.com/permitio/opal) - Policy and data administration, distribution, and real-time updates on top of Open Policy Agent
+- [nat-n/poethepoet](https://github.com/nat-n/poethepoet) - A task runner that works well with poetry.
 - [samuelcolvin/python-devtools](https://github.com/samuelcolvin/python-devtools) - Dev tools for python
 - [joweich/chat-miner](https://github.com/joweich/chat-miner) - Turn your chats into artwork
 - [Anrijs/Aranet4-Python](https://github.com/Anrijs/Aranet4-Python) - Aranet4 Python client
