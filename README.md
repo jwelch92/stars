@@ -33,6 +33,7 @@
 - [Lua](#lua)
 - [M4](#m4)
 - [Makefile](#makefile)
+- [Nim](#nim)
 - [Nix](#nix)
 - [Objective-C](#objective-c)
 - [Others](#others)
@@ -144,7 +145,7 @@
 
 - [bscott/pocketbase-litestream](https://github.com/bscott/pocketbase-litestream) - Pocketbase with Lightstream
 - [benbjohnson/litestream-s6-example](https://github.com/benbjohnson/litestream-s6-example) - Example repository for building a multi-process Docker container.
-- [artis3n/ansible-role-tailscale](https://github.com/artis3n/ansible-role-tailscale) - Ansible role to install and enable a Tailscale node.
+- [artis3n/ansible-role-tailscale](https://github.com/artis3n/ansible-role-tailscale) - Ansible role to install and configure a Tailscale node.
 - [appleboy/ssh-action](https://github.com/appleboy/ssh-action) - GitHub Actions for executing remote ssh commands.
 - [croaker/languagetool-docker](https://github.com/croaker/languagetool-docker) - Languagetool HTTP Server including fastText as a docker image.
 - [serverless/github-action](https://github.com/serverless/github-action) - :zap::octocat: A Github Action for deploying with the Serverless Framework
@@ -511,6 +512,10 @@
 
 - [stenh0use/docker-machine-for-mac](https://github.com/stenh0use/docker-machine-for-mac) - Docker Machine for Mac - an alternative to Docker for Mac
 
+## Nim 
+
+- [ringabout/awesome-nim](https://github.com/ringabout/awesome-nim) - A curated list of awesome Nim frameworks, libraries, software and resources.
+
 ## Nix 
 
 - [nix-community/poetry2nix](https://github.com/nix-community/poetry2nix) - Convert poetry projects to nix automagically [maintainer=@adisbladis]
@@ -526,6 +531,7 @@
 
 ## Others 
 
+- [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay) - Unlock your displays on your Mac! Smooth scaling, HiDPI unlock, XDR/HDR extra brightness upscale, DDC, brightness and dimming, dummy displays, PIP and lots more!
 - [tstanislawek/awesome-document-understanding](https://github.com/tstanislawek/awesome-document-understanding) - A curated list of resources for Document Understanding (DU) topic
 - [wso2/reference-architecture](https://github.com/wso2/reference-architecture) - The Reference Architecture for Agility is a technology-neutral logical architecture based on a disaggregated cloud-based model.
 - [slackapi/app-directory-assets](https://github.com/slackapi/app-directory-assets) - A collection of design assets to help build an app directory submission
@@ -777,7 +783,6 @@
 - [tiangolo/uvicorn-gunicorn-fastapi-docker](https://github.com/tiangolo/uvicorn-gunicorn-fastapi-docker) - Docker image with Uvicorn managed by Gunicorn for high-performance FastAPI web applications in Python with performance auto-tuning. Optionally with Alpine Linux.
 - [honeycombio/beeline-python](https://github.com/honeycombio/beeline-python) - Easy observability for your Python apps with Honeycomb.
 - [kresimir-lukin/AdventOfCode2020](https://github.com/kresimir-lukin/AdventOfCode2020) - 
-- [thecircleisround/AdventofCode2020](https://github.com/thecircleisround/AdventofCode2020) - 
 - [kwelch95/Advent_of_Code_2020](https://github.com/kwelch95/Advent_of_Code_2020) - 
 - [cosmicpython/code](https://github.com/cosmicpython/code) - Example application code for the python architecture book
 - [mwilliamson/jq.py](https://github.com/mwilliamson/jq.py) - Python bindings for jq
@@ -958,6 +963,7 @@
 
 ## TypeScript 
 
+- [Escape-Technologies/graphql-armor](https://github.com/Escape-Technologies/graphql-armor) - 🛡️ The missing GraphQL security security layer for Apollo GraphQL and Yoga / Envelop servers 🛡️
 - [openblocks-dev/openblocks](https://github.com/openblocks-dev/openblocks) - 🔥 🔥 🔥 The Open Source Retool Alternative
 - [brokenloop/jsontopydantic](https://github.com/brokenloop/jsontopydantic) - Web tool for generating Pydantic models from JSON objects
 - [JohannesKlauss/react-hotkeys-hook](https://github.com/JohannesKlauss/react-hotkeys-hook) - React hook for using keyboard shortcuts in components.
