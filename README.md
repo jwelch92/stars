@@ -174,6 +174,7 @@
 
 ## Go 
 
+- [oklog/ulid](https://github.com/oklog/ulid) - Universally Unique Lexicographically Sortable Identifier (ULID) in Go
 - [beringresearch/macpine](https://github.com/beringresearch/macpine) - Lightweight Linux VMs on MacOS
 - [austinorth/pagerbot](https://github.com/austinorth/pagerbot) - A bot that updates Slack usergroups based on PagerDuty schedules.
 - [weaveworks/ignite](https://github.com/weaveworks/ignite) - Ignite a Firecracker microVM
@@ -413,7 +414,7 @@
 
 ## JavaScript 
 
-- [wong2/chat-gpt-google-extension](https://github.com/wong2/chat-gpt-google-extension) - A Chrome extension to show ChatGPT response in Google search results
+- [wong2/chat-gpt-google-extension](https://github.com/wong2/chat-gpt-google-extension) - A browser extension to display ChatGPT response alongside Google Search results
 - [leeoniya/uFuzzy](https://github.com/leeoniya/uFuzzy) - A tiny, efficient fuzzy search that doesn't suck
 - [stevenvachon/broken-link-checker](https://github.com/stevenvachon/broken-link-checker) - Find broken links, missing images, etc within your HTML.
 - [usoonees/logseq-plugin-paste-more](https://github.com/usoonees/logseq-plugin-paste-more) - 
@@ -736,7 +737,7 @@
 - [sharkdp/shell-functools](https://github.com/sharkdp/shell-functools) - Functional programming tools for the shell
 - [boto/boto3](https://github.com/boto/boto3) - AWS SDK for Python
 - [donnemartin/awesome-aws](https://github.com/donnemartin/awesome-aws) - A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources.  Featuring the Fiery Meter of AWSome.
-- [jina-ai/jina](https://github.com/jina-ai/jina) - 🔮 The most advanced MLOps platform for multimodal AI on the cloud · Neural Search · Creative AI · Cloud Native
+- [jina-ai/jina](https://github.com/jina-ai/jina) - 🔮 Build multimodal AI services via cloud native technologies · Neural Search · Generative AI · Cloud Native
 - [Netflix/bless](https://github.com/Netflix/bless) - Repository for BLESS, an SSH Certificate Authority that runs as a AWS Lambda function
 - [aws-samples/aws-cdk-examples](https://github.com/aws-samples/aws-cdk-examples) - Example projects using the AWS CDK
 - [profusion/sgqlc](https://github.com/profusion/sgqlc) - Simple GraphQL Client
@@ -965,6 +966,7 @@
 
 ## TypeScript 
 
+- [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet) - Markdown as a platform
 - [Escape-Technologies/graphql-armor](https://github.com/Escape-Technologies/graphql-armor) - 🛡️ The missing GraphQL security security layer for Apollo GraphQL and Yoga / Envelop servers 🛡️
 - [openblocks-dev/openblocks](https://github.com/openblocks-dev/openblocks) - 🔥 🔥 🔥 The Open Source Retool Alternative
 - [brokenloop/jsontopydantic](https://github.com/brokenloop/jsontopydantic) - Web tool for generating Pydantic models from JSON objects
