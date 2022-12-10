@@ -102,7 +102,6 @@
 
 ## CSS 
 
-- [wong2/chat-gpt-google-extension](https://github.com/wong2/chat-gpt-google-extension) - A browser extension to display ChatGPT response alongside Google Search results
 - [logseq/logseq-plugin-samples](https://github.com/logseq/logseq-plugin-samples) - Logseq plugin samples for beginner 🌱
 - [HermanMartinus/bearblog](https://github.com/HermanMartinus/bearblog) - Free, no-nonsense, super fast blogging.
 - [jdanielmourao/obsidian-sanctum](https://github.com/jdanielmourao/obsidian-sanctum) - A minimalist theme for Obsidian.md, with the aim of creating a serene space of retreat, for thought and uninterrupted work.
@@ -414,6 +413,7 @@
 
 ## JavaScript 
 
+- [wong2/chat-gpt-google-extension](https://github.com/wong2/chat-gpt-google-extension) - A browser extension to display ChatGPT response alongside Google Search results
 - [leeoniya/uFuzzy](https://github.com/leeoniya/uFuzzy) - A tiny, efficient fuzzy search that doesn't suck
 - [stevenvachon/broken-link-checker](https://github.com/stevenvachon/broken-link-checker) - Find broken links, missing images, etc within your HTML.
 - [usoonees/logseq-plugin-paste-more](https://github.com/usoonees/logseq-plugin-paste-more) - 
@@ -614,7 +614,7 @@
 - [permitio/opal](https://github.com/permitio/opal) - Policy and data administration, distribution, and real-time updates on top of Open Policy Agent
 - [nat-n/poethepoet](https://github.com/nat-n/poethepoet) - A task runner that works well with poetry.
 - [samuelcolvin/python-devtools](https://github.com/samuelcolvin/python-devtools) - Dev tools for python
-- [joweich/chat-miner](https://github.com/joweich/chat-miner) - Turn your chats into artwork
+- [joweich/chat-miner](https://github.com/joweich/chat-miner) - Parsers and visualizations for chats
 - [Anrijs/Aranet4-Python](https://github.com/Anrijs/Aranet4-Python) - Aranet4 Python client
 - [sureshdsk/rich-diff](https://github.com/sureshdsk/rich-diff) - CLI based diff viewer
 - [chidiwilliams/buzz](https://github.com/chidiwilliams/buzz) - Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper.
@@ -825,6 +825,7 @@
 
 ## Rust 
 
+- [osohq/oso](https://github.com/osohq/oso) - Oso is a batteries-included framework for building authorization in your application.
 - [aumetra/tranquility](https://github.com/aumetra/tranquility) - Small ActivityPub server (WIP)
 - [arxanas/git-branchless](https://github.com/arxanas/git-branchless) - High-velocity, monorepo-scale workflow for Git
 - [mit-pdos/noria](https://github.com/mit-pdos/noria) - Fast web applications through dynamic, partially-stateful dataflow
@@ -968,6 +969,9 @@
 
 ## TypeScript 
 
+- [osohq/oso-nest-doc-mgmt](https://github.com/osohq/oso-nest-doc-mgmt) - Document Management with NestJS and oso
+- [osohq/gitclub](https://github.com/osohq/gitclub) - Realistic examples of using Oso in an application for authorization. Built for multiple different backends.
+- [osohq/gitcloud](https://github.com/osohq/gitcloud) - Example application using Oso Cloud
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
 - [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet) - Markdown as a platform
 - [Escape-Technologies/graphql-armor](https://github.com/Escape-Technologies/graphql-armor) - 🛡️ The missing GraphQL security security layer for Apollo GraphQL and Yoga / Envelop servers 🛡️
