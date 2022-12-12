@@ -969,6 +969,7 @@
 
 ## TypeScript 
 
+- [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [osohq/oso-nest-doc-mgmt](https://github.com/osohq/oso-nest-doc-mgmt) - Document Management with NestJS and oso
 - [osohq/gitclub](https://github.com/osohq/gitclub) - Realistic examples of using Oso in an application for authorization. Built for multiple different backends.
 - [osohq/gitcloud](https://github.com/osohq/gitcloud) - Example application using Oso Cloud
