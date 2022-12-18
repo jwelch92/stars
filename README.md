@@ -614,6 +614,7 @@
 
 ## Python 
 
+- [willmcgugan/textual-markdown](https://github.com/willmcgugan/textual-markdown) - 
 - [Miksus/red-bird](https://github.com/Miksus/red-bird) - Repository Patterns for Python
 - [sloria/TextBlob](https://github.com/sloria/TextBlob) - Simple, Pythonic, text processing--Sentiment analysis, part-of-speech tagging, noun phrase extraction, translation, and more.
 - [jwelch92/advent-of-code-2022](https://github.com/jwelch92/advent-of-code-2022) - Advent of Code 2022
