@@ -530,6 +530,7 @@
 
 ## Nix 
 
+- [cachix/devenv](https://github.com/cachix/devenv) - Fast, Declarative, Reproducible, and Composable Developer Environments
 - [nix-community/poetry2nix](https://github.com/nix-community/poetry2nix) - Convert poetry projects to nix automagically [maintainer=@adisbladis]
 - [gvolpe/nix-config](https://github.com/gvolpe/nix-config) - :space_invader: NixOS configuration
 - [noteed/nix-notes](https://github.com/noteed/nix-notes) - A collection of short notes about Nix, each contributing to the same virtual machine image
@@ -842,7 +843,7 @@
 
 ## Rust 
 
-- [cozodb/cozo](https://github.com/cozodb/cozo) - A general-purpose, transactional, relational database that uses Datalog and focuses on graph data and algorithms. And it is performant!
+- [cozodb/cozo](https://github.com/cozodb/cozo) - A transactional, relational database that uses Datalog and focuses on graph data and algorithms. Time-travel-capable, and fast!
 - [osohq/oso](https://github.com/osohq/oso) - Oso is a batteries-included framework for building authorization in your application.
 - [aumetra/tranquility](https://github.com/aumetra/tranquility) - Small ActivityPub server (WIP)
 - [arxanas/git-branchless](https://github.com/arxanas/git-branchless) - High-velocity, monorepo-scale workflow for Git
