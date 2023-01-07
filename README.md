@@ -62,6 +62,7 @@
 
 ## C 
 
+- [jart/blink](https://github.com/jart/blink) - tiniest x86-64-linux emulator
 - [ultrajson/ultrajson](https://github.com/ultrajson/ultrajson) - Ultra fast JSON decoder and encoder written in C with Python bindings
 - [scru128/spec](https://github.com/scru128/spec) - SCRU128 Specification
 - [singlestore-labs/python-wasi](https://github.com/singlestore-labs/python-wasi) - Utilities for building CPython for the WASI platform
