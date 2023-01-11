@@ -65,6 +65,7 @@
 - [jart/blink](https://github.com/jart/blink) - tiniest x86-64-linux emulator
 - [ultrajson/ultrajson](https://github.com/ultrajson/ultrajson) - Ultra fast JSON decoder and encoder written in C with Python bindings
 - [scru128/spec](https://github.com/scru128/spec) - SCRU128 Specification
+- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
 - [singlestore-labs/python-wasi](https://github.com/singlestore-labs/python-wasi) - Utilities for building CPython for the WASI platform
 - [zmkfirmware/zmk](https://github.com/zmkfirmware/zmk) - ZMK Firmware Repository
 - [vial-kb/vibl](https://github.com/vial-kb/vibl) - 
@@ -427,7 +428,7 @@
 
 ## JavaScript 
 
-- [plasma-umass/scalene](https://github.com/plasma-umass/scalene) - Scalene: a high-performance, high-precision CPU, GPU, and memory profiler for Python
+- [plasma-umass/scalene](https://github.com/plasma-umass/scalene) - Scalene: a high-performance, high-precision CPU, GPU, and memory profiler for Python with AI-powered optimization proposals
 - [leeoniya/uFuzzy](https://github.com/leeoniya/uFuzzy) - A tiny, efficient fuzzy search that doesn't suck
 - [stevenvachon/broken-link-checker](https://github.com/stevenvachon/broken-link-checker) - Find broken links, missing images, etc within your HTML.
 - [usoonees/logseq-plugin-paste-more](https://github.com/usoonees/logseq-plugin-paste-more) - 
@@ -624,6 +625,8 @@
 
 ## Python 
 
+- [aio-libs/aiojobs](https://github.com/aio-libs/aiojobs) - Jobs scheduler for managing background task (asyncio)
+- [redis/redis-py](https://github.com/redis/redis-py) - Redis Python Client
 - [terrycain/aioboto3](https://github.com/terrycain/aioboto3) - Wrapper to use boto3 resources with the aiobotocore async backend
 - [robinhood/faust](https://github.com/robinhood/faust) - Python Stream Processing
 - [elanmart/cbp-translate](https://github.com/elanmart/cbp-translate) - 
@@ -877,7 +880,6 @@
 - [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost
 - [zineland/zine](https://github.com/zineland/zine) - Zine - a simple and opinionated tool to build your own magazine.
 - [fermyon/spin](https://github.com/fermyon/spin) - Spin is an open source framework for building and running fast, secure, and composable cloud microservices with WebAssembly
-- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
 - [gitext-rs/git-stack](https://github.com/gitext-rs/git-stack) - Stacked branch management for Git
 - [chiselstrike/chiselstore](https://github.com/chiselstrike/chiselstore) - SQLite + Little Raft = 🚀
 - [sunface/rust-by-practice](https://github.com/sunface/rust-by-practice) - Learning Rust By Practice,  narrowing the gap between beginner and skilled-dev with challenging examples, exercises and projects.
@@ -984,7 +986,7 @@
 ## Swift 
 
 - [simonbs/Runestone](https://github.com/simonbs/Runestone) - 📝 Performant plain text editor for iOS with syntax highlighting, line numbers, invisible characters and much more.
-- [kean/Pulse](https://github.com/kean/Pulse) - Logger and network inspector for Apple platforms
+- [kean/Pulse](https://github.com/kean/Pulse) - Network logger for Apple platforms
 - [rxhanson/Rectangle](https://github.com/rxhanson/Rectangle) - Move and resize windows on macOS with keyboard shortcuts and snap areas
 - [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar
 - [ianyh/Amethyst](https://github.com/ianyh/Amethyst) - Automatic tiling window manager for macOS à la xmonad.
