@@ -118,6 +118,7 @@
 - [jdanielmourao/obsidian-sanctum](https://github.com/jdanielmourao/obsidian-sanctum) - A minimalist theme for Obsidian.md, with the aim of creating a serene space of retreat, for thought and uninterrupted work.
 - [bradtraversy/50projects50days](https://github.com/bradtraversy/50projects50days) - 50+ mini web projects using HTML, CSS & JS
 - [kmaasrud/awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian) - 🕶️ Awesome stuff for Obsidian
+- [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [chatasweetie/earley-cha-wedding](https://github.com/chatasweetie/earley-cha-wedding) - A fun flask app for a wedding website
 
 ## Clojure 
@@ -153,6 +154,7 @@
 
 ## Dockerfile 
 
+- [TylerSustare/pocketbase-framework-litestream](https://github.com/TylerSustare/pocketbase-framework-litestream) - A small example using PocketBase as a Go Framework with replication/restoration of SQLite DB with Litestream
 - [bscott/pocketbase-litestream](https://github.com/bscott/pocketbase-litestream) - Pocketbase with Lightstream
 - [benbjohnson/litestream-s6-example](https://github.com/benbjohnson/litestream-s6-example) - Example repository for building a multi-process Docker container.
 - [appleboy/ssh-action](https://github.com/appleboy/ssh-action) - GitHub Actions for executing remote ssh commands.
@@ -971,7 +973,6 @@
 - [ctron/kill-kube-ns](https://github.com/ctron/kill-kube-ns) - Kill a Kubernetes namespace suffering from being stuck in "Terminating"
 - [tilt-dev/kind-local](https://github.com/tilt-dev/kind-local) - An example of how to set up a local image registry for Tilt+Kind
 - [tektoncd/catalog](https://github.com/tektoncd/catalog) - Catalog of shared Tasks and Pipelines.
-- [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [alexellis/k8s-on-raspbian](https://github.com/alexellis/k8s-on-raspbian) - Kubernetes on Raspbian (Raspberry Pi)
 - [ljfranklin/k8s-pi](https://github.com/ljfranklin/k8s-pi) - A "production-ish" Kubernetes cluster on Raspberry Pi
 - [musl/nr-offsite-mech-keys](https://github.com/musl/nr-offsite-mech-keys) - All the things we need for the NR off-site mech-keys event.
@@ -1002,6 +1003,7 @@
 
 ## TypeScript 
 
+- [ajmnz/prisma-import](https://github.com/ajmnz/prisma-import) - Bringing import statements to Prisma schemas
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [osohq/oso-nest-doc-mgmt](https://github.com/osohq/oso-nest-doc-mgmt) - Document Management with NestJS and oso
 - [osohq/gitclub](https://github.com/osohq/gitclub) - Realistic examples of using Oso in an application for authorization. Built for multiple different backends.
