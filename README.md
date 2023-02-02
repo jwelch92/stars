@@ -96,7 +96,7 @@
 
 ## C++ 
 
-- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 📋 Cut, copy, and paste anything, anywhere, all from the terminal! 😄 The unified clipboard: easy, breezy, and beautiful.
+- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - :rocket: Cut, copy, and paste anything, anywhere, all from the terminal! 😄 The unified clipboard: easy, breezy, and beautiful.
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a free analytics DBMS for big data
 - [zero-functional/zero-functional](https://github.com/zero-functional/zero-functional) - A library providing zero-cost chaining for functional abstractions in Nim.
 - [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
@@ -118,7 +118,6 @@
 - [logseq/logseq-plugin-samples](https://github.com/logseq/logseq-plugin-samples) - Logseq plugin samples for beginner 🌱
 - [HermanMartinus/bearblog](https://github.com/HermanMartinus/bearblog) - Free, no-nonsense, super fast blogging.
 - [jdanielmourao/obsidian-sanctum](https://github.com/jdanielmourao/obsidian-sanctum) - A minimalist theme for Obsidian.md, with the aim of creating a serene space of retreat, for thought and uninterrupted work.
-- [chrisgrieser/shimmering-focus](https://github.com/chrisgrieser/shimmering-focus) - Minimalistic Obsidian Theme for keyboard-centric users.
 - [bradtraversy/50projects50days](https://github.com/bradtraversy/50projects50days) - 50+ mini web projects using HTML, CSS & JS
 - [kmaasrud/awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian) - 🕶️ Awesome stuff for Obsidian
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
@@ -371,7 +370,7 @@
 - [tektoncd/pipeline](https://github.com/tektoncd/pipeline) - A cloud-native Pipeline resource.
 - [sethp-nr/guestbook-workshop](https://github.com/sethp-nr/guestbook-workshop) - A small workshop to serve as an introduction to Kubebuilder
 - [sqshq/sampler](https://github.com/sqshq/sampler) - Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.
-- [testcontainers/testcontainers-go](https://github.com/testcontainers/testcontainers-go) - Testcontainers for Go is a Golang library that provides a friendly API to run Docker containers. It is designed to create a runtime testing environment to use during your automatic tests.
+- [testcontainers/testcontainers-go](https://github.com/testcontainers/testcontainers-go) - Testcontainers for Go is a Go package that makes it simple to create and clean up container-based dependencies for automated integration/smoke tests. The clean, easy-to-use API enables developers to p
 - [roboll/helmfile](https://github.com/roboll/helmfile) - Deploy Kubernetes Helm Charts
 - [cockroachdb/errors](https://github.com/cockroachdb/errors) - Go error library with error portability over the network
 - [h2non/gentleman](https://github.com/h2non/gentleman) - Plugin-driven, extensible HTTP client toolkit for Go
@@ -650,7 +649,7 @@
 - [Miksus/red-bird](https://github.com/Miksus/red-bird) - Repository Patterns for Python
 - [sloria/TextBlob](https://github.com/sloria/TextBlob) - Simple, Pythonic, text processing--Sentiment analysis, part-of-speech tagging, noun phrase extraction, translation, and more.
 - [jwelch92/advent-of-code-2022](https://github.com/jwelch92/advent-of-code-2022) - Advent of Code 2022
-- [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Lightweight package for interacting with ChatGPT's API by OpenAI. Uses reverse engineered official API.
+- [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Real browserless ChatGPT library and command line tool. Using official API
 - [jerryjliu/gpt_index](https://github.com/jerryjliu/gpt_index) - GPT Index is a project consisting of a set of data structures designed to make it easier to use large external knowledge bases with LLMs.
 - [wimglenn/advent-of-code-data](https://github.com/wimglenn/advent-of-code-data) - Get your Advent of Code data with a single import statement
 - [encode/broadcaster](https://github.com/encode/broadcaster) - Broadcast channels for async web apps. 📢
@@ -953,6 +952,7 @@
 
 - [BafS/Gutenberg](https://github.com/BafS/Gutenberg) - Modern framework to print the web correctly.
 - [wong2/chatgpt-google-extension](https://github.com/wong2/chatgpt-google-extension) - A browser extension that enhance search engines with ChatGPT
+- [chrisgrieser/shimmering-focus](https://github.com/chrisgrieser/shimmering-focus) - Minimalistic Obsidian Theme for keyboard-centric users.
 - [just-the-docs/just-the-docs](https://github.com/just-the-docs/just-the-docs) - A modern, high customizable, responsive Jekyll theme for documentation with built-in search.
 - [panr/hugo-theme-terminal](https://github.com/panr/hugo-theme-terminal) - A simple, retro theme for Hugo
 - [arcticicestudio/nord](https://github.com/arcticicestudio/nord) - An arctic, north-bluish color palette.
