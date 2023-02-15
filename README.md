@@ -216,7 +216,7 @@
 - [sigstore/gitsign](https://github.com/sigstore/gitsign) - Keyless Git signing using Sigstore
 - [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
 - [josephspurrier/polarbearblog](https://github.com/josephspurrier/polarbearblog) - Beautifully simple single author blog in Go - derived from Bear Blog.
-- [zinclabs/zinc](https://github.com/zinclabs/zinc) - ZincSearch (Classic). A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
+- [zinclabs/zincsearch](https://github.com/zinclabs/zincsearch) - ZincSearch . A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
 - [urfave/cli](https://github.com/urfave/cli) - A simple, fast, and fun package for building command line apps in Go
 - [RichardKnop/machinery](https://github.com/RichardKnop/machinery) - Machinery is an asynchronous task queue/job queue based on distributed message passing.
 - [shomali11/slacker](https://github.com/shomali11/slacker) - Slack Bot Framework
@@ -1072,7 +1072,7 @@
 - [qw-in/graphql-codegen-pydantic](https://github.com/qw-in/graphql-codegen-pydantic) - Generate pydantic types from any graphql schema
 - [valentine195/obsidian-dice-roller](https://github.com/valentine195/obsidian-dice-roller) - Inline dice rolling for Obsidian.md
 - [Sairyss/domain-driven-hexagon](https://github.com/Sairyss/domain-driven-hexagon) - Learn Domain-Driven Design, software architecture, design patterns, best practices. Code examples included
-- [Saul-Mirone/milkdown](https://github.com/Saul-Mirone/milkdown) - 🍼 Plugin driven WYSIWYG  markdown editor framework.
+- [Milkdown/milkdown](https://github.com/Milkdown/milkdown) - 🍼 Plugin driven WYSIWYG  markdown editor framework.
 - [apollographql/apollo-server](https://github.com/apollographql/apollo-server) - 🌍  Spec-compliant and production ready JavaScript GraphQL server that lets you develop in a schema-first way. Built for Express, Connect, Hapi, Koa, and more.
 - [hasura/hasura-ecommerce](https://github.com/hasura/hasura-ecommerce) - 
 - [deathau/sliding-panes-obsidian](https://github.com/deathau/sliding-panes-obsidian) - Andy Matuschak Mode as a plugin
