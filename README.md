@@ -96,7 +96,7 @@
 
 ## C++ 
 
-- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - :rocket: Cut, copy, and paste anything, anywhere, all from the terminal! 😄 Save time and effort the easy way.
+- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - :rocket: Save time and effort the easy way. Cut, copy, and paste anything, anywhere, all from the terminal! 😄
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a free analytics DBMS for big data
 - [zero-functional/zero-functional](https://github.com/zero-functional/zero-functional) - A library providing zero-cost chaining for functional abstractions in Nim.
 - [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
@@ -1004,7 +1004,7 @@
 
 ## Svelte 
 
-- [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source web IDE, scalable runtime and platform for serverless, workflows and UIs
+- [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to turn scripts into workflows and UIs. Open-source alternative to Airplane and Retool.
 - [illright/attractions](https://github.com/illright/attractions) - A pretty cool UI kit for Svelte
 
 ## Swift 
