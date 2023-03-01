@@ -1022,6 +1022,7 @@
 
 ## TypeScript 
 
+- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted memo hub with knowledge management and social networking.
 - [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure with fully functional embedded notification center
 - [ajmnz/prisma-import](https://github.com/ajmnz/prisma-import) - Bringing import statements to Prisma schemas
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
