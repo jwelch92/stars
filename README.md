@@ -874,6 +874,7 @@
 
 ## Rust 
 
+- [PyO3/pyo3](https://github.com/PyO3/pyo3) - Rust bindings for the Python interpreter
 - [AmbientRun/Ambient](https://github.com/AmbientRun/Ambient) - The multiplayer game engine
 - [AlexAltea/milli-py](https://github.com/AlexAltea/milli-py) - Python bindings for Milli, the embeddable Rust-based search engine powering Meilisearch
 - [jdxcode/rtx](https://github.com/jdxcode/rtx) - Runtime Executor (asdf rust clone)
