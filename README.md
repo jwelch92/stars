@@ -656,7 +656,7 @@
 - [sloria/TextBlob](https://github.com/sloria/TextBlob) - Simple, Pythonic, text processing--Sentiment analysis, part-of-speech tagging, noun phrase extraction, translation, and more.
 - [jwelch92/advent-of-code-2022](https://github.com/jwelch92/advent-of-code-2022) - Advent of Code 2022
 - [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Reverse engineered ChatGPT API
-- [jerryjliu/gpt_index](https://github.com/jerryjliu/gpt_index) - LlamaIndex (GPT Index) is a project that provides a central interface to connect your LLM's with external data.
+- [jerryjliu/llama_index](https://github.com/jerryjliu/llama_index) - LlamaIndex (GPT Index) is a project that provides a central interface to connect your LLM's with external data.
 - [wimglenn/advent-of-code-data](https://github.com/wimglenn/advent-of-code-data) - Get your Advent of Code data with a single import statement
 - [encode/broadcaster](https://github.com/encode/broadcaster) - Broadcast channels for async web apps. 📢
 - [permitio/opal](https://github.com/permitio/opal) - Policy and data administration, distribution, and real-time updates on top of Open Policy Agent
