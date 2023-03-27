@@ -96,7 +96,7 @@
 
 ## C++ 
 
-- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - :rocket: Your external brain that remembers anything, anytime, anywhere. Save time and effort the 𝗲𝗮𝘀𝘆 way! 😄
+- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎 Your external brain that remembers anything, anytime, anywhere. Save time and effort the 𝗲𝗮𝘀𝘆 way! :rocket:
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a free analytics DBMS for big data
 - [zero-functional/zero-functional](https://github.com/zero-functional/zero-functional) - A library providing zero-cost chaining for functional abstractions in Nim.
 - [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
@@ -638,7 +638,7 @@
 
 ## Python 
 
-- [openai/chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin) - 
+- [openai/chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin) - The ChatGPT Retrieval Plugin lets you easily search and find personal or work documents by asking questions in everyday language.
 - [BlinkDL/RWKV-LM](https://github.com/BlinkDL/RWKV-LM) - RWKV is an RNN with transformer-level LLM performance. It can be directly trained like a GPT (parallelizable). So it's combining the best of RNN and transformer - great performance, fast inference, sa
 - [mpaepper/content-chatbot](https://github.com/mpaepper/content-chatbot) - Build a chatbot or Q&A bot of your website's content
 - [npiv/chatblade](https://github.com/npiv/chatblade) - A CLI Swiss Army Knife for ChatGPT
