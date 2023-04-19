@@ -136,7 +136,7 @@
 
 ## CoffeeScript 
 
-- [hubot-scripts/hubot-pager-me](https://github.com/hubot-scripts/hubot-pager-me) - PagerDuty integration for Hubot
+- [hubot-archive/hubot-pager-me](https://github.com/hubot-archive/hubot-pager-me) - PagerDuty integration for Hubot
 
 ## Common Lisp 
 
