@@ -105,7 +105,7 @@
 - [manticoresoftware/manticoresearch](https://github.com/manticoresoftware/manticoresearch) - Easy to use open source fast database for search | Good alternative to Elasticsearch now | Drop-in replacement for E in the ELK soon
 - [banjomasterpete/Teensy-Gurdy](https://github.com/banjomasterpete/Teensy-Gurdy) - Code and design files for building your own hurdy gurdy-inspired, Teensy-powered synthesizer!
 - [scottbez1/smartknob](https://github.com/scottbez1/smartknob) - Haptic input knob with software-defined endstops and virtual detents
-- [typesense/typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
+- [typesense/typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
 - [mscdex/mmmagic](https://github.com/mscdex/mmmagic) - An async libmagic binding for node.js for detecting content types by data inspection
 - [pit-ray/win-vind](https://github.com/pit-ray/win-vind) - You can operate Windows with key bindings like Vim.
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
@@ -641,6 +641,7 @@
 
 ## Python 
 
+- [piercefreeman/gpt-json](https://github.com/piercefreeman/gpt-json) - Structured and typehinted GPT responses in Python
 - [mirumee/ariadne-codegen](https://github.com/mirumee/ariadne-codegen) - Generate fully typed Python client for any GraphQL API from schema, queries and mutations
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: Haystack is an open source NLP framework to interact with your data using Transformer models and LLMs (GPT-4, ChatGPT and alike). Haystack offers production-ready tools to quickly build complex 
 - [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
@@ -653,7 +654,7 @@
 - [m-bain/whisperX](https://github.com/m-bain/whisperX) - WhisperX:  Automatic Speech Recognition with Word-level Timestamps (& Diarization)
 - [samuelcolvin/pytest-pretty](https://github.com/samuelcolvin/pytest-pretty) - pytest plugin for pretty printing the test summary.
 - [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest free open source website change detection, restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monitor which websites ha
-- [brycedrennan/imaginAIry](https://github.com/brycedrennan/imaginAIry) - AI imagined images. Pythonic generation of stable diffusion images.
+- [brycedrennan/imaginAIry](https://github.com/brycedrennan/imaginAIry) - AI imagined images. Pythonic generation of images.
 - [samuelcolvin/aioaws](https://github.com/samuelcolvin/aioaws) - Asyncio compatible SDK for aws services.
 - [aio-libs/aiojobs](https://github.com/aio-libs/aiojobs) - Jobs scheduler for managing background task (asyncio)
 - [redis/redis-py](https://github.com/redis/redis-py) - Redis Python Client
@@ -736,7 +737,7 @@
 - [sansyrox/robyn](https://github.com/sansyrox/robyn) - A High-Performance, Community-Driven, and Innovator Friendly Web Framework with a Rust runtime.
 - [Miserlou/Zappa](https://github.com/Miserlou/Zappa) - Serverless Python
 - [zappa/Zappa](https://github.com/zappa/Zappa) - Serverless Python
-- [reloadware/reloadium](https://github.com/reloadware/reloadium) - Advanced Hot Reloading & Profiling for Python
+- [reloadware/reloadium](https://github.com/reloadware/reloadium) - ChatGPT,​ Hot Reloading and Profiling for Python
 - [plasma-umass/slipcover](https://github.com/plasma-umass/slipcover) - Near Zero-Overhead Python Code Coverage
 - [bloomberg/memray](https://github.com/bloomberg/memray) - Memray is a memory profiler for Python
 - [fpgmaas/cookiecutter-poetry](https://github.com/fpgmaas/cookiecutter-poetry) - A modern cookiecutter template for Python projects that use Poetry for dependency management
