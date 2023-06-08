@@ -692,7 +692,7 @@
 - [litestar-org/litestar](https://github.com/litestar-org/litestar) - Light, Flexible and Extensible ASGI API framework | Effortlessly Build Performant APIs
 - [encode/databases](https://github.com/encode/databases) - Async database support for Python. 🗄
 - [wagtail/wagtail](https://github.com/wagtail/wagtail) - A Django content management system focused on flexibility and user experience
-- [PagerDuty/pdpyras](https://github.com/PagerDuty/pdpyras) - Low-level PagerDuty REST API Client in Python
+- [PagerDuty/pdpyras](https://github.com/PagerDuty/pdpyras) - Low-level PagerDuty REST/Events API client for Python
 - [jordaneremieff/mangum](https://github.com/jordaneremieff/mangum) - AWS Lambda support for ASGI applications
 - [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from thousands of sites
 - [DavidVujic/poetry-multiproject-plugin](https://github.com/DavidVujic/poetry-multiproject-plugin) - A Poetry plugin that makes it simple to share code between projects in monorepos.
