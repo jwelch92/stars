@@ -34,6 +34,7 @@
 - [Kotlin](#kotlin)
 - [Lua](#lua)
 - [M4](#m4)
+- [MDX](#mdx)
 - [Makefile](#makefile)
 - [Nim](#nim)
 - [Nix](#nix)
@@ -548,6 +549,10 @@
 
 - [matejak/argbash](https://github.com/matejak/argbash) - Bash argument parsing code generator
 
+## MDX 
+
+- [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for building client web apps
+
 ## Makefile 
 
 - [stenh0use/docker-machine-for-mac](https://github.com/stenh0use/docker-machine-for-mac) - Docker Machine for Mac - an alternative to Docker for Mac
@@ -653,7 +658,7 @@
 ## Python 
 
 - [iunary/fastapi-template](https://github.com/iunary/fastapi-template) - FastAPI  template
-- [refuel-ai/autolabel](https://github.com/refuel-ai/autolabel) - Label, clean and enrich text datasets with Large Language Models (LLMs)
+- [refuel-ai/autolabel](https://github.com/refuel-ai/autolabel) - Label, clean and enrich text datasets with LLMs. Discord: https://discord.gg/fweVnRx6CU
 - [clovaai/donut](https://github.com/clovaai/donut) - Official Implementation of OCR-free Document Understanding Transformer (Donut) and Synthetic Document Generator (SynthDoG), ECCV 2022
 - [ianarawjo/ChainForge](https://github.com/ianarawjo/ChainForge) - An open-source visual programming environment for battle-testing prompts to LLMs.
 - [smol-ai/developer](https://github.com/smol-ai/developer) - with 100k context windows on the way, it's now feasible for every dev to have their own smol developer
@@ -692,7 +697,7 @@
 - [nat-n/poethepoet](https://github.com/nat-n/poethepoet) - A task runner that works well with poetry.
 - [samuelcolvin/python-devtools](https://github.com/samuelcolvin/python-devtools) - Dev tools for python
 - [joweich/chat-miner](https://github.com/joweich/chat-miner) - Parsers and visualizations for chats
-- [Anrijs/Aranet4-Python](https://github.com/Anrijs/Aranet4-Python) - Aranet4 Python client
+- [Anrijs/Aranet4-Python](https://github.com/Anrijs/Aranet4-Python) - Aranet4 and Aranet2 Python client
 - [sureshdsk/rich-diff](https://github.com/sureshdsk/rich-diff) - CLI based diff viewer
 - [chidiwilliams/buzz](https://github.com/chidiwilliams/buzz) - Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper.
 - [jaraco/inflect](https://github.com/jaraco/inflect) - Correctly generate plurals, ordinals, indefinite articles; convert numbers to words
@@ -959,7 +964,6 @@
 - [tokio-rs/axum](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - React-like GUI library for desktop, web, mobile, TUI, and more.
 - [tkellogg/dura](https://github.com/tkellogg/dura) - You shouldn't ever lose your work if you're using Git
-- [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for building client web apps
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
 - [rayon-rs/rayon](https://github.com/rayon-rs/rayon) - Rayon: A data parallelism library for Rust
 - [LukeMathWalker/build-your-own-jira-with-rust](https://github.com/LukeMathWalker/build-your-own-jira-with-rust) - A test-driven workshop to learn Rust building your own JIRA clone!
