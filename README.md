@@ -1070,6 +1070,7 @@
 
 ## TypeScript 
 
+- [steven-tey/chathn](https://github.com/steven-tey/chathn) - Chat with Hacker News using natural language. Built with OpenAI Functions and Vercel AI SDK.
 - [epicweb-dev/epic-stack](https://github.com/epicweb-dev/epic-stack) - This is a Remix Stack with the foundational things setup and configured for you to hit the ground running on your next EPIC idea.
 - [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
 - [denoland/saaskit](https://github.com/denoland/saaskit) - A modern SaaS template built on Fresh.
