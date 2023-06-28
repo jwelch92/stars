@@ -658,6 +658,7 @@
 
 ## Python 
 
+- [eyurtsev/kor](https://github.com/eyurtsev/kor) - LLM(😽)
 - [iunary/fastapi-template](https://github.com/iunary/fastapi-template) - FastAPI  template
 - [refuel-ai/autolabel](https://github.com/refuel-ai/autolabel) - Label, clean and enrich text datasets with LLMs. Discord: https://discord.gg/fweVnRx6CU
 - [clovaai/donut](https://github.com/clovaai/donut) - Official Implementation of OCR-free Document Understanding Transformer (Donut) and Synthetic Document Generator (SynthDoG), ECCV 2022
