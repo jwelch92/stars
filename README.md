@@ -523,6 +523,7 @@
 
 ## Jupyter Notebook 
 
+- [mshumer/gpt-prompt-engineer](https://github.com/mshumer/gpt-prompt-engineer) - 
 - [microsoft/guidance](https://github.com/microsoft/guidance) - A guidance language for controlling large language models.
 - [1rgs/jsonformer](https://github.com/1rgs/jsonformer) - A Bulletproof Way to Generate Structured JSON from Language Models
 - [cksystemsteaching/selfie](https://github.com/cksystemsteaching/selfie) - An educational software system of a tiny self-compiling C compiler, a tiny self-executing RISC-V emulator, and a tiny self-hosting RISC-V hypervisor.
@@ -657,12 +658,14 @@
 
 ## Python 
 
+- [tobymao/saq](https://github.com/tobymao/saq) - Simple Async Queues
+- [ninoseki/arq-dashboard](https://github.com/ninoseki/arq-dashboard) - A dashboard for ARQ built with FastAPI
 - [ShishirPatil/gorilla](https://github.com/ShishirPatil/gorilla) - Gorilla: An API store for LLMs
 - [eyurtsev/kor](https://github.com/eyurtsev/kor) - LLM(😽)
 - [iunary/fastapi-template](https://github.com/iunary/fastapi-template) - FastAPI  template
 - [refuel-ai/autolabel](https://github.com/refuel-ai/autolabel) - Label, clean and enrich text datasets with LLMs. Discord: https://discord.gg/fweVnRx6CU
 - [clovaai/donut](https://github.com/clovaai/donut) - Official Implementation of OCR-free Document Understanding Transformer (Donut) and Synthetic Document Generator (SynthDoG), ECCV 2022
-- [smol-ai/developer](https://github.com/smol-ai/developer) - with 100k context windows on the way, it's now feasible for every dev to have their own smol developer
+- [smol-ai/developer](https://github.com/smol-ai/developer) - the first library to let you embed a developer agent in your own app!
 - [DivergentAI/dreamGPT](https://github.com/DivergentAI/dreamGPT) - Leverage hallucinations from Large Language Models (LLMs) for novelty-driven explorations.
 - [apetrycki/daikinskyport](https://github.com/apetrycki/daikinskyport) - API for accessing a DaikinOne+ Thermostat
 - [piercefreeman/gpt-json](https://github.com/piercefreeman/gpt-json) - Structured and typehinted GPT responses in Python
@@ -828,7 +831,7 @@
 - [aws-samples/aws-cdk-examples](https://github.com/aws-samples/aws-cdk-examples) - Example projects using the AWS CDK
 - [profusion/sgqlc](https://github.com/profusion/sgqlc) - Simple GraphQL Client
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
-- [knausj85/knausj_talon](https://github.com/knausj85/knausj_talon) - Config for talon for Mac, Windows and Linux. Very much in progress.
+- [talonhub/community](https://github.com/talonhub/community) - Voice command set for Talon, community-maintained.
 - [dictation-toolbox/dragonfly](https://github.com/dictation-toolbox/dragonfly) - Speech recognition framework allowing powerful Python-based scripting and extension of Dragon NaturallySpeaking (DNS), Windows Speech Recognition (WSR), Kaldi and CMU Pocket Sphinx
 - [mailgun/expiringdict](https://github.com/mailgun/expiringdict) - Dictionary with auto-expiring values for caching purposes.
 - [gto76/python-cheatsheet](https://github.com/gto76/python-cheatsheet) - Comprehensive Python Cheatsheet
