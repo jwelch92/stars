@@ -543,7 +543,6 @@
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim config providing solid defaults and a beautiful UI, enhancing your neovim experience.
 - [evantravers/hammerspoon-config](https://github.com/evantravers/hammerspoon-config) - My personal Hammerspoon setup
 - [ashfinal/awesome-hammerspoon](https://github.com/ashfinal/awesome-hammerspoon) - awesome configuration for Hammerspoon.
-- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A community-driven modular vim/neovim distribution - The ultimate vimrc
 - [material-shell/material-awesome](https://github.com/material-shell/material-awesome) - Material and Mouse driven config for AwesomeWM 4.3
 
 ## M4 
@@ -831,7 +830,7 @@
 - [aws-samples/aws-cdk-examples](https://github.com/aws-samples/aws-cdk-examples) - Example projects using the AWS CDK
 - [profusion/sgqlc](https://github.com/profusion/sgqlc) - Simple GraphQL Client
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
-- [talonhub/community](https://github.com/talonhub/community) - Voice command set for Talon, community-maintained.
+- [talonhub/community](https://github.com/talonhub/community) - Voice command set for Talon, community-supported.
 - [dictation-toolbox/dragonfly](https://github.com/dictation-toolbox/dragonfly) - Speech recognition framework allowing powerful Python-based scripting and extension of Dragon NaturallySpeaking (DNS), Windows Speech Recognition (WSR), Kaldi and CMU Pocket Sphinx
 - [mailgun/expiringdict](https://github.com/mailgun/expiringdict) - Dictionary with auto-expiring values for caching purposes.
 - [gto76/python-cheatsheet](https://github.com/gto76/python-cheatsheet) - Comprehensive Python Cheatsheet
@@ -1171,6 +1170,7 @@
 
 ## Vim Script 
 
+- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A community-driven modular vim/neovim distribution - The ultimate vimrc
 - [dstokes/dotfiles](https://github.com/dstokes/dotfiles) - There's no place like $HOME
 
 ## Vue 
