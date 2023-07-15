@@ -669,7 +669,7 @@
 - [apetrycki/daikinskyport](https://github.com/apetrycki/daikinskyport) - API for accessing a DaikinOne+ Thermostat
 - [piercefreeman/gpt-json](https://github.com/piercefreeman/gpt-json) - Structured and typehinted GPT responses in Python
 - [mirumee/ariadne-codegen](https://github.com/mirumee/ariadne-codegen) - Generate fully typed Python client for any GraphQL API from schema, queries and mutations
-- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: Haystack is an open source NLP framework to interact with your data using Transformer models and LLMs (GPT-4, ChatGPT and alike). Haystack offers production-ready tools to quickly build complex 
+- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: Haystack is an open source NLP framework to interact with your data using Transformer models and LLMs (GPT-4, Falcon and alike). Haystack offers production-ready tools to quickly build complex q
 - [DavidVujic/python-polylith](https://github.com/DavidVujic/python-polylith) - Tooling support for the Polylith Architecture in Python.
 - [openai/chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin) - The ChatGPT Retrieval Plugin lets you easily find personal or work documents by asking questions in natural language.
 - [BlinkDL/RWKV-LM](https://github.com/BlinkDL/RWKV-LM) - RWKV is an RNN with transformer-level LLM performance. It can be directly trained like a GPT (parallelizable). So it's combining the best of RNN and transformer - great performance, fast inference, sa
@@ -1112,7 +1112,7 @@
 - [vercel/swr](https://github.com/vercel/swr) - React Hooks for Data Fetching
 - [vlang/vscode-vlang](https://github.com/vlang/vscode-vlang) - V Language extension for Visual Studio Code.
 - [prisma/prisma-examples](https://github.com/prisma/prisma-examples) - 🚀 Ready-to-run Prisma example projects
-- [master-co/css](https://github.com/master-co/css) - A markup-driven CSS language with enhanced syntax and smart rules
+- [master-co/css](https://github.com/master-co/css) - A markup-driven CSS language with smart syntax
 - [BuilderIO/partytown](https://github.com/BuilderIO/partytown) - Relocate resource intensive third-party scripts off of the main thread and into a web worker. 🎉
 - [KATT/envsafe](https://github.com/KATT/envsafe) - 🔒 Makes sure you don't accidentally deploy apps with missing or invalid environment variables.
 - [RoadieHQ/roadie-backstage-plugins](https://github.com/RoadieHQ/roadie-backstage-plugins) - All Backstage plugins created by Roadie.
