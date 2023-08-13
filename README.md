@@ -104,7 +104,7 @@
 
 ## C++ 
 
-- [unum-cloud/usearch](https://github.com/unum-cloud/usearch) - Vector Search engine in a single file - supporting C++ 11, C 99, Python 3, JavaScript, Rust, Java, GoLang, Objective-C, Swift, Wolfram, Docker, and WebAssembly 🔍
+- [unum-cloud/usearch](https://github.com/unum-cloud/usearch) - Fastest search engine in a single file - supporting C++ 11, C 99, Python 3, JavaScript, Rust, Java, GoLang, Objective-C, Swift, Wolfram, on Linux, MacOS, Windows, iOS, Android, Docker, and WebAssembly
 - [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝘳𝘪𝘥𝘰𝘯𝘬𝘶𝘭𝘪𝘤𝘪𝘰𝘶𝘴𝘭𝘺 smart clipboard manager
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a free analytics DBMS for big data
 - [zero-functional/zero-functional](https://github.com/zero-functional/zero-functional) - A library providing zero-cost chaining for functional abstractions in Nim.
@@ -288,7 +288,7 @@
 - [cortesi/devd](https://github.com/cortesi/devd) - A local webserver for developers
 - [cortesi/modd](https://github.com/cortesi/modd) - A flexible developer tool that runs processes and responds to filesystem changes
 - [bcicen/slackcat](https://github.com/bcicen/slackcat) - CLI utility to post files and command output to slack
-- [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, typically on macOS, for running containerd
+- [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines
 - [segmentio/ksuid](https://github.com/segmentio/ksuid) - K-Sortable Globally Unique IDs
 - [segmentio/kubeapply](https://github.com/segmentio/kubeapply) - A lightweight tool for git-based management of Kubernetes configs
 - [nsqio/nsq](https://github.com/nsqio/nsq) - A realtime distributed messaging platform
