@@ -772,7 +772,7 @@
 - [sparckles/robyn](https://github.com/sparckles/robyn) - A High-Performance, Community-Driven, and Innovator Friendly Web Framework with a Rust runtime.
 - [Miserlou/Zappa](https://github.com/Miserlou/Zappa) - Serverless Python
 - [zappa/Zappa](https://github.com/zappa/Zappa) - Serverless Python
-- [reloadware/reloadium](https://github.com/reloadware/reloadium) - ChatGPT,​ Hot Reloading and Profiling for Python
+- [reloadware/reloadium](https://github.com/reloadware/reloadium) - Hot Reloading, Profiling and AI debugging for Python
 - [plasma-umass/slipcover](https://github.com/plasma-umass/slipcover) - Near Zero-Overhead Python Code Coverage
 - [bloomberg/memray](https://github.com/bloomberg/memray) - Memray is a memory profiler for Python
 - [fpgmaas/cookiecutter-poetry](https://github.com/fpgmaas/cookiecutter-poetry) - A modern cookiecutter template for Python projects that use Poetry for dependency management
@@ -931,7 +931,7 @@
 - [PyO3/pyo3](https://github.com/PyO3/pyo3) - Rust bindings for the Python interpreter
 - [AmbientRun/Ambient](https://github.com/AmbientRun/Ambient) - The multiplayer game engine
 - [AlexAltea/milli-py](https://github.com/AlexAltea/milli-py) - Python bindings for Milli, the embeddable Rust-based search engine powering Meilisearch
-- [jdxcode/rtx](https://github.com/jdxcode/rtx) - Runtime Executor (asdf-plugin compatible)
+- [jdx/rtx](https://github.com/jdx/rtx) - Runtime Executor (asdf-plugin compatible)
 - [cozodb/cozo](https://github.com/cozodb/cozo) - A transactional, relational-graph-vector database that uses Datalog for query. The hippocampus for AI!
 - [osohq/oso](https://github.com/osohq/oso) - Oso is a batteries-included framework for building authorization in your application.
 - [aumetra/tranquility](https://github.com/aumetra/tranquility) - [DEPRECATED] Small ActivityPub server
