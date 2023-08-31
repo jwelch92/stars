@@ -12,7 +12,6 @@
 - [C++](#c++)
 - [CSS](#css)
 - [Clojure](#clojure)
-- [CoffeeScript](#coffeescript)
 - [Common Lisp](#common-lisp)
 - [Crystal](#crystal)
 - [Cython](#cython)
@@ -144,10 +143,6 @@
 - [magomimmo/modern-cljs](https://github.com/magomimmo/modern-cljs) - A series of tutorials on ClojureScript
 - [functional-koans/clojure-koans](https://github.com/functional-koans/clojure-koans) - A set of exercises for learning Clojure
 - [tonsky/FiraCode](https://github.com/tonsky/FiraCode) - Free monospaced font with programming ligatures
-
-## CoffeeScript 
-
-- [hubot-archive/hubot-pager-me](https://github.com/hubot-archive/hubot-pager-me) - PagerDuty integration for Hubot
 
 ## Common Lisp 
 
@@ -490,6 +485,7 @@
 - [sindresorhus/p-throttle](https://github.com/sindresorhus/p-throttle) - Throttle promise-returning & async functions
 - [medikoo/memoizee](https://github.com/medikoo/memoizee) - Complete memoize/cache solution for JavaScript
 - [amark/gun](https://github.com/amark/gun) - An open source cybersecurity protocol for syncing decentralized graph data.
+- [hubot-archive/hubot-pager-me](https://github.com/hubot-archive/hubot-pager-me) - PagerDuty integration for Hubot
 - [vercel/ncc](https://github.com/vercel/ncc) - Compile a Node.js project into a single file. Supports TypeScript, binary addons, dynamic requires.
 - [githubocto/repo-visualizer](https://github.com/githubocto/repo-visualizer) - 
 - [monzo/response](https://github.com/monzo/response) - Monzo's real-time incident response and reporting tool ⚡️
