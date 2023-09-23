@@ -197,7 +197,7 @@
 - [Knetic/govaluate](https://github.com/Knetic/govaluate) - Arbitrary expression evaluation for golang
 - [loft-sh/devpod](https://github.com/loft-sh/devpod) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
 - [DarthSim/overmind](https://github.com/DarthSim/overmind) - Process manager for Procfile-based applications and tmux
-- [usememos/memos](https://github.com/usememos/memos) - A privacy-first, lightweight note-taking service. Easily capture and share your great thoughts.
+- [usememos/memos](https://github.com/usememos/memos) - A privacy-first, lightweight note-taking service. Easily capture and share your great thoughts
 - [joerdav/xc](https://github.com/joerdav/xc) - Markdown defined task runner.
 - [ankitpokhrel/jira-cli](https://github.com/ankitpokhrel/jira-cli) - 🔥 Feature-rich interactive Jira command line.
 - [hashicorp-forge/hermes](https://github.com/hashicorp-forge/hermes) - A document management system
@@ -629,7 +629,7 @@
 - [alfred-workflows/awesome-alfred-workflows](https://github.com/alfred-workflows/awesome-alfred-workflows) - A curated list of awesome alfred workflows
 - [stevesea/argocd-helm-app-of-apps-example](https://github.com/stevesea/argocd-helm-app-of-apps-example) - an example of a Helm chart and templates for creating an environment-specific collection of Application/AppProject CRDs
 - [kubevious/kubevious](https://github.com/kubevious/kubevious) - Kubevious - Kubernetes without disasters
-- [bchatard/alfred-jetbrains](https://github.com/bchatard/alfred-jetbrains) - Alfred4 workflow to easily open your projects with your favorite JetBrains product.
+- [bchatard/alfred-jetbrains](https://github.com/bchatard/alfred-jetbrains) - Alfred5 workflow to easily open your projects with your favorite JetBrains product.
 - [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way on Google Cloud Platform. No scripts.
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
