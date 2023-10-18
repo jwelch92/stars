@@ -653,7 +653,7 @@
 
 ## Python 
 
-- [outlines-dev/outlines](https://github.com/outlines-dev/outlines) - Neurosymbolic text generation
+- [outlines-dev/outlines](https://github.com/outlines-dev/outlines) - Neuro Symbolic Text Generation
 - [sybrenjansen/mpire](https://github.com/sybrenjansen/mpire) - A Python package for easy multiprocessing, but faster than multiprocessing
 - [djrobstep/sqlakeyset](https://github.com/djrobstep/sqlakeyset) - offset-free paging for sqlalchemy
 - [skypilot-org/skypilot](https://github.com/skypilot-org/skypilot) - SkyPilot: Run LLMs, AI, and Batch jobs on any cloud. Get maximum savings, highest GPU availability, and managed execution—all with a simple interface.
