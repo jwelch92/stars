@@ -934,7 +934,7 @@
 - [PyO3/maturin](https://github.com/PyO3/maturin) - Build and publish crates with pyo3, rust-cpython and cffi bindings as well as rust binaries as python packages
 - [fereidani/kanal](https://github.com/fereidani/kanal) - The fast sync and async channel that Rust deserves
 - [serenity-rs/serenity](https://github.com/serenity-rs/serenity) - A Rust library for the Discord API.
-- [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter, written in Rust.
+- [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
 - [viperproject/prusti-dev](https://github.com/viperproject/prusti-dev) - A static verifier for Rust, based on the Viper verification infrastructure.
 - [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi) - A tiling window manager for Windows 🇵🇸
 - [sandydoo/flux](https://github.com/sandydoo/flux) - An open-source tribute to the macOS Drift screensaver
