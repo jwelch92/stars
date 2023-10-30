@@ -922,6 +922,7 @@
 
 - [Bestowinc/json-logic-rs](https://github.com/Bestowinc/json-logic-rs) - JSONLogic implementation in Rust, accessible via Python and JS
 - [leptos-rs/leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust.
+- [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
 - [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
 - [PyO3/pyo3](https://github.com/PyO3/pyo3) - Rust bindings for the Python interpreter
 - [AmbientRun/Ambient](https://github.com/AmbientRun/Ambient) - The multiplayer game engine
@@ -1085,7 +1086,6 @@
 - [BloopAI/bloop](https://github.com/BloopAI/bloop) - bloop is a fast code search engine written in Rust.
 - [ianarawjo/ChainForge](https://github.com/ianarawjo/ChainForge) - An open-source visual programming environment for LLM experimentation and prompt evaluation.
 - [epicweb-dev/epic-stack](https://github.com/epicweb-dev/epic-stack) - This is a Full Stack app starter with the foundational things setup and configured for you to hit the ground running on your next EPIC idea.
-- [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
 - [denoland/saaskit](https://github.com/denoland/saaskit) - A modern SaaS template built on Fresh.
 - [hocus-dev/hocus](https://github.com/hocus-dev/hocus) - 🪄 Spin up ready-to-code, disposable dev environments on your own servers. Self-hosted alternative to Gitpod and Github Codespaces.
 - [magicpatterns/mirrorful](https://github.com/magicpatterns/mirrorful) - Mirrorful UI is a free & open-source React component library. Customizable via a no code editor with Mirrorful Cloud.
