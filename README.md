@@ -315,7 +315,7 @@
 - [d4l3k/messagediff](https://github.com/d4l3k/messagediff) - A library for doing diffs of arbitrary Golang structs.
 - [kylelemons/godebug](https://github.com/kylelemons/godebug) - Debugging helper utilities for Go
 - [sourcegraph/go-diff](https://github.com/sourcegraph/go-diff) - Unified diff parser and printer for Go
-- [antonmedv/expr](https://github.com/antonmedv/expr) - Expression language and expression evaluation for Go
+- [expr-lang/expr](https://github.com/expr-lang/expr) - Expression language and expression evaluation for Go
 - [uber-go/goleak](https://github.com/uber-go/goleak) - Goroutine leak detector
 - [darccio/mergo](https://github.com/darccio/mergo) - Mergo: merging Go structs and maps since 2013
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
@@ -399,12 +399,12 @@
 - [telia-oss/terraform-aws-ecs-fargate](https://github.com/telia-oss/terraform-aws-ecs-fargate) - Terraform module which creates Fargate ECS resources on AWS.
 - [trussworks/terraform-aws-ecs-service](https://github.com/trussworks/terraform-aws-ecs-service) - Creates an ECS Service.
 - [terraform-aws-modules/terraform-aws-pricing](https://github.com/terraform-aws-modules/terraform-aws-pricing) - Terraform module which calculates price of AWS infrastructure (from Terraform state and plan) 🇺🇦
-- [terraform-aws-modules/terraform-aws-alb](https://github.com/terraform-aws-modules/terraform-aws-alb) - Terraform module to create an AWS Application/Network Load Balancer (ALB/NLB) and associated resources 🇺🇦
-- [terraform-aws-modules/terraform-aws-security-group](https://github.com/terraform-aws-modules/terraform-aws-security-group) - Terraform module which creates EC2-VPC security groups on AWS 🇺🇦
-- [terraform-aws-modules/terraform-aws-atlantis](https://github.com/terraform-aws-modules/terraform-aws-atlantis) - Terraform configurations for running Atlantis on AWS Fargate 🇺🇦
-- [terraform-aws-modules/terraform-aws-rds](https://github.com/terraform-aws-modules/terraform-aws-rds) - Terraform module which creates RDS resources on AWS 🇺🇦
-- [terraform-aws-modules/terraform-aws-vpc](https://github.com/terraform-aws-modules/terraform-aws-vpc) - Terraform module which creates VPC resources on AWS 🇺🇦
-- [terraform-aws-modules/terraform-aws-eks](https://github.com/terraform-aws-modules/terraform-aws-eks) - Terraform module to create an Elastic Kubernetes (EKS) cluster and associated resources 🇺🇦
+- [terraform-aws-modules/terraform-aws-alb](https://github.com/terraform-aws-modules/terraform-aws-alb) - Terraform module to create AWS Application/Network Load Balancer (ALB/NLB) resources 🇺🇦
+- [terraform-aws-modules/terraform-aws-security-group](https://github.com/terraform-aws-modules/terraform-aws-security-group) - Terraform module to create AWS Security Group resources 🇺🇦
+- [terraform-aws-modules/terraform-aws-atlantis](https://github.com/terraform-aws-modules/terraform-aws-atlantis) - Terraform module to deploy Atlantis on AWS Fargate 🇺🇦
+- [terraform-aws-modules/terraform-aws-rds](https://github.com/terraform-aws-modules/terraform-aws-rds) - Terraform module to create AWS RDS resources 🇺🇦
+- [terraform-aws-modules/terraform-aws-vpc](https://github.com/terraform-aws-modules/terraform-aws-vpc) - Terraform module to create AWS VPC resources 🇺🇦
+- [terraform-aws-modules/terraform-aws-eks](https://github.com/terraform-aws-modules/terraform-aws-eks) - Terraform module to create AWS Elastic Kubernetes (EKS) resources 🇺🇦
 - [FormidableLabs/terraform-aws-serverless](https://github.com/FormidableLabs/terraform-aws-serverless) - Infrastructure support for Serverless framework apps, done the right way
 - [hashicorp/terraform-aws-nomad](https://github.com/hashicorp/terraform-aws-nomad) - A Terraform Module for how to run Nomad on AWS using Terraform and Packer
 - [trussworks/terraform-aws-health-notifications](https://github.com/trussworks/terraform-aws-health-notifications) - Health Notifications
