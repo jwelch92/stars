@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [Astro](#astro)
 - [Batchfile](#batchfile)
 - [C](#c)
 - [C#](#c#)
@@ -56,6 +57,10 @@
 - [Vue](#vue)
 - [WebAssembly](#webassembly)
 - [Zig](#zig)
+
+## Astro 
+
+- [satnaing/astro-paper](https://github.com/satnaing/astro-paper) - A minimal, accessible and SEO-friendly Astro blog theme
 
 ## Batchfile 
 
@@ -694,7 +699,7 @@
 - [m-bain/whisperX](https://github.com/m-bain/whisperX) - WhisperX:  Automatic Speech Recognition with Word-level Timestamps (& Diarization)
 - [samuelcolvin/pytest-pretty](https://github.com/samuelcolvin/pytest-pretty) - pytest plugin for pretty printing the test summary.
 - [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest free open source website change detection, website watcher,  restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monitor
-- [brycedrennan/imaginAIry](https://github.com/brycedrennan/imaginAIry) - AI imagined images. Pythonic generation of images.
+- [brycedrennan/imaginAIry](https://github.com/brycedrennan/imaginAIry) - Pythonic AI generation of images and videos
 - [samuelcolvin/aioaws](https://github.com/samuelcolvin/aioaws) - Asyncio compatible SDK for aws services.
 - [aio-libs/aiojobs](https://github.com/aio-libs/aiojobs) - Jobs scheduler for managing background task (asyncio)
 - [redis/redis-py](https://github.com/redis/redis-py) - Redis Python Client
@@ -1101,7 +1106,6 @@
 - [magicpatterns/mirrorful](https://github.com/magicpatterns/mirrorful) - Mirrorful UI is a free & open-source React component library built by the team at Magic Patterns
 - [novuhq/novu](https://github.com/novuhq/novu) - 🔥 The open-source notification infrastructure with fully functional embedded notification center 🚀🚀🚀
 - [ajmnz/prisma-import](https://github.com/ajmnz/prisma-import) - Bringing import statements to Prisma schemas
-- [satnaing/astro-paper](https://github.com/satnaing/astro-paper) - A minimal, accessible and SEO-friendly Astro blog theme
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [osohq/oso-nest-doc-mgmt](https://github.com/osohq/oso-nest-doc-mgmt) - Document Management with NestJS and oso
 - [osohq/gitclub](https://github.com/osohq/gitclub) - Realistic examples of using Oso in an application for authorization. Built for multiple different backends.
