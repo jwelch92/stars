@@ -943,7 +943,7 @@
 - [PyO3/pyo3](https://github.com/PyO3/pyo3) - Rust bindings for the Python interpreter
 - [AmbientRun/Ambient](https://github.com/AmbientRun/Ambient) - The multiplayer game engine
 - [AlexAltea/milli-py](https://github.com/AlexAltea/milli-py) - Python bindings for Milli, the embeddable Rust-based search engine powering Meilisearch
-- [jdx/rtx](https://github.com/jdx/rtx) - Runtime Executor (asdf-plugin compatible)
+- [jdx/rtx](https://github.com/jdx/rtx) - dev tools, env vars, task runner
 - [cozodb/cozo](https://github.com/cozodb/cozo) - A transactional, relational-graph-vector database that uses Datalog for query. The hippocampus for AI!
 - [osohq/oso](https://github.com/osohq/oso) - Oso is a batteries-included framework for building authorization in your application.
 - [aumetra/tranquility](https://github.com/aumetra/tranquility) - [DEPRECATED] Small ActivityPub server
