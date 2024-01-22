@@ -164,6 +164,7 @@
 
 ## Dockerfile 
 
+- [patte/fly-tailscale-exit](https://github.com/patte/fly-tailscale-exit) - Run a VPN with global exit nodes with fly.io, tailscale and github!
 - [TylerSustare/pocketbase-framework-litestream](https://github.com/TylerSustare/pocketbase-framework-litestream) - A small example using PocketBase as a Go Framework with replication/restoration of SQLite DB with Litestream
 - [bscott/pocketbase-litestream](https://github.com/bscott/pocketbase-litestream) - Pocketbase with Lightstream
 - [benbjohnson/litestream-s6-example](https://github.com/benbjohnson/litestream-s6-example) - Example repository for building a multi-process Docker container.
@@ -1033,7 +1034,6 @@
 ## Shell 
 
 - [tidalcycles/tidal-bootstrap](https://github.com/tidalcycles/tidal-bootstrap) - Quick installation of TidalCycles programming environment
-- [patte/fly-tailscale-exit](https://github.com/patte/fly-tailscale-exit) - Run a VPN with global exit nodes with fly.io, tailscale and github!
 - [sainnhe/tmux-fzf](https://github.com/sainnhe/tmux-fzf) - Use fzf to manage your tmux work environment!
 - [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
 - [ianthehenry/sd](https://github.com/ianthehenry/sd) - a cozy nest for your scripts
