@@ -935,6 +935,7 @@
 
 ## Rust 
 
+- [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package installer and resolver, written in Rust.
 - [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
 - [Bestowinc/json-logic-rs](https://github.com/Bestowinc/json-logic-rs) - JSONLogic implementation in Rust, accessible via Python and JS
 - [leptos-rs/leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust.
