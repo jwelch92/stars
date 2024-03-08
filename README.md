@@ -903,7 +903,7 @@
 - [argoproj-labs/gordian](https://github.com/argoproj-labs/gordian) - Gordian applies transformations to files across multiple github repositories and creates pull requests for the owners of the repositories to review and merge them.
 - [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot
 - [scoder/acora](https://github.com/scoder/acora) - Fast multi-keyword search engine for text strings
-- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - The platform for building custom AI, enabling smarter organizations.
+- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - The platform for customizing AI from enterprise data
 - [mingrammer/diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures
 - [i-tu/Hasklig](https://github.com/i-tu/Hasklig) - Hasklig - a code font with monospaced ligatures
 - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
