@@ -104,7 +104,6 @@
 
 ## C++ 
 
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 2, Mistral, Gemma, and other large language models.
 - [Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile) - Distribute and run LLMs with a single file.
 - [unum-cloud/usearch](https://github.com/unum-cloud/usearch) - Fast Open-Source Search & Clustering engine × for Vectors & 🔜 Strings × in C++, C, Python, JavaScript, Rust, Java, Objective-C, Swift, C#, GoLang, and Wolfram 🔍
 - [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝙧𝙞𝙙𝙤𝙣𝙠𝙪𝙡𝙞𝙘𝙞𝙤𝙪𝙨𝙡𝙮 smart clipboard manager
@@ -198,6 +197,7 @@
 
 ## Go 
 
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 2, Mistral, Gemma, and other large language models.
 - [riverqueue/river](https://github.com/riverqueue/river) - Fast and reliable background jobs in Go
 - [uber-go/nilaway](https://github.com/uber-go/nilaway) - Static Analysis tool to detect potential Nil panics in Go code
 - [samber/do](https://github.com/samber/do) - ⚙️  A dependency injection toolkit based on Go 1.18+ Generics.
