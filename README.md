@@ -666,6 +666,7 @@
 
 ## Python 
 
+- [pydantic/logfire](https://github.com/pydantic/logfire) - Uncomplicated Observability for Python and beyond! 🪵🔥
 - [antonko/arq-ui](https://github.com/antonko/arq-ui) - Simple interface for monitoring jobs executed using the arq library
 - [litestar-org/litestar-fullstack](https://github.com/litestar-org/litestar-fullstack) - Litestar Fullstack Reference Application with React, Vite, SQLAlchemy, Docker, Task Queues, and more!
 - [ehennenfent/live_illustrate](https://github.com/ehennenfent/live_illustrate) - Live-ish illustration for TTRPG campaigns
