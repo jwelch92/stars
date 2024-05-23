@@ -766,7 +766,7 @@
 - [jina-ai/dalle-flow](https://github.com/jina-ai/dalle-flow) - 🌊 A Human-in-the-Loop workflow for creating HD images from text
 - [aio-libs/janus](https://github.com/aio-libs/janus) - Thread-safe asyncio-aware queue for Python
 - [eerimoq/gqt](https://github.com/eerimoq/gqt) - Build and execute GraphQL queries in the terminal.
-- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
+- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
 - [thrau/pymq](https://github.com/thrau/pymq) - A simple message-oriented middleware library built for Python IPC across machine boundaries
 - [antiboredom/audiogrep](https://github.com/antiboredom/audiogrep) - Creates audio supercuts.
 - [antiboredom/vidpy](https://github.com/antiboredom/vidpy) - video editing and compositing with python and melt
@@ -1083,7 +1083,6 @@
 
 - [michael/editable-website](https://github.com/michael/editable-website) - A SvelteKit template for building CMS-free editable websites
 - [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to turn scripts into workflows and UIs. Fastest workflow engine (5x vs Airflow). Open-source alternative to Airplane and Retool.
-- [Budibase/budibase](https://github.com/Budibase/budibase) - Low code platform for building business apps and workflows in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀
 - [illright/attractions](https://github.com/illright/attractions) - A pretty cool UI kit for Svelte
 
 ## Swift 
@@ -1150,7 +1149,7 @@
 - [BuilderIO/partytown](https://github.com/BuilderIO/partytown) - Relocate resource intensive third-party scripts off of the main thread and into a web worker. 🎉
 - [KATT/envsafe](https://github.com/KATT/envsafe) - 🔒 Makes sure you don't accidentally deploy apps with missing or invalid environment variables.
 - [RoadieHQ/roadie-backstage-plugins](https://github.com/RoadieHQ/roadie-backstage-plugins) - All Backstage plugins created by Roadie.
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
 - [hasura/graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.
 - [planetscale/beam](https://github.com/planetscale/beam) - A simple message board for your organization or project
 - [vercel/tracing-js](https://github.com/vercel/tracing-js) - An implementation of Opentracing API for honeycomb.io
@@ -1164,6 +1163,7 @@
 - [multiprocessio/datastation](https://github.com/multiprocessio/datastation) - App to easily query, script, and visualize data from every database, file, and API.
 - [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative.
+- [Budibase/budibase](https://github.com/Budibase/budibase) - Low code platform for building business apps and workflows in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀
 - [zenozeng/color-hash](https://github.com/zenozeng/color-hash) - Generate color based on the given string (using HSL color space and SHA256).
 - [jitsucom/jitsu](https://github.com/jitsucom/jitsu) - Jitsu is an open-source Segment alternative. Fully-scriptable data ingestion engine for modern data teams. Set-up a real-time data pipeline in minutes, not days
 - [open-telemetry/opentelemetry-js](https://github.com/open-telemetry/opentelemetry-js) - OpenTelemetry JavaScript Client
