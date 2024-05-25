@@ -705,7 +705,7 @@
 - [samuelcolvin/aioaws](https://github.com/samuelcolvin/aioaws) - Asyncio compatible SDK for aws services.
 - [aio-libs/aiojobs](https://github.com/aio-libs/aiojobs) - Jobs scheduler for managing background task (asyncio)
 - [redis/redis-py](https://github.com/redis/redis-py) - Redis Python client
-- [terrycain/aioboto3](https://github.com/terrycain/aioboto3) - Wrapper to use boto3 resources with the aiobotocore async backend
+- [terricain/aioboto3](https://github.com/terricain/aioboto3) - Wrapper to use boto3 resources with the aiobotocore async backend
 - [robinhood/faust](https://github.com/robinhood/faust) - Python Stream Processing
 - [elanmart/cbp-translate](https://github.com/elanmart/cbp-translate) - 
 - [pyodide/pyodide](https://github.com/pyodide/pyodide) - Pyodide is a Python distribution for the browser and Node.js based on WebAssembly
