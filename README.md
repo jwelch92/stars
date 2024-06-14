@@ -411,7 +411,7 @@
 - [terraform-aws-modules/terraform-aws-atlantis](https://github.com/terraform-aws-modules/terraform-aws-atlantis) - Terraform module to deploy Atlantis on AWS Fargate 🇺🇦
 - [terraform-aws-modules/terraform-aws-rds](https://github.com/terraform-aws-modules/terraform-aws-rds) - Terraform module to create AWS RDS resources 🇺🇦
 - [terraform-aws-modules/terraform-aws-vpc](https://github.com/terraform-aws-modules/terraform-aws-vpc) - Terraform module to create AWS VPC resources 🇺🇦
-- [terraform-aws-modules/terraform-aws-eks](https://github.com/terraform-aws-modules/terraform-aws-eks) - Terraform module to create AWS Elastic Kubernetes (EKS) resources 🇺🇦
+- [terraform-aws-modules/terraform-aws-eks](https://github.com/terraform-aws-modules/terraform-aws-eks) - Terraform module to create Amazon Elastic Kubernetes (EKS) resources 🇺🇦
 - [FormidableLabs/terraform-aws-serverless](https://github.com/FormidableLabs/terraform-aws-serverless) - Infrastructure support for Serverless framework apps, done the right way
 - [hashicorp/terraform-aws-nomad](https://github.com/hashicorp/terraform-aws-nomad) - A Terraform Module for how to run Nomad on AWS using Terraform and Packer
 - [trussworks/terraform-aws-health-notifications](https://github.com/trussworks/terraform-aws-health-notifications) - Health Notifications
@@ -856,7 +856,7 @@
 - [dictation-toolbox/dragonfly](https://github.com/dictation-toolbox/dragonfly) - Speech recognition framework allowing powerful Python-based scripting and extension of Dragon NaturallySpeaking (DNS), Windows Speech Recognition (WSR), Kaldi and CMU Pocket Sphinx
 - [mailgun/expiringdict](https://github.com/mailgun/expiringdict) - Dictionary with auto-expiring values for caching purposes.
 - [gto76/python-cheatsheet](https://github.com/gto76/python-cheatsheet) - Comprehensive Python Cheatsheet
-- [glut23/webvtt-py](https://github.com/glut23/webvtt-py) - Read, write and segment WebVTT caption files in Python.
+- [glut23/webvtt-py](https://github.com/glut23/webvtt-py) - Read, write, convert and segment WebVTT caption files in Python.
 - [jonaswinkler/paperless-ng](https://github.com/jonaswinkler/paperless-ng) - A supercharged version of paperless: scan, index and archive all your physical documents
 - [piku/piku](https://github.com/piku/piku) - The tiniest PaaS you've ever seen. Piku allows you to do git push deployments to your own servers.
 - [OpenBB-finance/OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal) - Investment Research for Everyone, Everywhere.
