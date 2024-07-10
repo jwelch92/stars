@@ -860,7 +860,7 @@
 - [glut23/webvtt-py](https://github.com/glut23/webvtt-py) - Read, write, convert and segment WebVTT caption files in Python.
 - [jonaswinkler/paperless-ng](https://github.com/jonaswinkler/paperless-ng) - A supercharged version of paperless: scan, index and archive all your physical documents
 - [piku/piku](https://github.com/piku/piku) - The tiniest PaaS you've ever seen. Piku allows you to do git push deployments to your own servers.
-- [OpenBB-finance/OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal) - Investment Research for Everyone, Everywhere.
+- [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Investment Research for Everyone, Everywhere.
 - [graphql-python/graphene](https://github.com/graphql-python/graphene) - GraphQL framework for Python
 - [mirumee/ariadne](https://github.com/mirumee/ariadne) - Python library for implementing GraphQL servers using schema-first approach.
 - [securing/DumpsterDiver](https://github.com/securing/DumpsterDiver) - Tool to search secrets in various filetypes.
