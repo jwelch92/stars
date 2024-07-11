@@ -937,6 +937,7 @@
 
 ## Rust 
 
+- [KyleChamberlin/funky](https://github.com/KyleChamberlin/funky) - Funky is a tool for making shell functions from your command history.
 - [davidB/tracing-opentelemetry-instrumentation-sdk](https://github.com/davidB/tracing-opentelemetry-instrumentation-sdk) - Middlewares and tools to integrate axum + tracing + opentelemetry
 - [loco-rs/loco](https://github.com/loco-rs/loco) - 🚂 🦀 The one-person framework for Rust for side-projects and startups
 - [emmett-framework/granian](https://github.com/emmett-framework/granian) - A Rust HTTP server for Python applications
