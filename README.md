@@ -915,7 +915,7 @@
 - [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - The platform for building AI from enterprise data
 - [mingrammer/diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures
 - [i-tu/Hasklig](https://github.com/i-tu/Hasklig) - Hasklig - a code font with monospaced ligatures
-- [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
+- [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [jonnyhyman/Chaos](https://github.com/jonnyhyman/Chaos) - Visualizations of the connections between chaos theory and fractals through the logistic map; made for Veritasium YouTube video
 - [lucashadfield/speck](https://github.com/lucashadfield/speck) - line art image renderer
 - [pindexis/marker](https://github.com/pindexis/marker) - The terminal command palette
