@@ -688,7 +688,7 @@
 - [Forethought-Technologies/AutoChain](https://github.com/Forethought-Technologies/AutoChain) - AutoChain: Build lightweight, extensible, and testable LLM Agents
 - [tobymao/saq](https://github.com/tobymao/saq) - Simple Async Queues
 - [ninoseki/arq-dashboard](https://github.com/ninoseki/arq-dashboard) - A dashboard for ARQ built with FastAPI
-- [ShishirPatil/gorilla](https://github.com/ShishirPatil/gorilla) - Gorilla: An API store for LLMs
+- [ShishirPatil/gorilla](https://github.com/ShishirPatil/gorilla) - Gorilla: Training and Evaluating LLMs for Function Calls (Tool Calls)
 - [eyurtsev/kor](https://github.com/eyurtsev/kor) - LLM(😽)
 - [iunary/fastapi-template](https://github.com/iunary/fastapi-template) - FastAPI  template
 - [refuel-ai/autolabel](https://github.com/refuel-ai/autolabel) - Label, clean and enrich text datasets with LLMs.
