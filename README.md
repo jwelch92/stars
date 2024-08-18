@@ -474,7 +474,6 @@
 - [markdoc/next.js](https://github.com/markdoc/next.js) - Markdoc plugin for Next.js
 - [carboneio/carbone](https://github.com/carboneio/carbone) - Fast and simple report generator, from JSON to pdf, xslx, docx, odt...
 - [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
-- [ether/etherpad-lite](https://github.com/ether/etherpad-lite) - Etherpad: A modern really-real-time collaborative document editor.
 - [jessitron/otel-nodejs](https://github.com/jessitron/otel-nodejs) - Fibonacci Microservice in node
 - [yjs/yjs](https://github.com/yjs/yjs) - Shared data types for building collaborative software
 - [auth0/express-openid-connect](https://github.com/auth0/express-openid-connect) - An Express.js middleware to protect OpenID Connect web applications.
@@ -1148,6 +1147,7 @@
 - [Qwyntex/doubleshift](https://github.com/Qwyntex/doubleshift) - Obsidian Plugin to open the command palette by pressing shift twice
 - [google/wireit](https://github.com/google/wireit) - Wireit upgrades your npm/pnpm/yarn scripts to make them smarter and more efficient.
 - [Precise-Finance/opentelemetry-instrumentation-prisma](https://github.com/Precise-Finance/opentelemetry-instrumentation-prisma) - Opentelemetry instrumentation plugin for Prisma ORM
+- [ether/etherpad-lite](https://github.com/ether/etherpad-lite) - Etherpad: A modern really-real-time collaborative document editor.
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [redwoodjs/redwood](https://github.com/redwoodjs/redwood) - The App Framework for Startups
 - [vercel/swr](https://github.com/vercel/swr) - React Hooks for Data Fetching
