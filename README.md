@@ -837,7 +837,7 @@
 - [PeterL1n/RobustVideoMatting](https://github.com/PeterL1n/RobustVideoMatting) - Robust Video Matting in PyTorch, TensorFlow, TensorFlow.js, ONNX, CoreML!
 - [nolar/kopf](https://github.com/nolar/kopf) - A Python framework to write Kubernetes operators in just a few lines of code
 - [kvesteri/sqlalchemy-continuum](https://github.com/kvesteri/sqlalchemy-continuum) - Versioning extension for SQLAlchemy.
-- [Netflix/metaflow](https://github.com/Netflix/metaflow) - :rocket: Build and manage real-life ML, AI, and data science projects with ease!
+- [Netflix/metaflow](https://github.com/Netflix/metaflow) - Open Source Platform for developing, scaling and deploying serious ML, AI, and data science systems
 - [spulec/freezegun](https://github.com/spulec/freezegun) - Let your Python tests travel through time
 - [joanvila/aioredlock](https://github.com/joanvila/aioredlock) - :lock: The asyncio implemetation of Redis distributed locks
 - [brainix/pottery](https://github.com/brainix/pottery) - Redis for humans. 🌎🌍🌏
