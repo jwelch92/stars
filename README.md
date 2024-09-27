@@ -209,7 +209,7 @@
 - [Knetic/govaluate](https://github.com/Knetic/govaluate) - Arbitrary expression evaluation for golang
 - [loft-sh/devpod](https://github.com/loft-sh/devpod) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
 - [DarthSim/overmind](https://github.com/DarthSim/overmind) - Process manager for Procfile-based applications and tmux
-- [usememos/memos](https://github.com/usememos/memos) - An open source, lightweight note-taking solution. The pain-less way to create your meaningful notes.
+- [usememos/memos](https://github.com/usememos/memos) - An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes.
 - [joerdav/xc](https://github.com/joerdav/xc) - Markdown defined task runner.
 - [ankitpokhrel/jira-cli](https://github.com/ankitpokhrel/jira-cli) - 🔥 Feature-rich interactive Jira command line.
 - [rs/xid](https://github.com/rs/xid) - xid is a globally unique id generator thought for the web
@@ -960,7 +960,7 @@
 - [AlexAltea/milli-py](https://github.com/AlexAltea/milli-py) - Python bindings for Milli, the embeddable Rust-based search engine powering Meilisearch
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 - [cozodb/cozo](https://github.com/cozodb/cozo) - A transactional, relational-graph-vector database that uses Datalog for query. The hippocampus for AI!
-- [osohq/oso](https://github.com/osohq/oso) - Oso is a batteries-included framework for building authorization in your application.
+- [osohq/oso](https://github.com/osohq/oso) - Deprecated: See README
 - [aumetra/tranquility](https://github.com/aumetra/tranquility) - [DEPRECATED] Small ActivityPub server
 - [arxanas/git-branchless](https://github.com/arxanas/git-branchless) - High-velocity, monorepo-scale workflow for Git
 - [mit-pdos/noria](https://github.com/mit-pdos/noria) - Fast web applications through dynamic, partially-stateful dataflow
