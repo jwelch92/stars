@@ -93,7 +93,7 @@
 - [oskardudycz/EventSourcing.NetCore](https://github.com/oskardudycz/EventSourcing.NetCore) - Examples and Tutorials of Event Sourcing in .NET
 - [TheAxelander/OpenBudgeteer](https://github.com/TheAxelander/OpenBudgeteer) - OpenBudgeteer is a budgeting app based on the Bucket Budgeting Principle
 - [duplicati/duplicati](https://github.com/duplicati/duplicati) - Store securely encrypted backups in the cloud!
-- [files-community/Files](https://github.com/files-community/Files) - Building the best file manager for Windows
+- [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
 - [File-New-Project/EarTrumpet](https://github.com/File-New-Project/EarTrumpet) - EarTrumpet - Volume Control for Windows
 - [valheimPlus/ValheimPlus](https://github.com/valheimPlus/ValheimPlus) - A HarmonyX Mod aimed at improving the gameplay and quality of life of the game Valheim.
 - [pardeike/Harmony](https://github.com/pardeike/Harmony) - A library for patching, replacing and decorating .NET and Mono methods during runtime
@@ -500,7 +500,6 @@
 - [mr-smithers-excellent/docker-build-push](https://github.com/mr-smithers-excellent/docker-build-push) - Docker Build & Push GitHub Action
 - [osk/node-webvtt](https://github.com/osk/node-webvtt) - Parse WebVTT files, segments and generates HLS playlists for them
 - [jackellenberger/emojme](https://github.com/jackellenberger/emojme) - :rotating_light: very powerful very stupid Slack emoji tools, holy cow! :rotating_light:
-- [panva/openid-client](https://github.com/panva/openid-client) - High-Level OAuth 2 / OpenID Connect Client API for JavaScript Runtimes
 - [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
 - [overleaf/overleaf](https://github.com/overleaf/overleaf) - A web-based collaborative LaTeX editor
 - [preactjs/preact](https://github.com/preactjs/preact) - ⚛️ Fast 3kB React alternative with the same modern API. Components & Virtual DOM.
@@ -1192,6 +1191,7 @@
 - [vitling/acid-banger](https://github.com/vitling/acid-banger) - The Endless Acid Banger
 - [aws-actions/configure-aws-credentials](https://github.com/aws-actions/configure-aws-credentials) - Configure AWS credential environment variables for use in other GitHub Actions.
 - [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
+- [panva/openid-client](https://github.com/panva/openid-client) - High-Level OAuth 2 / OpenID Connect Client API for JavaScript Runtimes
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) - Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
 - [wulkano/Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
