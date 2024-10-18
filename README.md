@@ -777,7 +777,7 @@
 - [cameronmaske/celery-once](https://github.com/cameronmaske/celery-once) - Celery Once allows you to prevent multiple execution and queuing of celery tasks.
 - [sibson/redbeat](https://github.com/sibson/redbeat) - RedBeat is a Celery Beat Scheduler that stores the scheduled tasks and runtime metadata in Redis.
 - [ovh/celery-director](https://github.com/ovh/celery-director) - Simple and rapid framework to build workflows with Celery
-- [pyscript/pyscript](https://github.com/pyscript/pyscript) - Try PyScript: https://pyscript.com  Examples: https://tinyurl.com/pyscript-examples  Community: https://discord.gg/HxvBtukrg2
+- [pyscript/pyscript](https://github.com/pyscript/pyscript) - PyScript is an open source platform for Python in the browser. Try PyScript: https://pyscript.com  Examples: https://tinyurl.com/pyscript-examples  Community: https://discord.gg/HxvBtukrg2
 - [auth0/auth0-python](https://github.com/auth0/auth0-python) - Auth0 SDK for Python
 - [trentm/python-markdown2](https://github.com/trentm/python-markdown2) - markdown2: A fast and complete implementation of Markdown in Python
 - [sissbruecker/linkding](https://github.com/sissbruecker/linkding) - Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker.
