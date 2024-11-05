@@ -937,6 +937,7 @@
 
 ## Rust 
 
+- [elijah-potter/harper](https://github.com/elijah-potter/harper) - The Grammar Checker for Developers
 - [sebglazebrook/aliases](https://github.com/sebglazebrook/aliases) - Contextual, dynamic aliases for the bash shell
 - [KyleChamberlin/funky](https://github.com/KyleChamberlin/funky) - Funky is a tool for making shell functions from your command history.
 - [davidB/tracing-opentelemetry-instrumentation-sdk](https://github.com/davidB/tracing-opentelemetry-instrumentation-sdk) - Middlewares and tools to integrate axum + tracing + opentelemetry
