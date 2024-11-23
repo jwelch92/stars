@@ -574,7 +574,7 @@
 ## Nix 
 
 - [cachix/devenv](https://github.com/cachix/devenv) - Fast, Declarative, Reproducible, and Composable Developer Environments
-- [nix-community/poetry2nix](https://github.com/nix-community/poetry2nix) - Convert poetry projects to nix automagically [maintainer=@adisbladis,@cpcloud]
+- [nix-community/poetry2nix](https://github.com/nix-community/poetry2nix) - Convert poetry projects to nix automagically [maintainer=]
 - [gvolpe/nix-config](https://github.com/gvolpe/nix-config) - :space_invader: NixOS configuration
 - [noteed/nix-notes](https://github.com/noteed/nix-notes) - A collection of short notes about Nix, each contributing to the same virtual machine image
 - [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@rycee]
@@ -666,6 +666,7 @@
 
 ## Python 
 
+- [zlangbert/ha-daikinone](https://github.com/zlangbert/ha-daikinone) - Home Assistant integration for Daikin One HVAC systems and thermostats
 - [kaixxx/noScribe](https://github.com/kaixxx/noScribe) - Cutting edge AI technology for automated audio transcription. A nice GUI for OpenAIs Whisper and pyannote (speaker identification)
 - [transcriptionstream/transcriptionstream](https://github.com/transcriptionstream/transcriptionstream) - turnkey self-hosted offline transcription and diarization service with llm summary
 - [pydantic/logfire](https://github.com/pydantic/logfire) - Uncomplicated Observability for Python and beyond! 🪵🔥
@@ -1086,7 +1087,7 @@
 ## Svelte 
 
 - [michael/editable-website](https://github.com/michael/editable-website) - A SvelteKit template for building CMS-free editable websites
-- [illright/attractions](https://github.com/illright/attractions) - A pretty cool UI kit for Svelte
+- [illright/attractions](https://github.com/illright/attractions) - [DEPRECATED, see readme] A pretty cool UI kit for Svelte
 
 ## Swift 
 
