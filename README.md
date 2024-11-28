@@ -667,6 +667,7 @@
 
 ## Python 
 
+- [volfpeter/htmy](https://github.com/volfpeter/htmy) - Async, pure-Python rendering engine.
 - [zlangbert/ha-daikinone](https://github.com/zlangbert/ha-daikinone) - Home Assistant integration for Daikin One HVAC systems and thermostats
 - [kaixxx/noScribe](https://github.com/kaixxx/noScribe) - Cutting edge AI technology for automated audio transcription. A nice GUI for OpenAIs Whisper and pyannote (speaker identification)
 - [transcriptionstream/transcriptionstream](https://github.com/transcriptionstream/transcriptionstream) - turnkey self-hosted offline transcription and diarization service with llm summary
