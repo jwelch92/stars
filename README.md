@@ -1218,7 +1218,7 @@
 
 ## Vim Script 
 
-- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A modular Vim/Neovim configuration
+- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A modular configuration of Vim and Neovim
 - [dstokes/dotfiles](https://github.com/dstokes/dotfiles) - There's no place like $HOME
 
 ## Vue 
