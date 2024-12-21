@@ -268,7 +268,7 @@
 - [honeycombio/refinery](https://github.com/honeycombio/refinery) - Refinery is a trace-aware tail-based sampling proxy. It examines whole traces and intelligently applies sampling decisions (whether to keep or discard) to each trace.
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦
 - [earthly/earthly](https://github.com/earthly/earthly) - Super simple build framework with fast, repeatable builds and an instantly familiar syntax – like Dockerfile and Makefile had a baby.
-- [ory/kratos](https://github.com/ory/kratos) - The most scalable and customizable identity server on the market. Replace your Homegrown, Auth0, Okta, Firebase with better UX and DX. Has all the tablestakes: Passkeys, Social Sign In, Multi-Factor A
+- [ory/kratos](https://github.com/ory/kratos) - Headless cloud-native authentication and identity management. Scales to a billion+ users. Replace Homegrown, Auth0, Okta, Firebase with better UX and DX. Passkeys, Social Sign In, OIDC, Magic Link, Mu
 - [tailscale/terraform-provider-tailscale](https://github.com/tailscale/terraform-provider-tailscale) - Terraform provider for Tailscale
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines
 - [temporalio/temporal](https://github.com/temporalio/temporal) - Temporal service
